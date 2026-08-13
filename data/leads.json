@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "colibri-wedding",
+    "name": "Colibri Wedding Place",
+    "phone": "0877 203 010",
+    "address": "Околовръстен път, на 2 км от кв. Коматево, Пловдив",
+    "website": "NONE",
+    "signals": [
+      "facebook-only"
+    ],
+    "score": 82,
+    "why": "Няма собствен сайт, само Facebook; премиум зала за 230 гости",
+    "demo": "sites/colibri-wedding/",
+    "shot": "shots/colibri-wedding.png",
+    "has_photos": false,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "restorant-ruzh",
+    "name": "Сватбен ресторант Руж",
+    "phone": "0898 940 490",
+    "address": "ул. Брезовско шосе 147, Пловдив",
+    "website": "NONE",
+    "signals": [
+      "directory-listing-only"
+    ],
+    "score": 78,
+    "why": "Без собствен сайт, само обява в weddingday.bg; изцяло сватбен профил",
+    "demo": "sites/restorant-ruzh/",
+    "shot": "shots/restorant-ruzh.png",
+    "has_photos": false,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "kompleks-diana",
+    "name": "Комплекс Диана",
+    "phone": "0888 767807",
+    "address": "село Червен, община Асеновград",
+    "website": "https://komplex-diana.com",
+    "signals": [
+      "dated-builder-look",
+      "static-htm-pages",
+      "no-mobile"
+    ],
+    "score": 76,
+    "why": "Сайт от старо поколение (.htm страници); градина за 140 гости",
+    "demo": "sites/kompleks-diana/",
+    "shot": "shots/kompleks-diana.png",
+    "has_photos": true,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "malak-bunardzhik",
+    "name": "Малкия Бунарджик",
+    "phone": "0878 711 777",
+    "address": "парк „Бунарджик“, ул. Волга 1А, Пловдив",
+    "website": "https://www.ujen-polah.com/restaurants/",
+    "signals": [
+      "no-own-site",
+      "page-in-group-site"
+    ],
+    "score": 74,
+    "why": "Няма собствен сайт, само страница в сайта на групата; топ локация в парка",
+    "demo": "sites/malak-bunardzhik/",
+    "shot": "shots/malak-bunardzhik.png",
+    "has_photos": false,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "esterra-vini",
+    "name": "Естера Вини",
+    "phone": "0884 675 777",
+    "address": "местност Пастуша, гр. Перущица",
+    "website": "https://esterra.anita.bg",
+    "signals": [
+      "subdomain-of-other-brand",
+      "shared-email"
+    ],
+    "score": 72,
+    "why": "Сайтът е подстраница на къщата за гости Anita; собствен имейл липсва",
+    "demo": "sites/esterra-vini/",
+    "shot": "shots/esterra-vini.png",
+    "has_photos": true,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "plaza-zala",
+    "name": "Зала „Авокадо Премиум“",
+    "phone": "032 949 999",
+    "address": "Хотел „Плаза“, бул. „България“ 125А, Пловдив",
+    "website": "https://plazahotelplovdiv.com",
+    "signals": [
+      "hall-buried-in-hotel-site"
+    ],
+    "score": 66,
+    "why": "Залата е погребана в сайта на хотела, без собствено присъствие",
+    "demo": "sites/plaza-zala/",
+    "shot": "shots/plaza-zala.png",
+    "has_photos": false,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "zala-royal",
+    "name": "Сватбена зала Роял",
+    "phone": "0879 22 27 75",
+    "address": "ул. Стоян Джансъзов 46, гр. Асеновград",
+    "website": "https://zalaroyal.com",
+    "signals": [
+      "dated-look"
+    ],
+    "score": 64,
+    "why": "Собствен сайт от старо поколение; голяма зала до 440 гости",
+    "demo": "sites/zala-royal/",
+    "shot": "shots/zala-royal.png",
+    "has_photos": true,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "svatben-dom",
+    "name": "Сватбен Дом",
+    "phone": "0888 515 864",
+    "address": "община Родопи, край Пловдив",
+    "website": "https://svatbendom.bg",
+    "signals": [
+      "dated-look",
+      "thin-content"
+    ],
+    "score": 62,
+    "why": "Собствен сайт с оскъдно съдържание; силен сватбен профил",
+    "demo": "sites/svatben-dom/",
+    "shot": "shots/svatben-dom.png",
+    "has_photos": true,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "restorant-kadife",
+    "name": "Ресторант Кадифе",
+    "phone": "0894 793 030",
+    "address": "кв. Кючук Париж, ул. „Бяло море“ 2, Пловдив",
+    "website": "https://kadife-bg.com",
+    "signals": [
+      "dated-look"
+    ],
+    "score": 58,
+    "why": "Собствен сайт с работеща форма; демото показва по-високо ниво",
+    "demo": "sites/restorant-kadife/",
+    "shot": "shots/restorant-kadife.png",
+    "has_photos": false,
+    "status": "not_contacted"
+  },
+  {
+    "slug": "etra-hall",
+    "name": "Етра Хол",
+    "phone": "0876 511 111",
+    "address": "Комплекс 5 Points, бул. „Санкт Петербург“ 131, Пловдив",
+    "website": "https://etra.bg",
+    "signals": [
+      "upsell-modern-baseline"
+    ],
+    "score": 55,
+    "why": "Имат приличен сайт; демото е ъпгрейд оферта, не запълване на липса",
+    "demo": "sites/etra-hall/",
+    "shot": "shots/etra-hall.png",
+    "has_photos": true,
+    "status": "not_contacted"
+  }
+]

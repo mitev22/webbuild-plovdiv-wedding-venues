@@ -1,0 +1,18 @@
+:root {
+  --cream: #faf7ef;
+  --parchment: #e8dfc9;
+  --ink: #26221c;
+  --ink-soft: #4a4133;
+  --gold: #be8d00;
+  --gold-ink: #6a4e00;
+  --gold-pale: #e9dcb6;
+  --evening: #211d17;
+  --film-deep: #14110c;
+  --film-mid: #211d17;
+  --film-top: #383021;
+  --film-cream: #f3eddf;
+  /* Runtime font tokens — @theme inline does NOT emit runtime vars, so these
+     must exist here; the next/font variables live on <html>. */
+  --font-serif: var(--font-display), "Georgia", serif;
+  --font-sans: var(--font-body), "Georgia", serif;
+}

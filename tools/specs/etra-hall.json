@@ -1,0 +1,109 @@
+{
+  "slug": "etra-hall",
+  "config": {
+    "site": {
+      "canonicalUrl": "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/etra-hall",
+      "metaTitle": "Етра Хол | Зала за сватбени тържества и събития в Пловдив",
+      "metaDescription": "Етра Хол е изискана зала за сватби и събития с 450 места в Пловдив, Комплекс 5 Points. Пакети Артемида, Хера и Афродита. Изпратете запитване за вашата дата.",
+      "specDemo": true
+    },
+    "brand": {
+      "nameBg": "Етра Хол",
+      "nameEn": "Etra Hall",
+      "town": "Пловдив",
+      "since": "",
+      "phone": "0876 511 111",
+      "phoneHref": "tel:+359876511111",
+      "email": "info@etra.bg",
+      "logoSrc": "/brand/etra-logo.jpg",
+      "address": "Комплекс 5 Points, бул. „Санкт Петербург“ 131, Пловдив",
+      "mapEmbedSrc": "",
+      "instagram": "https://www.instagram.com/etra.hall/",
+      "facebook": ""
+    },
+    "palette": {
+      "note": "Etra brand-first: gold #BE9D36 sampled from etra.bg CSS (2026-07-22); film stops from the brand evening navy."
+    },
+    "images": {
+      "heroFilm": "",
+      "wallGarden": "",
+      "wallHall": "",
+      "wallTerrace": "",
+      "ogImage": "/atmosphere/og-card.jpg"
+    },
+    "factsDict": {
+      "bg": {
+        "capacityRows": [
+          { "space": "Залата", "note": "изискан ресторант", "value": "450 седнали" },
+          { "space": "Церемонията", "note": "изнесен ритуал на място", "value": "възможна" },
+          { "space": "Пристигането", "note": "паркинг пред вратата", "value": "безплатен" }
+        ],
+        "timetable": [
+          { "what": "Welcome drink при пристигане", "when": "начало" },
+          { "what": "Вечеря, 3 или 4 степени по пакет", "when": "вечерта" },
+          { "what": "DJ и музикално-артистична програма", "when": "до късно" },
+          { "what": "Оставане след работно време", "when": "възможно" }
+        ],
+        "packagesNote": "Три пакета: Артемида, Хера и Афродита, всеки с дегустация за двама. Кувертът зависи от менюто и датата: опишете деня си във формата и ще получите точна оферта."
+      },
+      "en": {
+        "capacityRows": [
+          { "space": "The hall", "note": "refined restaurant", "value": "450 seated" },
+          { "space": "The ceremony", "note": "on-site ritual", "value": "possible" },
+          { "space": "Arrival", "note": "parking at the door", "value": "free" }
+        ],
+        "timetable": [
+          { "what": "Welcome drink on arrival", "when": "start" },
+          { "what": "Dinner, 3 or 4 courses per package", "when": "evening" },
+          { "what": "DJ and live programme", "when": "till late" },
+          { "what": "Staying past closing time", "when": "possible" }
+        ],
+        "packagesNote": "Three packages: Artemis, Hera and Aphrodite, each with a tasting for two. The per-head price depends on the menu and the date: describe your day in the form for an exact offer."
+      }
+    },
+    "copyDict": {
+      "bg": {
+        "heroTitle": "Залата очаква вашите гости.",
+        "heroUnder": "Изискан ресторант с 450 места, първокласни храни и напитки, под един покрив в Пловдив.",
+        "heroCaption": "Залата, час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Церемония, вечеря и танци, без нито едно пътуване.",
+        "duetTitle": "Вечерта минава под един покрив.",
+        "inviteLine": "Заповядайте на оглед. Кафето е от нас, а огледът не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Капацитетът е публикуван открито, а офертата е лична.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки на залата"
+      },
+      "en": {
+        "heroTitle": "The hall awaits your guests.",
+        "heroUnder": "A refined 450-seat restaurant, first-class food and drink, under one roof in Plovdiv.",
+        "heroCaption": "The hall, an hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "Ceremony, dinner and dancing, without a single drive.",
+        "duetTitle": "The whole evening under one roof.",
+        "inviteLine": "Come for a viewing. The coffee is on us and it commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Capacity is published openly; the offer is personal.",
+        "atmosphereNote": "atmospheric visualisations, hall photography to be added"
+      }
+    }
+  },
+  "cssVars": {
+    "cream": "#faf6ee",
+    "parchment": "#ddd7c3",
+    "ink": "#292420",
+    "ink-soft": "#4a4335",
+    "gold": "#be9d36",
+    "gold-ink": "#6a5312",
+    "gold-pale": "#e9dfc0",
+    "evening": "#1d2433",
+    "film-deep": "#10151f",
+    "film-mid": "#1d2433",
+    "film-top": "#2a3448",
+    "film-cream": "#f2eee3"
+  }
+}

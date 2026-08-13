@@ -1,0 +1,157 @@
+{
+  "slug": "plaza-zala",
+  "config": {
+    "site": {
+      "canonicalUrl": "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/plaza-zala",
+      "metaTitle": "Зала Авокадо Премиум | Сватби до 120 гости в Пловдив",
+      "metaDescription": "Модерна зала за 120 гости в Хотел „Плаза“: детски кът, голям паркинг и хотелски стаи в същата сграда.",
+      "specDemo": true
+    },
+    "brand": {
+      "nameBg": "Зала „Авокадо Премиум“",
+      "nameEn": "Avocado Premium Hall",
+      "town": "Пловдив",
+      "since": "",
+      "phone": "032 949 999",
+      "phoneHref": "tel:+35932949999",
+      "email": "info@plazahotelplovdiv.com",
+      "logoSrc": "",
+      "address": "Хотел „Плаза“, бул. „България“ 125А, Пловдив",
+      "mapEmbedSrc": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "palette": {
+      "note": "Зала „Авокадо Премиум“: brand palette carried over from the 2026-07 vertical build (venue-true)."
+    },
+    "images": {
+      "heroFilm": "",
+      "wallGarden": "",
+      "wallHall": "",
+      "wallTerrace": "",
+      "ogImage": "/atmosphere/og-card.jpg"
+    },
+    "factsDict": {
+      "bg": {
+        "capacityRows": [
+          {
+            "space": "Залата",
+            "note": "модерна и уютна",
+            "value": "120 седящи"
+          },
+          {
+            "space": "Детският кът",
+            "note": "просторен и цветен",
+            "value": "на място"
+          },
+          {
+            "space": "Хотелът",
+            "note": "стаи за гостите",
+            "value": "в същата сграда"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Посрещане в залата",
+            "when": "начало"
+          },
+          {
+            "what": "Вечеря от ресторанта на място",
+            "when": "вечерта"
+          },
+          {
+            "what": "Танци",
+            "when": "до късно"
+          },
+          {
+            "what": "Стаи за гостите отдалеч",
+            "when": "след празника"
+          }
+        ],
+        "packagesNote": "Млад професионален екип и индивидуално отношение към всяко мероприятие. Опишете вашето във формата."
+      },
+      "en": {
+        "capacityRows": [
+          {
+            "space": "The hall",
+            "note": "modern and cosy",
+            "value": "120 seated"
+          },
+          {
+            "space": "Kids corner",
+            "note": "spacious and colourful",
+            "value": "on site"
+          },
+          {
+            "space": "The hotel",
+            "note": "rooms for guests",
+            "value": "same building"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Welcome in the hall",
+            "when": "start"
+          },
+          {
+            "what": "Dinner from the on-site restaurant",
+            "when": "evening"
+          },
+          {
+            "what": "Dancing",
+            "when": "till late"
+          },
+          {
+            "what": "Rooms for out-of-town guests",
+            "when": "after the party"
+          }
+        ],
+        "packagesNote": "A young professional team and individual attention to every event. Describe yours in the form."
+      }
+    },
+    "copyDict": {
+      "bg": {
+        "heroTitle": "Залата очаква вашите гости.",
+        "heroUnder": "120 места, детски кът, паркинг и хотелски стаи в същата сграда.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата, детският кът и хотелът.",
+        "duetTitle": "Вечерта минава в една сграда.",
+        "inviteLine": "Заповядайте на оглед. Хотелът е на бул. „България“, с голям паркинг.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The hall awaits your guests.",
+        "heroUnder": "120 seats, a kids corner, parking and hotel rooms in the same building.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "One evening, one place.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  },
+  "cssVars": {
+    "cream": "#f6f8fa",
+    "parchment": "#dde5ea",
+    "ink": "#16202a",
+    "ink-soft": "#38485a",
+    "gold": "#006795",
+    "gold-ink": "#01415e",
+    "gold-pale": "#c5d8e4",
+    "evening": "#101820",
+    "film-top": "#1e3242",
+    "film-mid": "#142430",
+    "film-deep": "#0b141c",
+    "film-cream": "#eef3f6"
+  }
+}

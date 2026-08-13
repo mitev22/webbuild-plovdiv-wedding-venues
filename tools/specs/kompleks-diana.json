@@ -1,0 +1,149 @@
+{
+  "slug": "kompleks-diana",
+  "config": {
+    "site": {
+      "canonicalUrl": "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/kompleks-diana",
+      "metaTitle": "Комплекс Диана | Градински сватби и тържества край Асеновград",
+      "metaDescription": "Лятна градина за 140 гости, ресторант с родопски ястия и механа, в полите на Родопите край Асеновград.",
+      "specDemo": true
+    },
+    "brand": {
+      "nameBg": "Комплекс Диана",
+      "nameEn": "Complex Diana",
+      "town": "с. Червен",
+      "since": "",
+      "phone": "0888 767807",
+      "phoneHref": "tel:+359888767807",
+      "email": "kompleks_diana@abv.bg",
+      "logoSrc": "/brand/diana-logo.png",
+      "address": "село Червен, община Асеновград",
+      "mapEmbedSrc": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "palette": {
+      "note": "Комплекс Диана: brand palette carried over from the 2026-07 vertical build (venue-true)."
+    },
+    "images": {
+      "heroFilm": "",
+      "wallGarden": "",
+      "wallHall": "",
+      "wallTerrace": "",
+      "ogImage": "/atmosphere/og-card.jpg"
+    },
+    "factsDict": {
+      "bg": {
+        "capacityRows": [
+          {
+            "space": "Лятната градина",
+            "note": "със собствена пещ",
+            "value": "140 места"
+          },
+          {
+            "space": "Ресторантът",
+            "note": "родопска кухня",
+            "value": "60 места"
+          },
+          {
+            "space": "Механата",
+            "note": "напълно оборудвана",
+            "value": "20 места"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Посрещане в градината",
+            "when": "начало"
+          },
+          {
+            "what": "Печено агне или пъстърва от пещта",
+            "when": "вечерта"
+          },
+          {
+            "what": "Танци под открито небе",
+            "when": "до късно"
+          }
+        ],
+        "packagesNote": "Собствена пещ, барбекю на дървени въглища и родопска кухня. Опишете тържеството си във формата."
+      },
+      "en": {
+        "capacityRows": [
+          {
+            "space": "Summer garden",
+            "note": "with its own oven",
+            "value": "140 seats"
+          },
+          {
+            "space": "The restaurant",
+            "note": "Rhodope cuisine",
+            "value": "60 seats"
+          },
+          {
+            "space": "The tavern",
+            "note": "fully equipped",
+            "value": "20 seats"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Welcome in the garden",
+            "when": "start"
+          },
+          {
+            "what": "Roast lamb or trout from the oven",
+            "when": "evening"
+          },
+          {
+            "what": "Dancing under the open sky",
+            "when": "till late"
+          }
+        ],
+        "packagesNote": "A wood-fired oven, charcoal barbecue and Rhodope cuisine. Describe your celebration in the form."
+      }
+    },
+    "copyDict": {
+      "bg": {
+        "heroTitle": "Градината очаква вашите гости.",
+        "heroUnder": "Лятна градина за 140 гости, ресторант и механа в полите на Родопите.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Градината, ресторантът и механата.",
+        "duetTitle": "Вечерта минава под открито небе.",
+        "inviteLine": "Запитайте за дата. Пътят до село Червен е част от преживяването.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The garden awaits your guests.",
+        "heroUnder": "A summer garden for 140 guests, a restaurant and a tavern at the foot of the Rhodopes.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "One evening, one place.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  },
+  "cssVars": {
+    "cream": "#faf6f0",
+    "parchment": "#e7dbcb",
+    "ink": "#2b2119",
+    "ink-soft": "#4d3c2c",
+    "gold": "#c1a188",
+    "gold-ink": "#6f4522",
+    "gold-pale": "#e5d4c1",
+    "evening": "#2a2018",
+    "film-top": "#40301f",
+    "film-mid": "#2a2018",
+    "film-deep": "#1a130c",
+    "film-cream": "#f3eddf"
+  }
+}

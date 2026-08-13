@@ -1,0 +1,149 @@
+{
+  "slug": "restorant-kadife",
+  "config": {
+    "site": {
+      "canonicalUrl": "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/restorant-kadife",
+      "metaTitle": "Ресторант Кадифе | Сватби и тържества в Пловдив",
+      "metaDescription": "Уютна зала с голям дансинг и собствена кухня в Кючук Париж, Пловдив. Цялостно планиране на тържеството.",
+      "specDemo": true
+    },
+    "brand": {
+      "nameBg": "Ресторант Кадифе",
+      "nameEn": "Restaurant Kadife",
+      "town": "Пловдив",
+      "since": "",
+      "phone": "0894 793 030",
+      "phoneHref": "tel:+359894793030",
+      "email": "",
+      "logoSrc": "",
+      "address": "кв. Кючук Париж, ул. „Бяло море“ 2, Пловдив",
+      "mapEmbedSrc": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "palette": {
+      "note": "Ресторант Кадифе: brand palette carried over from the 2026-07 vertical build (venue-true)."
+    },
+    "images": {
+      "heroFilm": "",
+      "wallGarden": "",
+      "wallHall": "",
+      "wallTerrace": "",
+      "ogImage": "/atmosphere/og-card.jpg"
+    },
+    "factsDict": {
+      "bg": {
+        "capacityRows": [
+          {
+            "space": "Залата",
+            "note": "уютна атмосфера",
+            "value": "голям дансинг"
+          },
+          {
+            "space": "Кухнята",
+            "note": "собствена",
+            "value": "кетъринг услуги"
+          },
+          {
+            "space": "Организацията",
+            "note": "цялостно планиране",
+            "value": "от екипа"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Посрещане и декорация по ваш вкус",
+            "when": "начало"
+          },
+          {
+            "what": "Вечеря от собствената кухня",
+            "when": "вечерта"
+          },
+          {
+            "what": "Танци на големия дансинг",
+            "when": "до късно"
+          }
+        ],
+        "packagesNote": "Дългогодишен опит в Пловдив и цялостно планиране на тържеството. Опишете вашето във формата."
+      },
+      "en": {
+        "capacityRows": [
+          {
+            "space": "The hall",
+            "note": "cosy atmosphere",
+            "value": "large dance floor"
+          },
+          {
+            "space": "The kitchen",
+            "note": "in-house",
+            "value": "catering services"
+          },
+          {
+            "space": "Planning",
+            "note": "full organisation",
+            "value": "by the team"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Welcome and decor to your taste",
+            "when": "start"
+          },
+          {
+            "what": "Dinner from the in-house kitchen",
+            "when": "evening"
+          },
+          {
+            "what": "Dancing on the big dance floor",
+            "when": "till late"
+          }
+        ],
+        "packagesNote": "Years of experience in Plovdiv and full event planning. Describe your celebration in the form."
+      }
+    },
+    "copyDict": {
+      "bg": {
+        "heroTitle": "Залата очаква вашите гости.",
+        "heroUnder": "Уютна зала с голям дансинг и собствена кухня в Кючук Париж.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата, дансингът и кухнята.",
+        "duetTitle": "Вечерта минава на един адрес.",
+        "inviteLine": "Заповядайте на оглед. Кафето е от нас.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The hall awaits your guests.",
+        "heroUnder": "A cosy hall with a large dance floor and an in-house kitchen in Kyuchuk Parizh.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "One evening, one place.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  },
+  "cssVars": {
+    "cream": "#faf7ef",
+    "parchment": "#e8dfc9",
+    "ink": "#26221c",
+    "ink-soft": "#4a4133",
+    "gold": "#be8d00",
+    "gold-ink": "#6a4e00",
+    "gold-pale": "#e9dcb6",
+    "evening": "#211d17",
+    "film-top": "#383021",
+    "film-mid": "#211d17",
+    "film-deep": "#14110c",
+    "film-cream": "#f3eddf"
+  }
+}

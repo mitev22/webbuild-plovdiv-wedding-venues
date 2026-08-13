@@ -1,0 +1,157 @@
+{
+  "slug": "restorant-ruzh",
+  "config": {
+    "site": {
+      "canonicalUrl": "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh",
+      "metaTitle": "Сватбен ресторант Руж | До 120 гости в Пловдив",
+      "metaDescription": "Интериорна зала до 120 места с разрешение за изнесен ритуал, паркинг и денонощна охрана в Пловдив.",
+      "specDemo": true
+    },
+    "brand": {
+      "nameBg": "Сватбен ресторант Руж",
+      "nameEn": "Restaurant Ruzh",
+      "town": "Пловдив",
+      "since": "",
+      "phone": "0898 940 490",
+      "phoneHref": "tel:+359898940490",
+      "email": "",
+      "logoSrc": "",
+      "address": "ул. Брезовско шосе 147, Пловдив",
+      "mapEmbedSrc": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "palette": {
+      "note": "Сватбен ресторант Руж: brand palette carried over from the 2026-07 vertical build (venue-true)."
+    },
+    "images": {
+      "heroFilm": "",
+      "wallGarden": "",
+      "wallHall": "",
+      "wallTerrace": "",
+      "ogImage": "/atmosphere/og-card.jpg"
+    },
+    "factsDict": {
+      "bg": {
+        "capacityRows": [
+          {
+            "space": "Залата",
+            "note": "чар, уют и спокойствие",
+            "value": "120 места"
+          },
+          {
+            "space": "Ритуалът",
+            "note": "разрешение за изнесен",
+            "value": "на място"
+          },
+          {
+            "space": "Паркингът",
+            "note": "към сградата, с жива охрана",
+            "value": "денонощно"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "Изнесен ритуал на място",
+            "when": "начало"
+          },
+          {
+            "what": "Вечеря в интериорната зала",
+            "when": "вечерта"
+          },
+          {
+            "what": "Осветлението преобразява залата",
+            "when": "в късните часове"
+          },
+          {
+            "what": "Тържества до ранни зори",
+            "when": "възможни"
+          }
+        ],
+        "packagesNote": "Възможност за необезпокоявани мероприятия до ранни зори. Опишете тържеството си във формата."
+      },
+      "en": {
+        "capacityRows": [
+          {
+            "space": "The room",
+            "note": "charm and calm",
+            "value": "120 seats"
+          },
+          {
+            "space": "The ceremony",
+            "note": "licensed on-site ritual",
+            "value": "available"
+          },
+          {
+            "space": "Parking",
+            "note": "by the building, guarded",
+            "value": "around the clock"
+          }
+        ],
+        "timetable": [
+          {
+            "what": "On-site wedding ceremony",
+            "when": "start"
+          },
+          {
+            "what": "Dinner in the interior room",
+            "when": "evening"
+          },
+          {
+            "what": "Lighting transforms the room",
+            "when": "late hours"
+          },
+          {
+            "what": "Celebrations until dawn",
+            "when": "possible"
+          }
+        ],
+        "packagesNote": "Undisturbed celebrations until the early hours. Describe your event in the form."
+      }
+    },
+    "copyDict": {
+      "bg": {
+        "heroTitle": "Залата очаква вашите гости.",
+        "heroUnder": "Интериорна зала до 120 места, с разрешение за изнесен ритуал и паркинг към сградата.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата, ритуалът и спокойствието.",
+        "duetTitle": "Вечерта минава необезпокоявана.",
+        "inviteLine": "Заповядайте на оглед при домакина Магдалена Кабурова.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The room awaits your guests.",
+        "heroUnder": "An interior room for up to 120 guests, licensed for on-site ceremonies, with parking.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "One evening, one place.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  },
+  "cssVars": {
+    "cream": "#faf6f3",
+    "parchment": "#ecdfd9",
+    "ink": "#2b2321",
+    "ink-soft": "#4d3c38",
+    "gold": "#b08968",
+    "gold-ink": "#6b3f33",
+    "gold-pale": "#e8d5c9",
+    "evening": "#271c1a",
+    "film-top": "#3d2b26",
+    "film-mid": "#271c1a",
+    "film-deep": "#171010",
+    "film-cream": "#f3eddf"
+  }
+}
