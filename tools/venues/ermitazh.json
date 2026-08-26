@@ -1,0 +1,446 @@
+{
+  "slug": "ermitazh",
+  "nameBg": "Зала „Ермитаж“",
+  "nameEn": "Ermitazh Hall",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Ермитаж",
+    "en": "Ermitazh"
+  },
+  "navMark": {
+    "bg": "ЗАЛА ЕРМИТАЖ",
+    "en": "ERMITAZH HALL"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "залата",
+    "en": "the hall"
+  },
+  "address": "бул. „България“ 97, Пловдив",
+  "addressEn": "97 Bulgaria Blvd, Plovdiv",
+  "addressStreet": "бул. „България“ 97",
+  "phone": [
+    "089 449 9866"
+  ],
+  "phoneE164": "+359894499866",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Зала+Ермитаж+България+97+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Залата на бул. „България“ 97, Пловдив",
+    "Зала за тържества на бул. „България“ 97",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "The hall at 97 Bulgaria Blvd, Plovdiv",
+    "A hall for celebrations at 97 Bulgaria Boulevard",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Зала за тържества на бул. „България“ 97",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A hall for celebrations at 97 Bulgaria Boulevard",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "бул. България",
+    "en": "Bulgaria Blvd"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
+    "en": "atmospheric visualisations, photographs of the hall to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Зала „Ермитаж“ | Тържества в Пловдив",
+      "desc": "Зала за тържества на бул. „България“ 97 в Пловдив. Запитване за дата на 089 449 9866."
+    },
+    "en": {
+      "title": "Ermitazh Hall | Celebrations in Plovdiv",
+      "desc": "A hall for celebrations at 97 Bulgaria Boulevard in Plovdiv. Enquire about a date on 089 449 9866."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Зала „Ермитаж“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Залата е на бул. „България“ 97, Пловдив, в северната част на Пловдив."
+    },
+    "en": {
+      "title": "Ermitazh Hall. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The hall sits at 97 Bulgaria Blvd, Plovdiv, in the northern part of Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Залата се предлага за тържества.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hall is offered for celebrations.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят в залата."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine in the hall."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Свободните дати се проверяват по телефон.",
+      "body": "Собствен сайт няма, така че телефонът остава единственият начин за резервация."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Free dates are checked by telephone.",
+      "body": "There is no website, so the telephone remains the only way to book."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „България“ 97, Пловдив"
+      ],
+      [
+        "Телефон",
+        "089 449 9866"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "97 Bulgaria Blvd, Plovdiv"
+      ],
+      [
+        "Phone",
+        "089 449 9866"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Зала „Ермитаж“",
+    "en": "Why couples choose Ermitazh Hall"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Зала „Ермитаж“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Ermitazh Hall publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Зала „Ермитаж“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Ermitazh Hall has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Залата е на бул. „България“ 97, Пловдив.",
+    "en": "The hall is at 97 Bulgaria Blvd, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "бул. България",
+        "label": "адресът на залата"
+      },
+      {
+        "value": "По телефон",
+        "label": "проверка на свободна дата"
+      }
+    ],
+    "en": [
+      {
+        "value": "Bulgaria Blvd",
+        "label": "where it stands"
+      },
+      {
+        "value": "By phone",
+        "label": "checking a free date"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Зала „Ермитаж“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Зала за тържества",
+            "d": "бул. „България“ 97"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "089 449 9866"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Ermitazh Hall publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A hall for celebrations",
+            "d": "97 Bulgaria Blvd"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "089 449 9866"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Залата на бул. „България“ 97, Пловдив",
+      "Зала за тържества на бул. „България“ 97",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "The hall at 97 Bulgaria Blvd, Plovdiv",
+      "A hall for celebrations at 97 Bulgaria Boulevard",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Зала за тържества на бул. „България“ 97",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A hall for celebrations at 97 Bulgaria Boulevard",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Тържества в залата",
+        "body": "Залата се предлага за поводи на бул. „България“ 97.",
+        "fact": "По запитване"
+      }
+    ],
+    "en": [
+      {
+        "title": "Celebrations in the hall",
+        "body": "The hall is offered for occasions at 97 Bulgaria Boulevard.",
+        "fact": "On request"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Залата е на бул. „България“ 97, а свободните дати се проверяват по телефон.",
+    "en": "The hall is at 97 Bulgaria Boulevard, and free dates are checked by telephone."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Зала „Ермитаж“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В залата",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Зала „Ермитаж“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Зала, запазена за деня.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Ermitazh Hall publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hall",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Ermitazh Hall has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hall will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A hall kept for the day.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на залата и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет и брой места",
+    "Меню и куверт за тържества",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Залата",
+          "note": "бул. „България“ 97",
+          "value": "капацитет по запитване"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hall",
+          "note": "97 Bulgaria Blvd",
+          "value": "capacity on request"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в залата",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the hall",
+          "when": "start"
+        },
+        {
+          "what": "Dinner",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Зала „Ермитаж“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Ermitazh Hall publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Зала за деня на бул. „България“.",
+        "heroUnder": "На номер 97, в северната част на Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата на бул. „България“.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A hall for the day on Bulgaria Boulevard.",
+        "heroUnder": "At number 97, in the northern part of Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hall on Bulgaria Boulevard.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
