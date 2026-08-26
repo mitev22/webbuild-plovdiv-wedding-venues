@@ -1,0 +1,494 @@
+{
+  "slug": "garden-weddings",
+  "nameBg": "Garden Weddings",
+  "nameEn": "Garden Weddings",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт и нямат страница в социалните мрежи)",
+  "wordmark": {
+    "bg": "Garden Weddings",
+    "en": "Garden Weddings"
+  },
+  "navMark": {
+    "bg": "GARDEN WEDDINGS",
+    "en": "GARDEN WEDDINGS"
+  },
+  "town": "Марково",
+  "townEn": "Markovo",
+  "type": "garden",
+  "venueNoun": {
+    "bg": "градината",
+    "en": "the garden"
+  },
+  "address": "Парк, с. Марково, община Родопи",
+  "addressEn": "The park, Markovo, Rodopi municipality",
+  "addressStreet": "Парк, с. Марково",
+  "phone": [
+    "089 996 5338"
+  ],
+  "phoneE164": "+359899965338",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Garden+Weddings+Марково+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Място за събития в парка на село Марково",
+    "Извън Пловдив, в полите на Родопите",
+    "Работно време от 10 до 20 часа",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "An event venue in the park at Markovo",
+    "Outside Plovdiv, at the foot of the Rhodopes",
+    "Open from 10 in the morning until 8 in the evening",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Градинско място за сватби извън града",
+      "В парка на Марково, в полите на Родопите",
+      "На кратко разстояние от Пловдив"
+    ],
+    "en": [
+      "A garden venue for weddings outside the city",
+      "In the park at Markovo, at the foot of the Rhodopes",
+      "A short drive from Plovdiv"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Марково",
+    "en": "Markovo"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на градината",
+    "en": "atmospheric visualisations, photographs of the garden to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Garden Weddings | Сватби в градина край Пловдив",
+      "desc": "Място за сватбени тържества в парка на село Марково, в полите на Родопите, на кратко разстояние от Пловдив."
+    },
+    "en": {
+      "title": "Garden Weddings | Garden weddings near Plovdiv",
+      "desc": "A venue for wedding celebrations in the park at Markovo, at the foot of the Rhodopes, a short drive from Plovdiv."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Garden Weddings. Денят минава на открито.",
+      "lead": "Денят започва с пристигането. Мястото е в парка на село Марково, южно от Пловдив, там където равнината опира в Родопите."
+    },
+    "en": {
+      "title": "Garden Weddings. The day is spent outdoors.",
+      "lead": "The day begins with the arrival. The place sits in the park at Markovo, south of Plovdiv, where the plain meets the Rhodopes."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Мястото е обявено за събития и носи името си от градината.",
+      "body": "Подробности за размерите и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The place is listed for events and takes its name from the garden.",
+      "body": "Details of its size and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята на открито",
+      "lead": "Тържествата се провеждат в парка, на открито."
+    },
+    "en": {
+      "title": "Dinner in the open",
+      "lead": "Celebrations are held in the park, in the open air."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Мястото работи от десет сутринта до осем вечерта.",
+      "body": "Дати се уговарят по телефон. Домакините нямат сайт, така че разговорът е единственият начин да се провери свободна дата."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The place is open from ten in the morning until eight in the evening.",
+      "body": "Dates are arranged by telephone. The hosts have no website, so a call is the only way to check whether a date is free."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "Парк, с. Марково, община Родопи"
+      ],
+      [
+        "Разстояние",
+        "южно от Пловдив, в полите на Родопите"
+      ],
+      [
+        "Телефон",
+        "089 996 5338"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "The park, Markovo, Rodopi municipality"
+      ],
+      [
+        "Distance",
+        "south of Plovdiv, at the foot of the Rhodopes"
+      ],
+      [
+        "Phone",
+        "089 996 5338"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Garden Weddings",
+    "en": "Why couples choose Garden Weddings"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Garden Weddings не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Garden Weddings publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Garden Weddings няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Garden Weddings has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Мястото е в парка на село Марково, южно от Пловдив.",
+    "en": "The place is in the park at Markovo, south of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Градина",
+        "label": "мястото на деня"
+      },
+      {
+        "value": "Марково",
+        "label": "в полите на Родопите"
+      },
+      {
+        "value": "10 до 20",
+        "label": "работно време"
+      }
+    ],
+    "en": [
+      {
+        "value": "Garden",
+        "label": "where the day happens"
+      },
+      {
+        "value": "Markovo",
+        "label": "at the foot of the Rhodopes"
+      },
+      {
+        "value": "10 to 20",
+        "label": "opening hours"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Garden Weddings не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Място за събития",
+            "d": "в парка на село Марково"
+          },
+          {
+            "n": "На открито",
+            "d": "градината дава името на мястото"
+          },
+          {
+            "n": "Работно време",
+            "d": "от 10 до 20 часа"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "089 996 5338"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Garden Weddings publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "An event venue",
+            "d": "in the park at Markovo"
+          },
+          {
+            "n": "Outdoors",
+            "d": "the garden gives the place its name"
+          },
+          {
+            "n": "Opening hours",
+            "d": "from 10 until 20"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "089 996 5338"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Място за събития в парка на село Марково",
+      "Извън Пловдив, в полите на Родопите",
+      "Работно време от 10 до 20 часа",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "An event venue in the park at Markovo",
+      "Outside Plovdiv, at the foot of the Rhodopes",
+      "Open from 10 in the morning until 8 in the evening",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Място на открито",
+      "В парка на Марково"
+    ],
+    "en": [
+      "An outdoor venue",
+      "In the park at Markovo"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватби в градината",
+        "body": "Мястото носи името си от градината и се предлага за сватбени тържества на открито.",
+        "fact": "На открито"
+      }
+    ],
+    "en": [
+      {
+        "title": "Garden weddings",
+        "body": "The place takes its name from the garden and is offered for wedding celebrations in the open air.",
+        "fact": "Outdoors"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Мястото работи от десет сутринта до осем вечерта, а датите се уговарят по телефон.",
+    "en": "The place is open from ten in the morning until eight in the evening, and dates are arranged by telephone."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "денят на открито",
+      "какво се знае",
+      "в градината",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the day outdoors",
+      "what is known",
+      "in the garden",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Garden Weddings не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В градината",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за тържества на открито.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Garden Weddings няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на градината.",
+      "galleryEmptyBody": "Домакините нямат нито сайт, нито страница в социалните мрежи, така че публикувани фотографии на градината няма.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Градина, парк и вечер на открито.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Сватби на открито",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Garden Weddings publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the garden",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for celebrations in the open air.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Garden Weddings has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the garden will stand here.",
+      "galleryEmptyBody": "The hosts have neither a website nor a social page, so there are no published photographs of the garden.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A garden, a park and an evening outdoors.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Weddings in the open air",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на градината и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Точен адрес и ориентир в парка на Марково",
+    "Дали има закрита част при лошо време",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Градината",
+          "note": "мястото на тържеството",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Паркът наоколо",
+          "note": "село Марково",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The garden",
+          "note": "where the celebration is held",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The park around it",
+          "note": "Markovo",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в градината",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря на открито",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават навън",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the garden",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the open air",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues outside",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Garden Weddings не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Garden Weddings publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Сватба в градина, извън града.",
+        "heroUnder": "В парка на село Марково, в полите на Родопите, на кратко разстояние от Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Градината и паркът наоколо.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A wedding in a garden, outside the city.",
+        "heroUnder": "In the park at Markovo, at the foot of the Rhodopes, a short drive from Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The garden and the park around it.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
