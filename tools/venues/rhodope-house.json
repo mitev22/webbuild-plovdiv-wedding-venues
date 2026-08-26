@@ -1,0 +1,530 @@
+{
+  "slug": "rhodope-house",
+  "nameBg": "Родопска къща",
+  "nameEn": "Rodopska Kashta",
+  "harvestedOn": "2026-08-26",
+  "sources": "Facebook страницата им и Google Business профила",
+  "wordmark": {
+    "bg": "Родопска къща",
+    "en": "Rodopska Kashta"
+  },
+  "navMark": {
+    "bg": "РОДОПСКА КЪЩА",
+    "en": "RODOPSKA KASHTA"
+  },
+  "town": "Асеновград",
+  "townEn": "Asenovgrad",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "ресторанта",
+    "en": "the restaurant"
+  },
+  "address": "бул. „България“ 128, Асеновград",
+  "addressEn": "128 Bulgaria Blvd, Asenovgrad",
+  "addressStreet": "бул. „България“ 128",
+  "phone": [
+    "088 736 2666"
+  ],
+  "phoneE164": "+359887362666",
+  "email": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/rodopskakushta",
+  "sameAs": [
+    "https://www.facebook.com/rodopskakushta"
+  ],
+  "mapQuery": "Родопска+къща+бул.+България+128+Асеновград",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Традиционен ресторант и хотел в Асеновград",
+    "Организация на сватби, годежи и балове",
+    "Безплатен паркинг за гостите",
+    "Места за гости на открито",
+    "Стаи за гости на място"
+  ],
+  "packageIncludesEn": [
+    "A traditional restaurant and hotel in Asenovgrad",
+    "Weddings, engagements and balls are organised here",
+    "Free parking for guests",
+    "Outdoor seating for guests",
+    "Guest rooms on site"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Сами обявяват, че организират сватби и годежи",
+      "Хотел и ресторант на едно място, с стаи за гостите",
+      "Безплатен паркинг",
+      "Над 6000 души следят страницата им"
+    ],
+    "en": [
+      "They state themselves that they organise weddings and engagements",
+      "A hotel and a restaurant in one, with rooms for the guests",
+      "Free parking",
+      "More than 6,000 people follow their page"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Асеновград",
+    "en": "Asenovgrad"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Родопска къща | Сватби и тържества в Асеновград",
+      "desc": "Традиционен ресторант и хотел на бул. „България“ 128 в Асеновград. Организация на сватби и годежи, безплатен паркинг. Резервации на 088 736 2666."
+    },
+    "en": {
+      "title": "Rodopska Kashta | Weddings in Asenovgrad",
+      "desc": "A traditional restaurant and hotel at 128 Bulgaria Blvd in Asenovgrad. Weddings and engagements organised, free parking. Bookings on 088 736 2666."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Родопска къща. Сватбата и нощувката на едно място.",
+      "lead": "Денят започва с пристигането. Родопска къща е на бул. „България“ 128 в Асеновград, а гостите, които остават, спят на място."
+    },
+    "en": {
+      "title": "Rodopska Kashta. The wedding and the night, in one place.",
+      "lead": "The day begins with the arrival. Rodopska Kashta stands at 128 Bulgaria Boulevard in Asenovgrad, and guests who stay sleep on site."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Домакините сами обявяват, че организират сватби, годежи, балове и фирмени събития.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hosts state themselves that they organise weddings, engagements, balls and company events.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в ресторанта",
+      "lead": "Кухнята е традиционна, а част от местата за гости са на открито."
+    },
+    "en": {
+      "title": "Dinner in the restaurant",
+      "lead": "The kitchen is traditional, and some of the guest seating is outdoors."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Гостите, които остават, спят в стаите на място.",
+      "body": "Паркингът е безплатен, а над шест хиляди души следят страницата им. Собствен сайт нямат, така че резервациите минават през телефона и Facebook."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Guests who stay sleep in the rooms on site.",
+      "body": "Parking is free, and more than six thousand people follow their page. They have no website of their own, so bookings go through the telephone and Facebook."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „България“ 128, Асеновград"
+      ],
+      [
+        "Резервации",
+        "088 736 2666"
+      ],
+      [
+        "Имейл",
+        "rodopskakushta@abv.bg"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "128 Bulgaria Blvd, Asenovgrad"
+      ],
+      [
+        "Bookings",
+        "088 736 2666"
+      ],
+      [
+        "Email",
+        "rodopskakushta@abv.bg"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Родопска къща",
+    "en": "Why couples choose Rodopska Kashta"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Родопска къща не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Rodopska Kashta publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Родопска къща няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Rodopska Kashta has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Родопска къща е на бул. „България“ 128 в Асеновград.",
+    "en": "Rodopska Kashta is at 128 Bulgaria Boulevard in Asenovgrad."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Сватби",
+        "label": "сами обявяват, че ги организират"
+      },
+      {
+        "value": "Безплатен",
+        "label": "паркинг за гостите"
+      },
+      {
+        "value": "6.4K",
+        "label": "следят страницата им"
+      }
+    ],
+    "en": [
+      {
+        "value": "Weddings",
+        "label": "they state they organise them"
+      },
+      {
+        "value": "Free",
+        "label": "parking for guests"
+      },
+      {
+        "value": "6.4K",
+        "label": "follow their page"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Родопска къща не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Традиционен ресторант",
+            "d": "както сами описват заведението"
+          },
+          {
+            "n": "Уютен хотел",
+            "d": "стаи за гостите на място"
+          },
+          {
+            "n": "Безплатен паркинг"
+          },
+          {
+            "n": "Места на открито"
+          },
+          {
+            "n": "Сватби, годежи и балове",
+            "d": "сами обявяват, че ги организират"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Rodopska Kashta publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A traditional restaurant",
+            "d": "as they describe it themselves"
+          },
+          {
+            "n": "A comfortable hotel",
+            "d": "rooms for guests on site"
+          },
+          {
+            "n": "Free parking"
+          },
+          {
+            "n": "Outdoor seating"
+          },
+          {
+            "n": "Weddings, engagements and balls",
+            "d": "they state they organise them"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Традиционен ресторант и хотел в Асеновград",
+      "Организация на сватби, годежи и балове",
+      "Безплатен паркинг за гостите",
+      "Места за гости на открито",
+      "Стаи за гости на място"
+    ],
+    "en": [
+      "A traditional restaurant and hotel in Asenovgrad",
+      "Weddings, engagements and balls are organised here",
+      "Free parking for guests",
+      "Outdoor seating for guests",
+      "Guest rooms on site"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Традиционен ресторант",
+      "Стаи за гости на място",
+      "Безплатен паркинг",
+      "Места на открито"
+    ],
+    "en": [
+      "A traditional restaurant",
+      "Guest rooms on site",
+      "Free parking",
+      "Outdoor seating"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватби и годежи",
+        "body": "Домакините сами обявяват, че организират сватби, годежи и балове.",
+        "fact": "По техните думи"
+      },
+      {
+        "title": "Рождени и имени дни",
+        "body": "Ресторантът поема и по-малките поводи през годината.",
+        "fact": "Целогодишно"
+      }
+    ],
+    "en": [
+      {
+        "title": "Weddings and engagements",
+        "body": "The hosts state themselves that they organise weddings, engagements and balls.",
+        "fact": "In their own words"
+      },
+      {
+        "title": "Birthdays and name days",
+        "body": "The restaurant also takes on the smaller occasions of the year.",
+        "fact": "All year round"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Домакините сами го описват така: традиционен ресторант и уютен хотел с безплатен паркинг, където се организират сватби, годежи и балове.",
+    "en": "The hosts describe it themselves: a traditional restaurant and a comfortable hotel with free parking, where weddings, engagements and balls are organised."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "сватби и годежи",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "weddings and engagements",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Родопска къща не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В ресторанта",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Домакините обявяват сватби, годежи, балове и фирмени събития.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Родопска къща няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а снимките им живеят само във Facebook и не са предоставени за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Традиционен ресторант и уютен хотел.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Сватби, годежи и балове",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Rodopska Kashta publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the restaurant",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The hosts advertise weddings, engagements, balls and company events.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Rodopska Kashta has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their photographs live only on Facebook and have not been released for publication.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A traditional restaurant and a comfortable hotel.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Weddings, engagements and balls",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на ресторанта и брой стаи в хотела",
+    "Меню и куверт за сватби",
+    "Брой паркоместа"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Ресторантът",
+          "note": "традиционна кухня",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Стаите",
+          "note": "за гостите, които остават",
+          "value": "на място"
+        },
+        {
+          "space": "Паркингът",
+          "note": "за гостите",
+          "value": "безплатен"
+        }
+      ],
+      "en": [
+        {
+          "space": "The restaurant",
+          "note": "traditional kitchen",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The rooms",
+          "note": "for guests who stay",
+          "value": "on site"
+        },
+        {
+          "space": "The parking",
+          "note": "for guests",
+          "value": "free"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в ресторанта",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря с традиционна кухня",
+          "when": "вечерта"
+        },
+        {
+          "what": "Гостите, които остават, спят на място",
+          "when": "до сутринта"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the restaurant",
+          "when": "start"
+        },
+        {
+          "what": "Dinner from a traditional kitchen",
+          "when": "evening"
+        },
+        {
+          "what": "Guests who stay sleep on site",
+          "when": "till morning"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Родопска къща не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Rodopska Kashta publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Традиционна къща за сватби и годежи.",
+        "heroUnder": "Ресторант и хотел на бул. „България“ 128 в Асеновград, с безплатен паркинг.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Ресторантът и стаите за гостите.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A traditional house for weddings and engagements.",
+        "heroUnder": "A restaurant and hotel at 128 Bulgaria Blvd in Asenovgrad, with free parking.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The restaurant and the guest rooms.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
