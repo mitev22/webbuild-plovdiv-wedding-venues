@@ -1,0 +1,483 @@
+{
+  "slug": "fiesta-paga",
+  "nameBg": "Сватбена зала „Фиеста“",
+  "nameEn": "Fiesta Wedding Hall",
+  "harvestedOn": "2026-08-26",
+  "sources": "собствения им сайт svatbensalonfiesta.com и Google Business профила",
+  "wordmark": {
+    "bg": "Фиеста",
+    "en": "Fiesta"
+  },
+  "navMark": {
+    "bg": "СВАТБЕНА ЗАЛА ФИЕСТА",
+    "en": "FIESTA WEDDING HALL"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "залата",
+    "en": "the hall"
+  },
+  "address": "бул. „Васил Априлов“ 152А, Пловдив",
+  "addressEn": "152A Vasil Aprilov Blvd, Plovdiv",
+  "addressStreet": "бул. „Васил Априлов“ 152А",
+  "phone": [],
+  "phoneE164": "",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Сватбена+зала+Фиеста+бул.+Васил+Априлов+152А+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Сватбена зала на бул. „Васил Априлов“ 152А",
+    "Работно време всеки ден от 9 до 23 часа",
+    "Северната част на Пловдив"
+  ],
+  "packageIncludesEn": [
+    "A wedding hall at 152A Vasil Aprilov Boulevard",
+    "Open every day from 9 in the morning until 11 at night",
+    "The northern part of Plovdiv"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Сватбена зала с пълна петица от отзивите в Google",
+      "Отворена всеки ден от 9 до 23 часа",
+      "На бул. „Васил Априлов“, с лесен достъп от целия град"
+    ],
+    "en": [
+      "A wedding hall with a full five stars from its Google reviews",
+      "Open every day from 9 until 23",
+      "On Vasil Aprilov Boulevard, easily reached from across the city"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Васил Априлов",
+    "en": "Vasil Aprilov Blvd"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
+    "en": "atmospheric visualisations, photographs of the hall to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Сватбена зала „Фиеста“ | Пловдив",
+      "desc": "Сватбена зала на бул. „Васил Априлов“ 152А в Пловдив, отворена всеки ден от 9 до 23 часа."
+    },
+    "en": {
+      "title": "Fiesta Wedding Hall | Plovdiv",
+      "desc": "A wedding hall at 152A Vasil Aprilov Boulevard in Plovdiv, open every day from 9 until 23."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Сватбена зала „Фиеста“. Мястото на деня.",
+      "lead": "Денят започва с пристигането. Залата е на бул. „Васил Априлов“ 152А, в северната част на Пловдив, с лесен достъп от целия град."
+    },
+    "en": {
+      "title": "Fiesta Wedding Hall. Where the day happens.",
+      "lead": "The day begins with the arrival. The hall is at 152A Vasil Aprilov Boulevard, in the northern part of Plovdiv, easily reached from across the city."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Залата е обявена като сватбена и това е единственото, за което се използва.",
+      "body": "Подробности за размерите ѝ и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hall is listed as a wedding venue and that is the only thing it is used for.",
+      "body": "Details of its dimensions and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в залата",
+      "lead": "Гостите се хранят в залата, която е отворена до единайсет вечерта."
+    },
+    "en": {
+      "title": "Dinner in the hall",
+      "lead": "Guests dine in the hall, which stays open until eleven at night."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Залата работи всеки ден от девет сутринта до единайсет вечерта.",
+      "body": "Отзивите в Google ѝ дават пълна петица. Настоящият им сайт не съдържа нито телефон, нито адрес за връзка, така че уговарянето на оглед минава през посещение на място."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The hall is open every day from nine in the morning until eleven at night.",
+      "body": "Its Google reviews give it a full five stars. Their current website carries neither a telephone number nor a contact address, so arranging a viewing means calling in person."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „Васил Априлов“ 152А, Пловдив"
+      ],
+      [
+        "Район",
+        "северната част на града"
+      ],
+      [
+        "Работно време",
+        "всеки ден, 9 до 23 часа"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "152A Vasil Aprilov Blvd, Plovdiv"
+      ],
+      [
+        "District",
+        "the northern part of the city"
+      ],
+      [
+        "Opening hours",
+        "every day, 9 until 23"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Сватбена зала „Фиеста“",
+    "en": "Why couples choose Fiesta Wedding Hall"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Сватбена зала „Фиеста“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Fiesta Wedding Hall publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Сватбена зала „Фиеста“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Fiesta Wedding Hall has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Залата е на бул. „Васил Априлов“ 152А, в северната част на Пловдив.",
+    "en": "The hall is at 152A Vasil Aprilov Boulevard, in the northern part of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "5.0",
+        "count": 5,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "9 до 23",
+        "label": "всеки ден"
+      },
+      {
+        "value": "Сватби",
+        "label": "единствената специализация"
+      }
+    ],
+    "en": [
+      {
+        "value": "5.0",
+        "count": 5,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "9 to 23",
+        "label": "every day"
+      },
+      {
+        "value": "Weddings",
+        "label": "the only specialism"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Сватбена зала „Фиеста“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Сватбена зала",
+            "d": "на бул. „Васил Априлов“ 152А"
+          },
+          {
+            "n": "Отворена всеки ден",
+            "d": "от 9 до 23 часа"
+          },
+          {
+            "n": "Северната част на Пловдив",
+            "d": "с лесен достъп от целия град"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Fiesta Wedding Hall publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A wedding hall",
+            "d": "at 152A Vasil Aprilov Boulevard"
+          },
+          {
+            "n": "Open every day",
+            "d": "from 9 until 23"
+          },
+          {
+            "n": "The northern part of Plovdiv",
+            "d": "easily reached from across the city"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Сватбена зала на бул. „Васил Априлов“ 152А",
+      "Работно време всеки ден от 9 до 23 часа",
+      "Северната част на Пловдив"
+    ],
+    "en": [
+      "A wedding hall at 152A Vasil Aprilov Boulevard",
+      "Open every day from 9 in the morning until 11 at night",
+      "The northern part of Plovdiv"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Сватбена зала",
+      "Отворена всеки ден"
+    ],
+    "en": [
+      "A wedding hall",
+      "Open every day"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватбени тържества",
+        "body": "Залата се обявява като сватбена и това е единственият повод, за който се предлага.",
+        "fact": "5.0 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Wedding celebrations",
+        "body": "The hall is listed as a wedding venue and that is the only occasion it is offered for.",
+        "fact": "5.0 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Залата работи всеки ден от девет сутринта до единайсет вечерта.",
+    "en": "The hall is open every day from nine in the morning until eleven at night."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "само сватби",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "weddings only",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Сватбена зала „Фиеста“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В залата",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Залата се предлага само за сватбени тържества.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Сватбена зала „Фиеста“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
+      "galleryEmptyBody": "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Сватбена зала, отворена всеки ден.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Зала само за сватби",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Fiesta Wedding Hall publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hall",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The hall is offered for wedding celebrations only.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Fiesta Wedding Hall has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hall will stand here.",
+      "galleryEmptyBody": "Their current website holds no publishable photographs of the hall.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A wedding hall, open every day.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "A weddings-only hall",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на залата и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "ТЕЛЕФОН ЗА ВРЪЗКА — настоящият им сайт не съдържа никакъв телефон или имейл",
+    "Капацитет на залата и брой места",
+    "Потвърждение на името: Google ги изписва „Фиеста-Пага“, а сайтът им „Сватбена зала Фиеста“",
+    "Настоящият домейн svatbensalonfiesta.com съдържа чуждо рекламно съдържание и placeholder адрес в Ню Йорк — да се обсъди прехвърляне или нов домейн"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Залата",
+          "note": "бул. „Васил Априлов“ 152А",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Работно време",
+          "note": "всеки ден",
+          "value": "9 до 23 часа"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hall",
+          "note": "152A Vasil Aprilov Blvd",
+          "value": "capacity on request"
+        },
+        {
+          "space": "Opening hours",
+          "note": "every day",
+          "value": "9 until 23"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в залата",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в залата",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават до 23 часа",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the hall",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the hall",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues until 23",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Сватбена зала „Фиеста“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Fiesta Wedding Hall publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Сватбена зала, отворена всеки ден.",
+        "heroUnder": "На бул. „Васил Априлов“ 152А в Пловдив, от девет сутринта до единайсет вечерта.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата на бул. „Васил Априлов“.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A wedding hall, open every day.",
+        "heroUnder": "At 152A Vasil Aprilov Boulevard in Plovdiv, from nine in the morning until eleven at night.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hall on Vasil Aprilov Boulevard.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
