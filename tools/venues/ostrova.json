@@ -1,0 +1,438 @@
+{
+  "slug": "ostrova",
+  "nameBg": "Комплекс „Острова“",
+  "nameEn": "Complex Ostrova",
+  "harvestedOn": "2026-08-26",
+  "sources": "собствения им сайт ostrova-plovdiv.com и Google Business профила",
+  "wordmark": {
+    "bg": "Острова",
+    "en": "Ostrova"
+  },
+  "navMark": {
+    "bg": "КОМПЛЕКС ОСТРОВА",
+    "en": "COMPLEX OSTROVA"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "комплекса",
+    "en": "the complex"
+  },
+  "address": "Западен район, Пловдив",
+  "addressEn": "Western district, Plovdiv",
+  "addressStreet": "Западен район",
+  "phone": [
+    "088 755 6630"
+  ],
+  "phoneE164": "+359887556630",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Комплекс+Острова+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Комплексът на Западен район, Пловдив",
+    "Комплекс в Западния район на Пловдив",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "The complex at Western district, Plovdiv",
+    "A complex in the Western district of Plovdiv",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Комплекс в Западния район на Пловдив",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A complex in the Western district of Plovdiv",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Западен район",
+    "en": "Western district"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на комплекса",
+    "en": "atmospheric visualisations, photographs of the complex to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Комплекс „Острова“ | Тържества в Пловдив",
+      "desc": "Комплекс в Западния район на Пловдив. Запитване за дата на 088 755 6630."
+    },
+    "en": {
+      "title": "Complex Ostrova | Celebrations in Plovdiv",
+      "desc": "A complex in the Western district of Plovdiv. Enquire about a date on 088 755 6630."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Комплекс „Острова“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Комплексът е на Западен район, Пловдив, в Западния район на Пловдив."
+    },
+    "en": {
+      "title": "Complex Ostrova. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The complex sits at Western district, Plovdiv, in the Western district of Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Комплексът се предлага за тържества.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The complex is offered for celebrations.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят на място, в комплекса."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine on site, in the complex."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Свободните дати се проверяват по телефон.",
+      "body": "Сайтът им работи без HTTPS, така че браузърите го отбелязват като незащитен още преди гостът да е прочел каквото и да е."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Free dates are checked by telephone.",
+      "body": "Their site runs without HTTPS, so browsers flag it as not secure before a visitor has read a word."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "Западен район, Пловдив"
+      ],
+      [
+        "Телефон",
+        "088 755 6630"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "Western district, Plovdiv"
+      ],
+      [
+        "Phone",
+        "088 755 6630"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Комплекс „Острова“",
+    "en": "Why couples choose Complex Ostrova"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Комплекс „Острова“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Complex Ostrova publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Комплекс „Острова“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Complex Ostrova has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Комплексът е на Западен район, Пловдив.",
+    "en": "The complex is at Western district, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Комплекс",
+        "label": "в Западния район"
+      }
+    ],
+    "en": [
+      {
+        "value": "A complex",
+        "label": "in the Western district"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Комплекс „Острова“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Комплекс за тържества",
+            "d": "Западен район, Пловдив"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "088 755 6630"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Complex Ostrova publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A complex for celebrations",
+            "d": "Western district, Plovdiv"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "088 755 6630"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Комплексът на Западен район, Пловдив",
+      "Комплекс в Западния район на Пловдив",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "The complex at Western district, Plovdiv",
+      "A complex in the Western district of Plovdiv",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Комплекс в Западния район на Пловдив",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A complex in the Western district of Plovdiv",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Тържества в комплекса",
+        "body": "Комплексът се предлага за поводи в Западния район на Пловдив.",
+        "fact": "По запитване"
+      }
+    ],
+    "en": [
+      {
+        "title": "Celebrations at the complex",
+        "body": "The complex is offered for occasions in the Western district of Plovdiv.",
+        "fact": "On request"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Комплексът е в Западния район на Пловдив, а свободните дати се проверяват по телефон.",
+    "en": "The complex is in the Western district of Plovdiv, and free dates are checked by telephone."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Комплекс „Острова“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В комплекса",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Комплекс „Острова“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на комплекса.",
+      "galleryEmptyBody": "Сегашният им сайт не съдържа фотографии, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Комплекс, запазен за деня.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Complex Ostrova publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the complex",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Complex Ostrova has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the complex will stand here.",
+      "galleryEmptyBody": "Their current site holds no publishable photographs.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A complex kept for the day.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на комплекса и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Точен адрес на комплекса",
+    "Капацитет и брой места",
+    "SSL сертификат за сайта — в момента работи по HTTP"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Комплексът",
+          "note": "Западен район, Пловдив",
+          "value": "капацитет по запитване"
+        }
+      ],
+      "en": [
+        {
+          "space": "The complex",
+          "note": "Western district, Plovdiv",
+          "value": "capacity on request"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в комплекса",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received",
+          "when": "start"
+        },
+        {
+          "what": "Dinner at the complex",
+          "when": "evening"
+        },
+        {
+          "what": "The evening goes on",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Комплекс „Острова“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Complex Ostrova publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Комплекс за деня, встрани от центъра.",
+        "heroUnder": "В Западния район на Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Комплексът и дворът.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A complex for the day, away from the centre.",
+        "heroUnder": "In the Western district of Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The complex and its grounds.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
