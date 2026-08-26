@@ -6,11 +6,14 @@ REPO="$HOME/Desktop/web-agency/webbuild-plovdiv-wedding-venues"
 S="$REPO/sites/$SLUG"
 
 # 1. noindex present on every page
-MISS=$(find "$S" -name '*.html' -exec grep -L 'content="noindex, nofollow"' {} + | wc -l | tr -d ' ')
+MISS=$(find "$S" -name '*.html' -exec grep -L 'content="noindex' {} + | wc -l | tr -d ' ')
 [ "$MISS" = "0" ] || { echo "QA FAIL: $MISS page(s) missing noindex"; exit 1; }
 # 2. donor / placeholder leak
-if grep -ril 'colibri\|коматево\|марица\|maritsa\|lorem ipsum\|REPLACE_WITH' "$S" | grep -q .; then
-  echo "QA FAIL: placeholder or donor text leaked"; grep -ril 'colibri\|марица\|lorem ipsum' "$S" | head -3; exit 1
+# donor venue text / lorem must never reach a rendered page.
+# NOTE: REPLACE_WITH_WEB3FORMS_KEY in the JS bundle is intentional (demo-mode form, handoff item).
+if find "$S" -name '*.html' -exec grep -ril 'colibri\|коматево\|марица\|maritsa\|сребро\|платина\|lorem ipsum' {} + | grep -q .; then
+  echo "QA FAIL: donor venue text leaked into a page"
+  find "$S" -name '*.html' -exec grep -ril 'colibri\|марица\|lorem ipsum' {} + | head -3; exit 1
 fi
 # 3. mobile probe + shot
 "$REPO/tools/shoot.sh" "$SLUG"

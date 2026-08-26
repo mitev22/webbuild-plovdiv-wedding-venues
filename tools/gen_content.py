@@ -160,7 +160,10 @@ header = (
  " * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.\n */\n\n")
 
 content = header
-content += "export const venue = " + ts(venue) + " as const;\n\n"
+# TEMPLATE GAP: gravura indexes venue.phone[0] unconditionally, so a venue with no
+# published phone needs the widened type rather than an empty readonly tuple.
+venue_ts = ts(venue).replace("phone: []", "phone: [] as string[]", 1)
+content += "export const venue = " + venue_ts + " as const;\n\n"
 content += 'export type Season = "spring" | "summer" | "autumn" | "winter";\n\n'
 content += ("export const seasons: { key: Season; bg: string; en: string }[] = [\n"
  '  { key: "spring", bg: "Пролет", en: "Spring" },\n'
