@@ -1,0 +1,492 @@
+{
+  "slug": "restorant-fiesta",
+  "nameBg": "Ресторант „Фиеста“",
+  "nameEn": "Restaurant Fiesta",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Фиеста",
+    "en": "Fiesta"
+  },
+  "navMark": {
+    "bg": "РЕСТОРАНТ ФИЕСТА",
+    "en": "RESTAURANT FIESTA"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "ресторанта",
+    "en": "the restaurant"
+  },
+  "address": "ул. „Пере Тошев“ 45, Пловдив",
+  "addressEn": "45 Pere Toshev St, Plovdiv",
+  "addressStreet": "ул. „Пере Тошев“ 45",
+  "phone": [
+    "087 820 1734"
+  ],
+  "phoneE164": "+359878201734",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Ресторант+Фиеста+Пере+Тошев+45+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторант на ул. „Пере Тошев“ 45",
+    "Отворен от 8:30 сутринта до полунощ",
+    "Приема поръчки",
+    "В южната част на Пловдив"
+  ],
+  "packageIncludesEn": [
+    "A restaurant at 45 Pere Toshev Street",
+    "Open from half past eight in the morning until midnight",
+    "Takes orders",
+    "In the southern part of Plovdiv"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "4.3 от отзивите в Google",
+      "Отворен от сутрин до полунощ",
+      "Дълъг работен ден, удобен за тържества"
+    ],
+    "en": [
+      "4.3 from its Google reviews",
+      "Open from morning until midnight",
+      "A long working day, convenient for celebrations"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Пере Тошев",
+    "en": "Pere Toshev St"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Ресторант „Фиеста“ | Тържества в Пловдив",
+      "desc": "Ресторант на ул. „Пере Тошев“ 45 в Пловдив, отворен от 8:30 до полунощ. Запитване на 087 820 1734."
+    },
+    "en": {
+      "title": "Restaurant Fiesta | Celebrations in Plovdiv",
+      "desc": "A restaurant at 45 Pere Toshev Street in Plovdiv, open from 8:30 until midnight. Enquire on 087 820 1734."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Ресторант „Фиеста“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Ресторантът е на ул. „Пере Тошев“ 45, в южната част на Пловдив."
+    },
+    "en": {
+      "title": "Restaurant Fiesta. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The restaurant is at 45 Pere Toshev Street, in the southern part of Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Ресторантът поема поводи и приема поръчки.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The restaurant takes on occasions and accepts orders.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в ресторанта",
+      "lead": "Кухнята работи от осем и половина сутринта."
+    },
+    "en": {
+      "title": "Dinner in the restaurant",
+      "lead": "The kitchen works from half past eight in the morning."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Ресторантът е отворен до полунощ.",
+      "body": "Гостите му дават 4.3 в Google. Собствен сайт няма, така че телефонът остава единственият начин за резервация."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The restaurant stays open until midnight.",
+      "body": "Its guests rate it 4.3 on Google. There is no website, so the telephone remains the only way to book."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Пере Тошев“ 45, Пловдив"
+      ],
+      [
+        "Работно време",
+        "8:30 до полунощ"
+      ],
+      [
+        "Телефон",
+        "087 820 1734"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "45 Pere Toshev St, Plovdiv"
+      ],
+      [
+        "Opening hours",
+        "8:30 until midnight"
+      ],
+      [
+        "Phone",
+        "087 820 1734"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Ресторант „Фиеста“",
+    "en": "Why couples choose Restaurant Fiesta"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Ресторант „Фиеста“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Restaurant Fiesta publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Ресторант „Фиеста“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Restaurant Fiesta has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е на ул. „Пере Тошев“ 45, в южната част на Пловдив.",
+    "en": "The restaurant is at 45 Pere Toshev Street, in the southern part of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.3",
+        "count": 4.3,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "8:30 до 24",
+        "label": "работно време"
+      },
+      {
+        "value": "Поръчки",
+        "label": "приемат се"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.3",
+        "count": 4.3,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "8:30 to 24",
+        "label": "opening hours"
+      },
+      {
+        "value": "Orders",
+        "label": "accepted"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Ресторант „Фиеста“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Ресторант",
+            "d": "на ул. „Пере Тошев“ 45"
+          },
+          {
+            "n": "Отворен от 8:30 до полунощ"
+          },
+          {
+            "n": "Приема поръчки"
+          },
+          {
+            "n": "Резервация по телефон",
+            "d": "087 820 1734"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Restaurant Fiesta publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A restaurant",
+            "d": "at 45 Pere Toshev Street"
+          },
+          {
+            "n": "Open from 8:30 until midnight"
+          },
+          {
+            "n": "Takes orders"
+          },
+          {
+            "n": "Booking by telephone",
+            "d": "087 820 1734"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторант на ул. „Пере Тошев“ 45",
+      "Отворен от 8:30 сутринта до полунощ",
+      "Приема поръчки",
+      "В южната част на Пловдив"
+    ],
+    "en": [
+      "A restaurant at 45 Pere Toshev Street",
+      "Open from half past eight in the morning until midnight",
+      "Takes orders",
+      "In the southern part of Plovdiv"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ресторант в южната част на града",
+      "Дълъг работен ден"
+    ],
+    "en": [
+      "A restaurant in the south of the city",
+      "A long working day"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Тържества",
+        "body": "Ресторантът поема поводи, а работният му ден стига до полунощ.",
+        "fact": "До полунощ"
+      }
+    ],
+    "en": [
+      {
+        "title": "Celebrations",
+        "body": "The restaurant takes on occasions, and its working day runs until midnight.",
+        "fact": "Till midnight"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Ресторантът е отворен от осем и половина сутринта до полунощ и приема поръчки.",
+    "en": "The restaurant is open from half past eight in the morning until midnight and accepts orders."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Ресторант „Фиеста“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В ресторанта",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Ресторантът се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Ресторант „Фиеста“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Отворено от сутринта до полунощ.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите в ресторанта",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Restaurant Fiesta publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the restaurant",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The restaurant is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Restaurant Fiesta has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "Open from morning until midnight.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the restaurant",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на салона и брой места",
+    "Меню и куверт за тържества",
+    "ВНИМАНИЕ: в Пловдив има и „Сватбена зала Фиеста“ на бул. Васил Априлов — различен обект, да не се смесват"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Ресторантът",
+          "note": "ул. „Пере Тошев“ 45",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Работното време",
+          "note": "всеки ден",
+          "value": "8:30 до полунощ"
+        }
+      ],
+      "en": [
+        {
+          "space": "The restaurant",
+          "note": "45 Pere Toshev St",
+          "value": "capacity on request"
+        },
+        {
+          "space": "Opening hours",
+          "note": "every day",
+          "value": "8:30 until midnight"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в ресторанта",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава до полунощ",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the restaurant",
+          "when": "evening"
+        },
+        {
+          "what": "The evening runs until midnight",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Ресторант „Фиеста“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Restaurant Fiesta publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Ресторант, отворен от сутринта до полунощ.",
+        "heroUnder": "На ул. „Пере Тошев“ 45 в южната част на Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Ресторантът на ул. „Пере Тошев“.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A restaurant open from morning until midnight.",
+        "heroUnder": "At 45 Pere Toshev Street in the southern part of Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The restaurant on Pere Toshev Street.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
