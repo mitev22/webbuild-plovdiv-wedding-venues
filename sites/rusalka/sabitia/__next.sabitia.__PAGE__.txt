@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/3t6nq8ksh3v92.js"],"default"]
+3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/3t6nq8ksh3v92.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"y3wIwJ0xSGO_wugLRgdOR"}
+5:null

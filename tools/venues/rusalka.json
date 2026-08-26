@@ -1,0 +1,478 @@
+{
+  "slug": "rusalka",
+  "nameBg": "Сватбен ресторант „Русалка“",
+  "nameEn": "Rusalka Wedding Restaurant",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Русалка",
+    "en": "Rusalka"
+  },
+  "navMark": {
+    "bg": "СВАТБЕН РЕСТОРАНТ РУСАЛКА",
+    "en": "RUSALKA"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "ресторанта",
+    "en": "the restaurant"
+  },
+  "address": "бул. „Дунав“ 194, Пловдив",
+  "addressEn": "194 Dunav Blvd, Plovdiv",
+  "addressStreet": "бул. „Дунав“ 194",
+  "phone": [
+    "089 555 8949"
+  ],
+  "phoneE164": "+359895558949",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Сватбен+ресторант+Русалка+бул.+Дунав+194+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторант, обявен изцяло като сватбен",
+    "На бул. „Дунав“ 194, в северната част на Пловдив",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "A restaurant listed entirely as a wedding venue",
+    "At 194 Dunav Boulevard, in the northern part of Plovdiv",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Сватбите са в самото име на ресторанта",
+      "На бул. „Дунав“, с лесен достъп и паркиране в квартала",
+      "Свободните дати се проверяват с едно обаждане"
+    ],
+    "en": [
+      "Weddings are in the restaurant's very name",
+      "On Dunav Boulevard, easily reached, with parking in the neighbourhood",
+      "A single call checks which dates are free"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "бул. Дунав",
+    "en": "Dunav Blvd"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Сватбен ресторант „Русалка“ | Пловдив",
+      "desc": "Сватбен ресторант на бул. „Дунав“ 194 в Пловдив. Запитване за дата на 089 555 8949."
+    },
+    "en": {
+      "title": "Rusalka Wedding Restaurant | Plovdiv",
+      "desc": "A wedding restaurant at 194 Dunav Boulevard in Plovdiv. Enquire about a date on 089 555 8949."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Сватбен ресторант „Русалка“. Само за този ден.",
+      "lead": "Денят започва с пристигането. Ресторантът е на бул. „Дунав“ 194, в северната част на Пловдив, встрани от центъра."
+    },
+    "en": {
+      "title": "Rusalka Wedding Restaurant. For this day alone.",
+      "lead": "The day begins with the arrival. The restaurant is at 194 Dunav Boulevard, in the northern part of Plovdiv, away from the centre."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Ресторантът е обявен като сватбен и това е поводът, за който се предлага.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The restaurant is listed as a wedding venue and that is the occasion it is offered for.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в ресторанта",
+      "lead": "Гостите се хранят на място, в ресторанта на бул. „Дунав“."
+    },
+    "en": {
+      "title": "Dinner in the restaurant",
+      "lead": "Guests dine on site, in the restaurant on Dunav Boulevard."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Свободните дати се проверяват по телефон.",
+      "body": "Домакините нямат сайт и нямат страница в социалните мрежи, така че обаждането е единственият начин да се стигне до тях."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Free dates are checked by telephone.",
+      "body": "The hosts have no website and no social page, so a call is the only way to reach them."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „Дунав“ 194, Пловдив"
+      ],
+      [
+        "Район",
+        "северната част на града"
+      ],
+      [
+        "Телефон",
+        "089 555 8949"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "194 Dunav Blvd, Plovdiv"
+      ],
+      [
+        "District",
+        "the northern part of the city"
+      ],
+      [
+        "Phone",
+        "089 555 8949"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Сватбен ресторант „Русалка“",
+    "en": "Why couples choose Rusalka Wedding Restaurant"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Сватбен ресторант „Русалка“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Rusalka Wedding Restaurant publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Сватбен ресторант „Русалка“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Rusalka Wedding Restaurant has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е на бул. „Дунав“ 194, в северната част на Пловдив.",
+    "en": "The restaurant is at 194 Dunav Boulevard, in the northern part of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Сватби",
+        "label": "единствената специализация"
+      },
+      {
+        "value": "бул. Дунав",
+        "label": "северният Пловдив"
+      },
+      {
+        "value": "По телефон",
+        "label": "проверка на свободна дата"
+      }
+    ],
+    "en": [
+      {
+        "value": "Weddings",
+        "label": "the only specialism"
+      },
+      {
+        "value": "Dunav Blvd",
+        "label": "northern Plovdiv"
+      },
+      {
+        "value": "By phone",
+        "label": "checking a free date"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Сватбен ресторант „Русалка“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Сватбен ресторант",
+            "d": "на бул. „Дунав“ 194"
+          },
+          {
+            "n": "Северната част на Пловдив"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "089 555 8949"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Rusalka Wedding Restaurant publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A wedding restaurant",
+            "d": "at 194 Dunav Boulevard"
+          },
+          {
+            "n": "The northern part of Plovdiv"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "089 555 8949"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторант, обявен изцяло като сватбен",
+      "На бул. „Дунав“ 194, в северната част на Пловдив",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A restaurant listed entirely as a wedding venue",
+      "At 194 Dunav Boulevard, in the northern part of Plovdiv",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ресторант само за сватби"
+    ],
+    "en": [
+      "A weddings-only restaurant"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватбени тържества",
+        "body": "Ресторантът е обявен като сватбен и това е поводът, за който домакините го предлагат.",
+        "fact": "Единствената специализация"
+      }
+    ],
+    "en": [
+      {
+        "title": "Wedding celebrations",
+        "body": "The restaurant is listed as a wedding venue and that is the occasion the hosts offer it for.",
+        "fact": "The only specialism"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Ресторантът е на бул. „Дунав“ 194 и се обявява изцяло като сватбен.",
+    "en": "The restaurant is at 194 Dunav Boulevard and is listed entirely as a wedding venue."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "само сватби",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "weddings only",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Сватбен ресторант „Русалка“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В ресторанта",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Ресторантът се предлага за сватбени тържества.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Сватбен ресторант „Русалка“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Домакините нямат нито сайт, нито страница в социалните мрежи, така че публикувани фотографии на ресторанта няма.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Ресторант, отреден за един ден в годината на всеки.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Ресторант само за сватби",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Rusalka Wedding Restaurant publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the restaurant",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The restaurant is offered for wedding celebrations.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Rusalka Wedding Restaurant has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
+      "galleryEmptyBody": "The hosts have neither a website nor a social page, so there are no published photographs of the restaurant.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A restaurant kept for one day in anyone's year.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "A weddings-only restaurant",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на ресторанта и брой места",
+    "Меню и куверт",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Ресторантът",
+          "note": "бул. „Дунав“ 194",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Поводът",
+          "note": "сватбени тържества",
+          "value": "единствен"
+        }
+      ],
+      "en": [
+        {
+          "space": "The restaurant",
+          "note": "194 Dunav Blvd",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The occasion",
+          "note": "wedding celebrations",
+          "value": "the only one"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в ресторанта",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря на място",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the restaurant",
+          "when": "start"
+        },
+        {
+          "what": "Dinner on site",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Сватбен ресторант „Русалка“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Rusalka Wedding Restaurant publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Ресторант, който носи сватбата в името си.",
+        "heroUnder": "На бул. „Дунав“ 194 в Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Ресторантът на бул. „Дунав“.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A restaurant with the wedding in its name.",
+        "heroUnder": "At 194 Dunav Boulevard in Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The restaurant on Dunav Boulevard.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
