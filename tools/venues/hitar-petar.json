@@ -1,0 +1,450 @@
+{
+  "slug": "hitar-petar",
+  "nameBg": "Ресторант „Хитър Петър“",
+  "nameEn": "Hitar Petar Restaurant",
+  "harvestedOn": "2026-08-26",
+  "sources": "собствения им сайт hitarpetar.net и Google Business профила",
+  "wordmark": {
+    "bg": "Хитър Петър",
+    "en": "Hitar Petar"
+  },
+  "navMark": {
+    "bg": "ХИТЪР ПЕТЪР",
+    "en": "HITAR PETAR"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "ресторанта",
+    "en": "the restaurant"
+  },
+  "address": "бул. „Васил Априлов“ 140, Пловдив",
+  "addressEn": "140 Vasil Aprilov Blvd, Plovdiv",
+  "addressStreet": "бул. „Васил Априлов“ 140",
+  "phone": [
+    "032 968 778"
+  ],
+  "phoneE164": "+35932968778",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Ресторант+Хитър+Петър+Васил+Априлов+140+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторантът на бул. „Васил Априлов“ 140, Пловдив",
+    "Ресторант на бул. „Васил Априлов“ 140",
+    "Традиционно българско име и кухня"
+  ],
+  "packageIncludesEn": [
+    "The restaurant at 140 Vasil Aprilov Blvd, Plovdiv",
+    "A restaurant at 140 Vasil Aprilov Boulevard",
+    "A traditional Bulgarian name and kitchen"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "4.2 от отзивите в Google",
+      "Ресторант на бул. „Васил Априлов“ 140",
+      "Традиционно българско име и кухня"
+    ],
+    "en": [
+      "4.2 from its Google reviews",
+      "A restaurant at 140 Vasil Aprilov Boulevard",
+      "A traditional Bulgarian name and kitchen"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Васил Априлов",
+    "en": "Vasil Aprilov Blvd"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Ресторант „Хитър Петър“ | Тържества в Пловдив",
+      "desc": "Ресторант на бул. „Васил Априлов“ 140 в Пловдив. Резервации на 032 968 778."
+    },
+    "en": {
+      "title": "Hitar Petar Restaurant | Celebrations in Plovdiv",
+      "desc": "A restaurant at 140 Vasil Aprilov Boulevard in Plovdiv. Bookings on 032 968 778."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Ресторант „Хитър Петър“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Ресторантът е на бул. „Васил Априлов“ 140, Пловдив."
+    },
+    "en": {
+      "title": "Hitar Petar Restaurant. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The restaurant sits at 140 Vasil Aprilov Blvd, Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Ресторантът носи името на най-известния български шегобиец.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The restaurant carries the name of Bulgaria's best-known trickster.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят в салона на ресторанта."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine in the restaurant's room."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Гостите му дават 4.2 в Google.",
+      "body": "Сегашният им сайт не е пипан от 2020 година и се зарежда нестабилно, така че телефонът остава по-сигурният начин за резервация."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Its guests rate it 4.2 on Google.",
+      "body": "Their current site has not been touched since 2020 and loads unreliably, so the telephone remains the surer way to book."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „Васил Априлов“ 140, Пловдив"
+      ],
+      [
+        "Телефон",
+        "032 968 778"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "140 Vasil Aprilov Blvd, Plovdiv"
+      ],
+      [
+        "Phone",
+        "032 968 778"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Ресторант „Хитър Петър“",
+    "en": "Why couples choose Hitar Petar Restaurant"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Ресторант „Хитър Петър“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Hitar Petar Restaurant publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Ресторант „Хитър Петър“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Hitar Petar Restaurant has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е на бул. „Васил Априлов“ 140, Пловдив.",
+    "en": "The restaurant is at 140 Vasil Aprilov Blvd, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.2",
+        "count": 4.2,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Васил Априлов",
+        "label": "адресът на ресторанта"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.2",
+        "count": 4.2,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "Vasil Aprilov",
+        "label": "where it stands"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Ресторант „Хитър Петър“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Ресторант",
+            "d": "бул. „Васил Априлов“ 140"
+          },
+          {
+            "n": "Резервация по телефон",
+            "d": "032 968 778"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Hitar Petar Restaurant publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A restaurant",
+            "d": "140 Vasil Aprilov Blvd"
+          },
+          {
+            "n": "Booking by telephone",
+            "d": "032 968 778"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторантът на бул. „Васил Априлов“ 140, Пловдив",
+      "Ресторант на бул. „Васил Априлов“ 140",
+      "Традиционно българско име и кухня"
+    ],
+    "en": [
+      "The restaurant at 140 Vasil Aprilov Blvd, Plovdiv",
+      "A restaurant at 140 Vasil Aprilov Boulevard",
+      "A traditional Bulgarian name and kitchen"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ресторант на бул. „Васил Априлов“ 140",
+      "Традиционно българско име и кухня"
+    ],
+    "en": [
+      "A restaurant at 140 Vasil Aprilov Boulevard",
+      "A traditional Bulgarian name and kitchen"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Тържества в салона",
+        "body": "Ресторантът поема частни поводи през цялата година.",
+        "fact": "4.2 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Celebrations in the room",
+        "body": "The restaurant takes on private occasions all year round.",
+        "fact": "4.2 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Ресторантът е на бул. „Васил Априлов“ 140 и гостите му дават 4.2 в Google.",
+    "en": "The restaurant is at 140 Vasil Aprilov Boulevard and its guests rate it 4.2 on Google."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Ресторант „Хитър Петър“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В ресторанта",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Ресторант „Хитър Петър“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Сегашният им сайт не съдържа фотографии, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Маса, запазена за повода.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Hitar Petar Restaurant publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the restaurant",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Hitar Petar Restaurant has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
+      "galleryEmptyBody": "Their current site holds no publishable photographs.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A table kept for the occasion.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет и брой места",
+    "Меню и куверт",
+    "Сайтът им е замръзнал на 2020 — да се обсъди пренасочване на домейна"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Салонът",
+          "note": "бул. „Васил Априлов“ 140",
+          "value": "капацитет по запитване"
+        }
+      ],
+      "en": [
+        {
+          "space": "The room",
+          "note": "140 Vasil Aprilov Blvd",
+          "value": "capacity on request"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в салона",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the room",
+          "when": "evening"
+        },
+        {
+          "what": "The evening goes on",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Ресторант „Хитър Петър“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Hitar Petar Restaurant publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Маса за повода, на бул. „Васил Априлов“.",
+        "heroUnder": "Ресторант на номер 140, в северната част на Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Ресторантът и салонът.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A table for the occasion, on Vasil Aprilov Boulevard.",
+        "heroUnder": "A restaurant at number 140, in the northern part of Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The restaurant and its room.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
