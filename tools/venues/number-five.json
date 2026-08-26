@@ -1,0 +1,548 @@
+{
+  "slug": "number-five",
+  "nameBg": "Парти зала Number Five",
+  "nameEn": "Number Five Party Hall",
+  "harvestedOn": "2026-08-26",
+  "sources": "собствения им сайт numberfivebg.com и Google Business профила",
+  "wordmark": {
+    "bg": "Number Five",
+    "en": "Number Five"
+  },
+  "navMark": {
+    "bg": "NUMBER FIVE",
+    "en": "NUMBER FIVE"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "залата",
+    "en": "the hall"
+  },
+  "address": "ул. „Инженер Асен Йорданов“ 29, жк Тракия, Пловдив",
+  "addressEn": "29 Engineer Asen Yordanov St, Trakia, Plovdiv",
+  "addressStreet": "ул. „Инженер Асен Йорданов“ 29",
+  "phone": [],
+  "phoneE164": "",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Парти+зала+Number+Five+Асен+Йорданов+29+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Стилно обзаведена зала в модерен дизайн",
+    "Бар с хладилни витрини и чаши",
+    "Аудио система и караоке",
+    "Парти осветление",
+    "Билярд маса",
+    "Кафе машина и съдомиялна",
+    "Водна филтрация",
+    "Санитарни помещения"
+  ],
+  "packageIncludesEn": [
+    "A stylishly furnished hall in a modern design",
+    "A bar with refrigerated displays and glassware",
+    "An audio system and karaoke",
+    "Party lighting",
+    "A billiard table",
+    "A coffee machine and a dishwasher",
+    "Water filtration",
+    "Sanitary facilities"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Залата е обзаведена и оборудвана изцяло",
+      "Бар, аудио система и осветление на място",
+      "4.5 от отзивите в Google",
+      "Сами обявяват, че поемат и сватбени тържества"
+    ],
+    "en": [
+      "The hall is furnished and equipped throughout",
+      "A bar, an audio system and lighting on site",
+      "4.5 from its Google reviews",
+      "They state themselves that they take on weddings too"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Тракия",
+    "en": "Trakia"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
+    "en": "atmospheric visualisations, photographs of the hall to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Парти зала Number Five | Тържества в Пловдив",
+      "desc": "Обзаведена парти зала в жк Тракия, Пловдив, с бар, аудио система, караоке и парти осветление. За рождени дни, годишнини и сватби."
+    },
+    "en": {
+      "title": "Number Five Party Hall | Celebrations in Plovdiv",
+      "desc": "A furnished party hall in Trakia, Plovdiv, with a bar, an audio system, karaoke and party lighting. For birthdays, anniversaries and weddings."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Number Five. Залата идва оборудвана.",
+      "lead": "Денят започва с пристигането. Залата е на ул. „Инженер Асен Йорданов“ 29 в жк Тракия и е обзаведена и оборудвана изцяло."
+    },
+    "en": {
+      "title": "Number Five. The hall arrives equipped.",
+      "lead": "The day begins with the arrival. The hall is at 29 Engineer Asen Yordanov Street in Trakia and comes furnished and equipped throughout."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Домакините описват залата като стилно обзаведена, в модерен дизайн.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hosts describe the hall as stylishly furnished, in a modern design.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в залата",
+      "lead": "Барът е с хладилни витрини и чаши, а на място има кафе машина и съдомиялна."
+    },
+    "en": {
+      "title": "Dinner in the hall",
+      "lead": "The bar has refrigerated displays and glassware, and there is a coffee machine and a dishwasher on site."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Аудио системата, караокето и парти осветлението са на място.",
+      "body": "Домакините обявяват залата за рождени дни, годишнини и сватби. Настоящият им сайт не съдържа нито телефон, нито адрес, така че връзката минава през посещение на място."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The audio system, the karaoke and the party lighting are all on site.",
+      "body": "The hosts offer the hall for birthdays, anniversaries and weddings. Their current website carries neither a telephone number nor an address, so contact means calling in person."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Инженер Асен Йорданов“ 29, жк Тракия"
+      ],
+      [
+        "Район",
+        "Тракия икономическа зона, Пловдив"
+      ],
+      [
+        "Забележка",
+        "телефон не е публикуван в сайта им"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "29 Engineer Asen Yordanov St, Trakia"
+      ],
+      [
+        "District",
+        "Trakia economic zone, Plovdiv"
+      ],
+      [
+        "Note",
+        "no telephone is published on their site"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Парти зала Number Five",
+    "en": "Why couples choose Number Five Party Hall"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Парти зала Number Five не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Number Five Party Hall publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Парти зала Number Five няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Number Five Party Hall has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Залата е на ул. „Инженер Асен Йорданов“ 29 в жк Тракия, Пловдив.",
+    "en": "The hall is at 29 Engineer Asen Yordanov Street in Trakia, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.5",
+        "count": 4.5,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Бар",
+        "label": "на място в залата"
+      },
+      {
+        "value": "Караоке",
+        "label": "и парти осветление"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.5",
+        "count": 4.5,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "A bar",
+        "label": "on site in the hall"
+      },
+      {
+        "value": "Karaoke",
+        "label": "and party lighting"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Залата",
+        "note": "Парти зала Number Five не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Бар",
+            "d": "с хладилни витрини и чаши"
+          },
+          {
+            "n": "Аудио система и караоке"
+          },
+          {
+            "n": "Парти осветление"
+          },
+          {
+            "n": "Билярд маса"
+          },
+          {
+            "n": "Кафе машина и съдомиялна"
+          },
+          {
+            "n": "Водна филтрация"
+          },
+          {
+            "n": "Санитарни помещения"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The hall",
+        "note": "Number Five Party Hall publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A bar",
+            "d": "with refrigerated displays and glassware"
+          },
+          {
+            "n": "An audio system and karaoke"
+          },
+          {
+            "n": "Party lighting"
+          },
+          {
+            "n": "A billiard table"
+          },
+          {
+            "n": "A coffee machine and a dishwasher"
+          },
+          {
+            "n": "Water filtration"
+          },
+          {
+            "n": "Sanitary facilities"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Стилно обзаведена зала в модерен дизайн",
+      "Бар с хладилни витрини и чаши",
+      "Аудио система и караоке",
+      "Парти осветление",
+      "Билярд маса",
+      "Кафе машина и съдомиялна",
+      "Водна филтрация",
+      "Санитарни помещения"
+    ],
+    "en": [
+      "A stylishly furnished hall in a modern design",
+      "A bar with refrigerated displays and glassware",
+      "An audio system and karaoke",
+      "Party lighting",
+      "A billiard table",
+      "A coffee machine and a dishwasher",
+      "Water filtration",
+      "Sanitary facilities"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Аудио система",
+      "Караоке",
+      "Парти осветление",
+      "Билярд маса"
+    ],
+    "en": [
+      "An audio system",
+      "Karaoke",
+      "Party lighting",
+      "A billiard table"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватбени тържества",
+        "body": "Домакините обявяват залата и за сватби, наред с рождените дни и годишнините.",
+        "fact": "По техните думи"
+      },
+      {
+        "title": "Рождени дни и годишнини",
+        "body": "Залата е обзаведена и оборудвана за поводи през цялата година.",
+        "fact": "Целогодишно"
+      }
+    ],
+    "en": [
+      {
+        "title": "Wedding celebrations",
+        "body": "The hosts offer the hall for weddings as well as birthdays and anniversaries.",
+        "fact": "In their own words"
+      },
+      {
+        "title": "Birthdays and anniversaries",
+        "body": "The hall is furnished and equipped for occasions throughout the year.",
+        "fact": "All year round"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Домакините сами описват залата така: стилно обзаведена зала в модерен дизайн, подходяща за рождени дни, годишнини, сватби и други тържества.",
+    "en": "The hosts describe the hall themselves: a stylishly furnished hall in a modern design, suitable for birthdays, anniversaries, weddings and other celebrations."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "денят в залата",
+      "какво е на място",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the day in the hall",
+      "what is on site",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Залата",
+      "menuLead": "Парти зала Number Five не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В залата",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Залата се обявява за рождени дни, годишнини и сватби.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Парти зала Number Five няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
+      "galleryEmptyBody": "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Стилно обзаведена зала в модерен дизайн.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Залата и поводите",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The hall",
+      "menuLead": "Number Five Party Hall publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hall",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The hall is offered for birthdays, anniversaries and weddings.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Number Five Party Hall has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hall will stand here.",
+      "galleryEmptyBody": "Their current website holds no publishable photographs of the hall.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A stylishly furnished hall in a modern design.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "The hall and its occasions",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на залата и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "ТЕЛЕФОН ЗА ВРЪЗКА — настоящият им сайт не съдържа телефон, адрес или имейл",
+    "Капацитет на залата и брой места",
+    "Меню и куверт, ако предлагат кетъринг"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Залата",
+          "note": "стилно обзаведена, модерен дизайн",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Барът",
+          "note": "хладилни витрини и чаши",
+          "value": "на място"
+        },
+        {
+          "space": "Техниката",
+          "note": "аудио, караоке, осветление",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hall",
+          "note": "stylishly furnished, modern design",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The bar",
+          "note": "refrigerated displays and glassware",
+          "value": "on site"
+        },
+        {
+          "space": "The equipment",
+          "note": "audio, karaoke, lighting",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в залата",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря, с бар на място",
+          "when": "вечерта"
+        },
+        {
+          "what": "Караоке и танци под парти осветлението",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the hall",
+          "when": "start"
+        },
+        {
+          "what": "Dinner, with the bar on site",
+          "when": "evening"
+        },
+        {
+          "what": "Karaoke and dancing under the party lighting",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Парти зала Number Five не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Number Five Party Hall publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Зала, в която всичко вече е на място.",
+        "heroUnder": "Бар, аудио система, караоке и парти осветление в жк Тракия, Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата и барът.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A hall where everything is already in place.",
+        "heroUnder": "A bar, an audio system, karaoke and party lighting in Trakia, Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hall and the bar.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
