@@ -1,0 +1,490 @@
+{
+  "slug": "hebros",
+  "nameBg": "Хотел „Хеброс“",
+  "nameEn": "Hebros Hotel",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Хеброс",
+    "en": "Hebros"
+  },
+  "navMark": {
+    "bg": "ХОТЕЛ ХЕБРОС",
+    "en": "HEBROS HOTEL"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "хотела",
+    "en": "the hotel"
+  },
+  "address": "ул. „Константин Стоилов“ 51, Стария град, Пловдив",
+  "addressEn": "51 Konstantin Stoilov St, Old Town, Plovdiv",
+  "addressStreet": "ул. „Константин Стоилов“ 51",
+  "phone": [
+    "088 822 0377"
+  ],
+  "phoneE164": "+359888220377",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Хотел+Хеброс+Константин+Стоилов+51+Стария+град+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Хотелът на ул. „Константин Стоилов“ 51, Стария град, Пловдив",
+    "Хотел в Стария град на Пловдив",
+    "Стаи за гостите на място",
+    "Сред възрожденските къщи на хълма"
+  ],
+  "packageIncludesEn": [
+    "The hotel at 51 Konstantin Stoilov St, Old Town, Plovdiv",
+    "A hotel in the Old Town of Plovdiv",
+    "Rooms for guests on site",
+    "Among the revival houses on the hill"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "4.3 от отзивите в Google",
+      "Хотел в Стария град на Пловдив",
+      "Стаи за гостите на място",
+      "Сред възрожденските къщи на хълма"
+    ],
+    "en": [
+      "4.3 from its Google reviews",
+      "A hotel in the Old Town of Plovdiv",
+      "Rooms for guests on site",
+      "Among the revival houses on the hill"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Старият град",
+    "en": "Old Town"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на хотела",
+    "en": "atmospheric visualisations, photographs of the hotel to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Хотел „Хеброс“ | Тържества в Стария град, Пловдив",
+      "desc": "Хотел на ул. „Константин Стоилов“ 51 в Стария град на Пловдив, със стаи за гостите. Запитване на 088 822 0377."
+    },
+    "en": {
+      "title": "Hebros Hotel | Celebrations in Plovdiv Old Town",
+      "desc": "A hotel at 51 Konstantin Stoilov Street in the Old Town of Plovdiv, with rooms for guests. Enquire on 088 822 0377."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Хотел „Хеброс“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Хотелът е на ул. „Константин Стоилов“ 51, Стария град, Пловдив, в Стария град на Пловдив."
+    },
+    "en": {
+      "title": "Hebros Hotel. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The hotel sits at 51 Konstantin Stoilov St, Old Town, Plovdiv, in the Old Town of Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Хотелът е в Стария град, сред възрожденските къщи на хълма.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hotel is in the Old Town, among the revival houses on the hill.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят на място, а тези, които остават, спят в стаите на хотела."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine on site, and those who stay sleep in the hotel's rooms."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Гостите му дават 4.3 в Google.",
+      "body": "Собствен сайт няма, така че телефонът остава единственият начин за резервация."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Its guests rate it 4.3 on Google.",
+      "body": "There is no website, so the telephone remains the only way to book."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Константин Стоилов“ 51, Стария град, Пловдив"
+      ],
+      [
+        "Телефон",
+        "088 822 0377"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "51 Konstantin Stoilov St, Old Town, Plovdiv"
+      ],
+      [
+        "Phone",
+        "088 822 0377"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Хотел „Хеброс“",
+    "en": "Why couples choose Hebros Hotel"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Хотел „Хеброс“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Hebros Hotel publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Хотел „Хеброс“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Hebros Hotel has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Хотелът е на ул. „Константин Стоилов“ 51, Стария град, Пловдив.",
+    "en": "The hotel is at 51 Konstantin Stoilov St, Old Town, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.3",
+        "count": 4.3,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Старият град",
+        "label": "кварталът на хотела"
+      },
+      {
+        "value": "Стаи",
+        "label": "за гостите на място"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.3",
+        "count": 4.3,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "The Old Town",
+        "label": "where it stands"
+      },
+      {
+        "value": "Rooms",
+        "label": "for guests on site"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Хотел „Хеброс“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Хотел в Стария град",
+            "d": "ул. „Константин Стоилов“ 51"
+          },
+          {
+            "n": "Стаи за гостите",
+            "d": "на място"
+          },
+          {
+            "n": "Сред възрожденските къщи"
+          },
+          {
+            "n": "Запитване по телефон",
+            "d": "088 822 0377"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Hebros Hotel publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A hotel in the Old Town",
+            "d": "51 Konstantin Stoilov St"
+          },
+          {
+            "n": "Rooms for guests",
+            "d": "on site"
+          },
+          {
+            "n": "Among the revival houses"
+          },
+          {
+            "n": "Enquiries by telephone",
+            "d": "088 822 0377"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Хотелът на ул. „Константин Стоилов“ 51, Стария град, Пловдив",
+      "Хотел в Стария град на Пловдив",
+      "Стаи за гостите на място",
+      "Сред възрожденските къщи на хълма"
+    ],
+    "en": [
+      "The hotel at 51 Konstantin Stoilov St, Old Town, Plovdiv",
+      "A hotel in the Old Town of Plovdiv",
+      "Rooms for guests on site",
+      "Among the revival houses on the hill"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Хотел в Стария град на Пловдив",
+      "Стаи за гостите на място",
+      "Сред възрожденските къщи на хълма"
+    ],
+    "en": [
+      "A hotel in the Old Town of Plovdiv",
+      "Rooms for guests on site",
+      "Among the revival houses on the hill"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Тържества в Стария град",
+        "body": "Хотелът поема поводи в историческата част на Пловдив, а гостите могат да останат за нощувка.",
+        "fact": "Стаи на място"
+      }
+    ],
+    "en": [
+      {
+        "title": "Celebrations in the Old Town",
+        "body": "The hotel takes on occasions in the historic part of Plovdiv, and guests can stay the night.",
+        "fact": "Rooms on site"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Хотелът е на ул. „Константин Стоилов“ 51, в Стария град на Пловдив, със стаи за гостите на място.",
+    "en": "The hotel is at 51 Konstantin Stoilov Street, in the Old Town of Plovdiv, with rooms for guests on site."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Хотел „Хеброс“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В хотела",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Хотел „Хеброс“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на хотела.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Вечер и нощувка сред възрожденските къщи.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Hebros Hotel publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hotel",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Hebros Hotel has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hotel will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "An evening and a night among the revival houses.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на хотела и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Брой стаи и капацитет за тържество",
+    "Меню и куверт",
+    "Дали поемат сватбени тържества и при какви условия"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Хотелът",
+          "note": "Старият град, Пловдив",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Стаите",
+          "note": "за гостите, които остават",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hotel",
+          "note": "Old Town, Plovdiv",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The rooms",
+          "note": "for guests who stay",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите на хълма",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в Стария град",
+          "when": "вечерта"
+        },
+        {
+          "what": "Гостите, които остават, спят на място",
+          "when": "до сутринта"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received on the hill",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the Old Town",
+          "when": "evening"
+        },
+        {
+          "what": "Guests who stay sleep on site",
+          "when": "till morning"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Хотел „Хеброс“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Hebros Hotel publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Тържеството и нощувката на един хълм.",
+        "heroUnder": "Хотел на ул. „Константин Стоилов“ 51, сред възрожденските къщи.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Хотелът в Стария град.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The celebration and the night, on one hill.",
+        "heroUnder": "A hotel at 51 Konstantin Stoilov Street, among the revival houses.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hotel in the Old Town.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
