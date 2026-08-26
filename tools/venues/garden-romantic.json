@@ -1,0 +1,500 @@
+{
+  "slug": "garden-romantic",
+  "nameBg": "Ресторант „Романтик“",
+  "nameEn": "Restaurant Romantic",
+  "harvestedOn": "2026-08-26",
+  "sources": "Facebook страницата им и Google Business профила",
+  "wordmark": {
+    "bg": "Романтик",
+    "en": "Romantic"
+  },
+  "navMark": {
+    "bg": "РЕСТОРАНТ РОМАНТИК",
+    "en": "RESTAURANT ROMANTIC"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "garden",
+  "venueNoun": {
+    "bg": "градината",
+    "en": "the garden"
+  },
+  "address": "ул. „Вълко Шопов“ 4, жк Тракия, Пловдив",
+  "addressEn": "4 Valko Shopov St, Trakia, Plovdiv",
+  "addressStreet": "ул. „Вълко Шопов“ 4, жк Тракия",
+  "phone": [
+    "087 700 7375"
+  ],
+  "phoneE164": "+359877007375",
+  "email": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/profile.php?id=100063630518349",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=100063630518349"
+  ],
+  "mapQuery": "Ресторант+Романтик+Вълко+Шопов+Тракия+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторант с градина в жк Тракия",
+    "Места за гости на открито",
+    "Отворен всеки ден до полунощ",
+    "Континентална кухня"
+  ],
+  "packageIncludesEn": [
+    "A restaurant with a garden in the Trakia district",
+    "Outdoor seating for guests",
+    "Open every day until midnight",
+    "Continental cuisine"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Градина с места на открито",
+      "4.4 от отзивите в Google",
+      "Над 1600 души следят страницата им",
+      "Отворен до полунощ"
+    ],
+    "en": [
+      "A garden with outdoor seating",
+      "4.4 from its Google reviews",
+      "More than 1,600 people follow their page",
+      "Open until midnight"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Тракия",
+    "en": "Trakia"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на градината",
+    "en": "atmospheric visualisations, photographs of the garden to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Ресторант „Романтик“ | Тържества в Пловдив",
+      "desc": "Ресторант с градина на ул. „Вълко Шопов“ 4 в жк Тракия, Пловдив. Места на открито. Запитване на 087 700 7375."
+    },
+    "en": {
+      "title": "Restaurant Romantic | Celebrations in Plovdiv",
+      "desc": "A restaurant with a garden at 4 Valko Shopov Street in Trakia, Plovdiv. Outdoor seating. Enquire on 087 700 7375."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Ресторант „Романтик“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Ресторантът е на ул. „Вълко Шопов“ 4 в жк Тракия, с градина и места за гости на открито."
+    },
+    "en": {
+      "title": "Restaurant Romantic. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The restaurant is at 4 Valko Shopov Street in Trakia, with a garden and outdoor seating for guests."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Домакините описват мястото като уют, който предразполага към дълги разговори.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hosts describe the place as a comfort that invites long conversations.",
+      "body": "Details of its capacity and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в градината",
+      "lead": "Кухнята е континентална, а част от местата за гости са на открито."
+    },
+    "en": {
+      "title": "Dinner in the garden",
+      "lead": "The kitchen is continental, and some of the guest seating is outdoors."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Ресторантът е отворен всеки ден до полунощ.",
+      "body": "Над хиляда и шестстотин души следят страницата им във Facebook. Собствен сайт нямат, така че телефонът остава единственият начин за резервация."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The restaurant is open every day until midnight.",
+      "body": "More than sixteen hundred people follow their Facebook page. They have no website of their own, so the telephone remains the only way to book."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Вълко Шопов“ 4, жк Тракия, Пловдив"
+      ],
+      [
+        "Работно време",
+        "всеки ден до полунощ"
+      ],
+      [
+        "Телефон",
+        "087 700 7375"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "4 Valko Shopov St, Trakia, Plovdiv"
+      ],
+      [
+        "Opening hours",
+        "every day until midnight"
+      ],
+      [
+        "Phone",
+        "087 700 7375"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Ресторант „Романтик“",
+    "en": "Why couples choose Restaurant Romantic"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Ресторант „Романтик“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Restaurant Romantic publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Ресторант „Романтик“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Restaurant Romantic has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е на ул. „Вълко Шопов“ 4 в жк Тракия.",
+    "en": "The restaurant is at 4 Valko Shopov Street in the Trakia district."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.4",
+        "count": 4.4,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "1.6K",
+        "label": "следят страницата им"
+      },
+      {
+        "value": "До полунощ",
+        "label": "всеки ден"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.4",
+        "count": 4.4,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "1.6K",
+        "label": "follow their page"
+      },
+      {
+        "value": "Till midnight",
+        "label": "every day"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Ресторант „Романтик“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Континентална кухня",
+            "d": "както сами описват заведението"
+          },
+          {
+            "n": "Градина",
+            "d": "места за гости на открито"
+          },
+          {
+            "n": "Отворен до полунощ",
+            "d": "всеки ден"
+          },
+          {
+            "n": "Резервация по телефон",
+            "d": "087 700 7375"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Restaurant Romantic publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "Continental cuisine",
+            "d": "as they describe the place themselves"
+          },
+          {
+            "n": "A garden",
+            "d": "outdoor seating for guests"
+          },
+          {
+            "n": "Open until midnight",
+            "d": "every day"
+          },
+          {
+            "n": "Booking by telephone",
+            "d": "087 700 7375"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторант с градина в жк Тракия",
+      "Места за гости на открито",
+      "Отворен всеки ден до полунощ",
+      "Континентална кухня"
+    ],
+    "en": [
+      "A restaurant with a garden in the Trakia district",
+      "Outdoor seating for guests",
+      "Open every day until midnight",
+      "Continental cuisine"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Градина с места на открито",
+      "Континентална кухня"
+    ],
+    "en": [
+      "A garden with outdoor seating",
+      "Continental cuisine"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Всеки повод",
+        "body": "Домакините описват мястото като атмосфера, която превръща всеки повод в празник.",
+        "fact": "Градина на открито"
+      }
+    ],
+    "en": [
+      {
+        "title": "Any occasion",
+        "body": "The hosts describe the place as an atmosphere that turns any occasion into a celebration.",
+        "fact": "An open-air garden"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Домакините сами го описват така: вкус, който събира хората, и уют, който предразполага към дълги разговори.",
+    "en": "The hosts describe it themselves: a taste that brings people together, and a comfort that invites long conversations."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Ресторант „Романтик“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В градината",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Ресторант „Романтик“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на градината.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а снимките им живеят само във Facebook и не са предоставени за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Вкус, който събира хората.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Всеки повод намира мястото си",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Restaurant Romantic publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the garden",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Restaurant Romantic has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the garden will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their photographs live only on Facebook and have not been released for publication.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A taste that brings people together.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Every occasion finds its place",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на градината и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на градината и на салона",
+    "Меню и куверт за тържества",
+    "Дали поемат сватбени тържества и при какви условия"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Градината",
+          "note": "места за гости на открито",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Ресторантът",
+          "note": "жк Тракия",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The garden",
+          "note": "outdoor seating for guests",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The restaurant",
+          "note": "Trakia district",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в градината",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря на открито или вътре",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава до полунощ",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the garden",
+          "when": "start"
+        },
+        {
+          "what": "Dinner outdoors or inside",
+          "when": "evening"
+        },
+        {
+          "what": "The evening runs until midnight",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Ресторант „Романтик“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Restaurant Romantic publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Атмосфера, която превръща всеки повод в празник.",
+        "heroUnder": "Ресторант с градина на ул. „Вълко Шопов“ 4 в жк Тракия.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Градината и местата на открито.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "An atmosphere that turns any occasion into a celebration.",
+        "heroUnder": "A restaurant with a garden at 4 Valko Shopov Street in Trakia.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The garden and the outdoor seating.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
