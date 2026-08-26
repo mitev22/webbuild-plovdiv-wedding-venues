@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/webbuild-plovdiv-wedding-venues/sites/ramido/_next/static/chunks/1fpxxw4346w1w.js"],"ViewportBoundary"]
+3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/ramido/_next/static/chunks/1fpxxw4346w1w.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/webbuild-plovdiv-wedding-venues/sites/ramido/_next/static/chunks/1fpxxw4346w1w.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Рамидо | Зала за сватби в центъра на Пловдив"}],["$","meta","1",{"name":"description","content":"Зала за събития на бул. „Руски“ 15 в центъра на Пловдив. Запитване за дата на 088 509 0993."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/webbuild-plovdiv-wedding-venues/sites/ramido/favicon.svg"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BzWmgN7fBSl9KtEVEKjqm"}

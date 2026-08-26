@@ -1,0 +1,498 @@
+{
+  "slug": "ramido",
+  "nameBg": "Рамидо",
+  "nameEn": "Ramido",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Рамидо",
+    "en": "Ramido"
+  },
+  "navMark": {
+    "bg": "РАМИДО",
+    "en": "RAMIDO"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "залата",
+    "en": "the hall"
+  },
+  "address": "бул. „Руски“ 15, Пловдив",
+  "addressEn": "15 Ruski Blvd, Plovdiv",
+  "addressStreet": "бул. „Руски“ 15",
+  "phone": [
+    "088 509 0993"
+  ],
+  "phoneE164": "+359885090993",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Рамидо+зала+за+събития+бул.+Руски+15+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Зала за събития на бул. „Руски“ 15",
+    "В самия център на Пловдив",
+    "Достъпна по всяко време на денонощието",
+    "Домакините посрещат всякакви гости"
+  ],
+  "packageIncludesEn": [
+    "An event hall at 15 Ruski Boulevard",
+    "In the very centre of Plovdiv",
+    "Reachable at any hour of the day",
+    "The hosts welcome every kind of guest"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Зала в центъра на Пловдив, на бул. „Руски“",
+      "Пълна петица от отзивите в Google",
+      "Достъпна по всяко време на денонощието",
+      "Гостите се посрещат без значение кои са"
+    ],
+    "en": [
+      "A hall in the centre of Plovdiv, on Ruski Boulevard",
+      "A full five stars from its Google reviews",
+      "Reachable at any hour of the day",
+      "Guests are welcomed whoever they are"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "бул. Руски",
+    "en": "Ruski Blvd"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
+    "en": "atmospheric visualisations, photographs of the hall to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Рамидо | Зала за сватби в центъра на Пловдив",
+      "desc": "Зала за събития на бул. „Руски“ 15 в центъра на Пловдив. Запитване за дата на 088 509 0993."
+    },
+    "en": {
+      "title": "Ramido | A wedding hall in central Plovdiv",
+      "desc": "An event hall at 15 Ruski Boulevard in the centre of Plovdiv. Enquire about a date on 088 509 0993."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Рамидо. Залата е в самия център.",
+      "lead": "Денят започва с пристигането. Залата е на бул. „Руски“ 15, в центъра на Пловдив, така че гостите стигат пеша от почти всяка точка на стария град."
+    },
+    "en": {
+      "title": "Ramido. The hall stands in the centre itself.",
+      "lead": "The day begins with the arrival. The hall is at 15 Ruski Boulevard, in the centre of Plovdiv, so guests can walk to it from almost anywhere in the old city."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Залата се предлага за събития и е достъпна по всяко време на денонощието.",
+      "body": "Подробности за размерите ѝ и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hall is offered for events and is reachable at any hour of the day.",
+      "body": "Details of its dimensions and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в центъра",
+      "lead": "Гостите се хранят в залата, на крачки от центъра на Пловдив."
+    },
+    "en": {
+      "title": "Dinner in the centre",
+      "lead": "Guests dine in the hall, a short walk from the centre of Plovdiv."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Залата има пълна петица от отзивите си в Google.",
+      "body": "Домакините посрещат всякакви гости и залата е достъпна по всяко време на денонощието. Сайт нямат, така че телефонът е единственият начин да се провери свободна дата."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The hall holds a full five stars from its Google reviews.",
+      "body": "The hosts welcome every kind of guest and the hall is reachable at any hour. They have no website, so the telephone is the only way to check whether a date is free."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „Руски“ 15, Пловдив"
+      ],
+      [
+        "Район",
+        "центърът на града"
+      ],
+      [
+        "Телефон",
+        "088 509 0993"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "15 Ruski Blvd, Plovdiv"
+      ],
+      [
+        "District",
+        "the city centre"
+      ],
+      [
+        "Phone",
+        "088 509 0993"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Рамидо",
+    "en": "Why couples choose Ramido"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Рамидо не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Ramido publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Рамидо няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Ramido has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Залата е на бул. „Руски“ 15, в центъра на Пловдив.",
+    "en": "The hall is at 15 Ruski Boulevard, in the centre of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "5.0",
+        "count": 5,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Центърът",
+        "label": "бул. „Руски“ 15"
+      },
+      {
+        "value": "Денонощно",
+        "label": "достъпна по всяко време"
+      }
+    ],
+    "en": [
+      {
+        "value": "5.0",
+        "count": 5,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "The centre",
+        "label": "15 Ruski Blvd"
+      },
+      {
+        "value": "Any hour",
+        "label": "reachable at all times"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Рамидо не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Зала за събития",
+            "d": "на бул. „Руски“ 15"
+          },
+          {
+            "n": "В центъра на Пловдив",
+            "d": "гостите стигат пеша"
+          },
+          {
+            "n": "Достъпна по всяко време",
+            "d": "денонощно"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "088 509 0993"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Ramido publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "An event hall",
+            "d": "at 15 Ruski Boulevard"
+          },
+          {
+            "n": "In central Plovdiv",
+            "d": "guests can walk to it"
+          },
+          {
+            "n": "Reachable at any hour",
+            "d": "around the clock"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "088 509 0993"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Зала за събития на бул. „Руски“ 15",
+      "В самия център на Пловдив",
+      "Достъпна по всяко време на денонощието",
+      "Домакините посрещат всякакви гости"
+    ],
+    "en": [
+      "An event hall at 15 Ruski Boulevard",
+      "In the very centre of Plovdiv",
+      "Reachable at any hour of the day",
+      "The hosts welcome every kind of guest"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Зала за събития",
+      "В центъра на града"
+    ],
+    "en": [
+      "An event hall",
+      "In the city centre"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватби в центъра",
+        "body": "Залата се предлага за сватбени тържества на бул. „Руски“, в самия център на Пловдив.",
+        "fact": "5.0 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Weddings in the centre",
+        "body": "The hall is offered for wedding celebrations on Ruski Boulevard, in the very centre of Plovdiv.",
+        "fact": "5.0 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Залата е на бул. „Руски“ 15 и има пълна петица от отзивите си в Google.",
+    "en": "The hall is at 15 Ruski Boulevard and holds a full five stars from its Google reviews."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "в залата",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "in the hall",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Рамидо не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В залата",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Залата се предлага за събития в центъра на Пловдив.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Рамидо няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии на залата, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Зала на две крачки от центъра.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Залата в центъра",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Ramido publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hall",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The hall is offered for events in the centre of Plovdiv.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Ramido has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hall will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs of the hall.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A hall two steps from the centre.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "The hall in the centre",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на залата и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на залата и брой места",
+    "Работно време за огледи",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Залата",
+          "note": "бул. „Руски“ 15",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Локацията",
+          "note": "центърът на Пловдив",
+          "value": "пеша"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hall",
+          "note": "15 Ruski Blvd",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The location",
+          "note": "central Plovdiv",
+          "value": "on foot"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в залата",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в центъра на града",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the hall",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the city centre",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Рамидо не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Ramido publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Зала в центъра на града.",
+        "heroUnder": "На бул. „Руски“ 15, на крачки от всичко в Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата на бул. „Руски“.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A hall in the centre of the city.",
+        "heroUnder": "At 15 Ruski Boulevard, a short walk from everything in Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hall on Ruski Boulevard.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
