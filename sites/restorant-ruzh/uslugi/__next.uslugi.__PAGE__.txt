@@ -2,5 +2,5 @@
 2:I[56390,["/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1kaefii81nlja.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1kaefii81nlja.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CqvGI1w2tHT-6HACF1OYL"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1kaefii81nlja.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"D8mjJwyIXRz3U-egRxrOT"}
 5:null

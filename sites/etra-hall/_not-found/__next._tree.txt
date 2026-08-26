@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/chunks/1nn20gwh806mv.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"P0IgNYRiil80nJW_Ixqm_"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/chunks/15eozpccuu73l.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Ah6umTNxUMWoiW_S6DMgi"}

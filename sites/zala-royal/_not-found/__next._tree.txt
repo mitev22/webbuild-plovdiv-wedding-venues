@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/zala-royal/_next/static/chunks/2vw_upwlijix3.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"F4KT8Bn9__4hal5Ee-Vhg"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/zala-royal/_next/static/chunks/3-8xwu7tat_uo.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WcmxMOmH4bTQU8jTLHAhs"}

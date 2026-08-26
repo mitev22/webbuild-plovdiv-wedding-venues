@@ -2,5 +2,5 @@
 2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/malak-bunardzhik/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/malak-bunardzhik/_next/static/chunks/3yv2s6ysyuo7r.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/malak-bunardzhik/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/malak-bunardzhik/_next/static/chunks/3yv2s6ysyuo7r.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T8FtXD9tbSfS0T2tgaYWy"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/malak-bunardzhik/_next/static/chunks/3yv2s6ysyuo7r.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-Z_fZRxJSv4m3SEJkEeOl"}
 5:null
