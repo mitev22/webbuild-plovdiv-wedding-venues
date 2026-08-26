@@ -1,0 +1,496 @@
+{
+  "slug": "zala-kalinka",
+  "nameBg": "Зала „Калинка“",
+  "nameEn": "Kalinka Hall",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Калинка",
+    "en": "Kalinka"
+  },
+  "navMark": {
+    "bg": "ЗАЛА КАЛИНКА",
+    "en": "KALINKA HALL"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "залата",
+    "en": "the hall"
+  },
+  "address": "местност Беломорски 27А, Пловдив",
+  "addressEn": "27A Belomorski locality, Plovdiv",
+  "addressStreet": "местност Беломорски 27А",
+  "phone": [
+    "089 829 2880"
+  ],
+  "phoneE164": "+359898292880",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Зала+Калинка+Беломорски+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Зала за събития в местност Беломорски",
+    "Организация на тържества на място",
+    "Работно време от 9 до 21 часа",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "An event hall in the Belomorski locality",
+    "Celebrations are organised on site",
+    "Open from 9 in the morning until 9 in the evening",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Зала за тържества с 4.8 от отзивите в Google",
+      "Организацията на деня се поема на място",
+      "Дълго работно време, от сутрин до късно вечер"
+    ],
+    "en": [
+      "A hall rated 4.8 by its Google reviewers",
+      "The organisation of the day is handled on site",
+      "Long opening hours, from morning until late"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Беломорски",
+    "en": "Belomorski"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
+    "en": "atmospheric visualisations, photographs of the hall to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Зала „Калинка“ | Сватбени тържества в Пловдив",
+      "desc": "Зала за сватбени тържества в местност Беломорски, Пловдив. Организация на деня на място. Запитване за дата на 089 829 2880."
+    },
+    "en": {
+      "title": "Kalinka Hall | Wedding celebrations in Plovdiv",
+      "desc": "A hall for wedding celebrations in the Belomorski locality, Plovdiv. The day is organised on site. Enquire about a date on 089 829 2880."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Зала „Калинка“. Тържеството се organизира на място.",
+      "lead": "Денят започва с пристигането. Залата е в местност Беломорски, в южната част на Пловдив, встрани от движението в центъра."
+    },
+    "en": {
+      "title": "Kalinka Hall. The celebration is organised on site.",
+      "lead": "The day begins with the arrival. The hall stands in the Belomorski locality, in the southern part of Plovdiv, away from the traffic of the centre."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Залата се предлага за тържества, а организацията се поема на място.",
+      "body": "Подробности за размерите на залата и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hall is offered for celebrations, and the organising is handled on site.",
+      "body": "Details of the hall's dimensions and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в залата",
+      "lead": "Гостите се хранят в залата, а подготовката се поема от домакините."
+    },
+    "en": {
+      "title": "Dinner in the hall",
+      "lead": "Guests dine in the hall, and the preparation is handled by the hosts."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Залата работи от девет сутринта до девет вечерта.",
+      "body": "Гостите ѝ дават 4.8 в Google. Домакините нямат сайт, така че телефонът е единственият начин да се провери свободна дата."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The hall is open from nine in the morning until nine in the evening.",
+      "body": "Its guests rate it 4.8 on Google. The hosts have no website, so the telephone is the only way to check whether a date is free."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "местност Беломорски 27А, Пловдив"
+      ],
+      [
+        "Район",
+        "южната част на града"
+      ],
+      [
+        "Телефон",
+        "089 829 2880"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "27A Belomorski locality, Plovdiv"
+      ],
+      [
+        "District",
+        "the southern part of the city"
+      ],
+      [
+        "Phone",
+        "089 829 2880"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Зала „Калинка“",
+    "en": "Why couples choose Kalinka Hall"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Зала „Калинка“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Kalinka Hall publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Зала „Калинка“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Kalinka Hall has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Залата е в местност Беломорски, в южната част на Пловдив.",
+    "en": "The hall is in the Belomorski locality, in the southern part of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.8",
+        "count": 4.8,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "9 до 21",
+        "label": "работно време"
+      },
+      {
+        "value": "На място",
+        "label": "организация на деня"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.8",
+        "count": 4.8,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "9 to 21",
+        "label": "opening hours"
+      },
+      {
+        "value": "On site",
+        "label": "the day is organised"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Зала „Калинка“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Зала за тържества",
+            "d": "в местност Беломорски"
+          },
+          {
+            "n": "Организация на място",
+            "d": "домакините поемат подготовката"
+          },
+          {
+            "n": "Работно време",
+            "d": "от 9 до 21 часа"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "089 829 2880"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Kalinka Hall publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A hall for celebrations",
+            "d": "in the Belomorski locality"
+          },
+          {
+            "n": "Organised on site",
+            "d": "the hosts handle the preparation"
+          },
+          {
+            "n": "Opening hours",
+            "d": "from 9 until 21"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "089 829 2880"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Зала за събития в местност Беломорски",
+      "Организация на тържества на място",
+      "Работно време от 9 до 21 часа",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "An event hall in the Belomorski locality",
+      "Celebrations are organised on site",
+      "Open from 9 in the morning until 9 in the evening",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Зала за тържества",
+      "Организация на място"
+    ],
+    "en": [
+      "A hall for celebrations",
+      "Organised on site"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватбени тържества",
+        "body": "Залата се предлага за сватби, а подготовката на деня се поема от домакините.",
+        "fact": "4.8 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Wedding celebrations",
+        "body": "The hall is offered for weddings, and the preparation of the day is handled by the hosts.",
+        "fact": "4.8 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Залата работи от девет сутринта до девет вечерта, а гостите ѝ дават 4.8 в Google.",
+    "en": "The hall is open from nine in the morning until nine in the evening, and its guests rate it 4.8 on Google."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "в залата",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "in the hall",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Зала „Калинка“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В залата",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Залата се предлага за тържества, а организацията се поема на място.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Зала „Калинка“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии на залата, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Една зала, която поема целия ден.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Залата и поводите",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Kalinka Hall publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the hall",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The hall is offered for celebrations, with the organising handled on site.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Kalinka Hall has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the hall will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs of the hall.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "One hall that takes on the whole day.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "The hall and its occasions",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на залата и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на залата и брой места",
+    "Дали има градина или открита част",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Залата",
+          "note": "мястото на тържеството",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Организацията",
+          "note": "поема се от домакините",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The hall",
+          "note": "where the celebration is held",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The organising",
+          "note": "handled by the hosts",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в залата",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в залата",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the hall",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the hall",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Зала „Калинка“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Kalinka Hall publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Залата поема целия ден.",
+        "heroUnder": "В местност Беломорски в Пловдив, с организация на тържеството на място.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Залата и подготовката за деня.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "The hall takes on the whole day.",
+        "heroUnder": "In the Belomorski locality in Plovdiv, with the celebration organised on site.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The hall and the preparation for the day.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
