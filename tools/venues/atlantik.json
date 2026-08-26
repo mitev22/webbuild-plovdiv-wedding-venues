@@ -1,0 +1,484 @@
+{
+  "slug": "atlantik",
+  "nameBg": "Ресторант-градина „Атлантик“",
+  "nameEn": "Atlantik Garden Restaurant",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Атлантик",
+    "en": "Atlantik"
+  },
+  "navMark": {
+    "bg": "РЕСТОРАНТ АТЛАНТИК",
+    "en": "ATLANTIK"
+  },
+  "town": "Първенец",
+  "townEn": "Parvenets",
+  "type": "garden",
+  "venueNoun": {
+    "bg": "градината",
+    "en": "the garden"
+  },
+  "address": "ул. „Съединение“ 43, с. Първенец",
+  "addressEn": "43 Saedinenie Street, Parvenets",
+  "addressStreet": "ул. „Съединение“ 43",
+  "phone": [
+    "088 772 1412"
+  ],
+  "phoneE164": "+359887721412",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Ресторант+градина+Атлантик+Първенец+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторант с градина в село Първенец",
+    "Извън Пловдив, в подножието на Родопите",
+    "Дати се уговарят по телефон"
+  ],
+  "packageIncludesEn": [
+    "A restaurant with a garden in the village of Parvenets",
+    "Outside Plovdiv, at the foot of the Rhodopes",
+    "Dates are arranged by telephone"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Ресторант с градина извън града",
+      "4.4 от отзивите в Google",
+      "В Първенец, на кратко разстояние от Пловдив"
+    ],
+    "en": [
+      "A restaurant with a garden outside the city",
+      "4.4 from its Google reviews",
+      "In Parvenets, a short drive from Plovdiv"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Първенец",
+    "en": "Parvenets"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на градината",
+    "en": "atmospheric visualisations, photographs of the garden to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Ресторант-градина „Атлантик“ | Сватби в Първенец",
+      "desc": "Ресторант с градина в село Първенец край Пловдив. Запитване за дата на 088 772 1412."
+    },
+    "en": {
+      "title": "Atlantik Garden Restaurant | Weddings in Parvenets",
+      "desc": "A restaurant with a garden in Parvenets near Plovdiv. Enquire about a date on 088 772 1412."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Атлантик. Денят минава в градината.",
+      "lead": "Денят започва с пристигането. Ресторантът е на ул. „Съединение“ 43 в село Първенец, южно от Пловдив, в подножието на Родопите."
+    },
+    "en": {
+      "title": "Atlantik. The day is spent in the garden.",
+      "lead": "The day begins with the arrival. The restaurant is at 43 Saedinenie Street in Parvenets, south of Plovdiv, at the foot of the Rhodopes."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Ресторантът носи градината в самото си име.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The restaurant carries the garden in its very name.",
+      "body": "Details of its capacity and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята в градината",
+      "lead": "Гостите се хранят в ресторанта и в градината около него."
+    },
+    "en": {
+      "title": "Dinner in the garden",
+      "lead": "Guests dine in the restaurant and in the garden around it."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Гостите дават на ресторанта 4.4 в Google.",
+      "body": "Домакините нямат сайт, така че телефонът е единственият начин да се провери свободна дата."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Guests rate the restaurant 4.4 on Google.",
+      "body": "The hosts have no website, so the telephone is the only way to check whether a date is free."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Съединение“ 43, с. Първенец"
+      ],
+      [
+        "Разстояние",
+        "южно от Пловдив, в подножието на Родопите"
+      ],
+      [
+        "Телефон",
+        "088 772 1412"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "43 Saedinenie St, Parvenets"
+      ],
+      [
+        "Distance",
+        "south of Plovdiv, at the foot of the Rhodopes"
+      ],
+      [
+        "Phone",
+        "088 772 1412"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Ресторант-градина „Атлантик“",
+    "en": "Why couples choose Atlantik Garden Restaurant"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Ресторант-градина „Атлантик“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Atlantik Garden Restaurant publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Ресторант-градина „Атлантик“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Atlantik Garden Restaurant has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е в село Първенец, южно от Пловдив.",
+    "en": "The restaurant is in Parvenets, south of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.4",
+        "count": 4.4,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Градина",
+        "label": "мястото на деня"
+      },
+      {
+        "value": "Първенец",
+        "label": "извън Пловдив"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.4",
+        "count": 4.4,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "Garden",
+        "label": "where the day happens"
+      },
+      {
+        "value": "Parvenets",
+        "label": "outside Plovdiv"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Ресторант-градина „Атлантик“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Ресторант с градина",
+            "d": "в село Първенец"
+          },
+          {
+            "n": "Извън града",
+            "d": "в подножието на Родопите"
+          },
+          {
+            "n": "Уговаряне по телефон",
+            "d": "088 772 1412"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Atlantik Garden Restaurant publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A restaurant with a garden",
+            "d": "in the village of Parvenets"
+          },
+          {
+            "n": "Outside the city",
+            "d": "at the foot of the Rhodopes"
+          },
+          {
+            "n": "Arranged by telephone",
+            "d": "088 772 1412"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторант с градина в село Първенец",
+      "Извън Пловдив, в подножието на Родопите",
+      "Дати се уговарят по телефон"
+    ],
+    "en": [
+      "A restaurant with a garden in the village of Parvenets",
+      "Outside Plovdiv, at the foot of the Rhodopes",
+      "Dates are arranged by telephone"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ресторант с градина",
+      "Извън града"
+    ],
+    "en": [
+      "A restaurant with a garden",
+      "Outside the city"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватби в градината",
+        "body": "Градината и ресторантът поемат тържеството извън шума на града.",
+        "fact": "4.4 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Weddings in the garden",
+        "body": "The garden and the restaurant take on the celebration away from the noise of the city.",
+        "fact": "4.4 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Ресторантът е в село Първенец и гостите му дават 4.4 в Google.",
+    "en": "The restaurant is in Parvenets and its guests rate it 4.4 on Google."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "денят в градината",
+      "какво се знае",
+      "в градината",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the day in the garden",
+      "what is known",
+      "in the garden",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Ресторант-градина „Атлантик“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В градината",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за тържества в градината.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Ресторант-градина „Атлантик“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на градината.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии на градината, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Градина в подножието на планината.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Тържества в градината",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Atlantik Garden Restaurant publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the garden",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for celebrations in the garden.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Atlantik Garden Restaurant has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the garden will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs of the garden.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A garden at the foot of the mountain.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Celebrations in the garden",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на градината и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет на градината и на закритата част",
+    "Меню и куверт",
+    "Facebook или Instagram страница, ако имат"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Градината",
+          "note": "мястото на тържеството",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Ресторантът",
+          "note": "с. Първенец",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The garden",
+          "note": "where the celebration is held",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The restaurant",
+          "note": "Parvenets",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в градината",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря на открито",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the garden",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the open air",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Ресторант-градина „Атлантик“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Atlantik Garden Restaurant publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Ресторант с градина, извън града.",
+        "heroUnder": "В село Първенец, на кратко разстояние от Пловдив.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Градината на Атлантик.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A restaurant with a garden, outside the city.",
+        "heroUnder": "In the village of Parvenets, a short drive from Plovdiv.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The garden at Atlantik.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
