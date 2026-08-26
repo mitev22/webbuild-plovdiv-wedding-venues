@@ -25,38 +25,86 @@
       "note": "Etra brand-first: gold #BE9D36 sampled from etra.bg CSS (2026-07-22); film stops from the brand evening navy."
     },
     "images": {
-      "heroFilm": "",
-      "wallGarden": "",
-      "wallHall": "",
-      "wallTerrace": "",
+      "heroFilm": "/photos/marieta-martin-lg.webp",
+      "wallGarden": "/photos/winnersgroup.webp",
+      "wallHall": "/photos/maria-ivan.webp",
+      "wallTerrace": "/photos/zalata.webp",
       "ogImage": "/atmosphere/og-card.jpg"
     },
     "factsDict": {
       "bg": {
         "capacityRows": [
-          { "space": "Залата", "note": "изискан ресторант", "value": "450 седнали" },
-          { "space": "Церемонията", "note": "изнесен ритуал на място", "value": "възможна" },
-          { "space": "Пристигането", "note": "паркинг пред вратата", "value": "безплатен" }
+          {
+            "space": "Залата",
+            "note": "изискан ресторант",
+            "value": "450 седнали"
+          },
+          {
+            "space": "Церемонията",
+            "note": "изнесен ритуал на място",
+            "value": "възможна"
+          },
+          {
+            "space": "Пристигането",
+            "note": "паркинг пред вратата",
+            "value": "безплатен"
+          }
         ],
         "timetable": [
-          { "what": "Welcome drink при пристигане", "when": "начало" },
-          { "what": "Вечеря, 3 или 4 степени по пакет", "when": "вечерта" },
-          { "what": "DJ и музикално-артистична програма", "when": "до късно" },
-          { "what": "Оставане след работно време", "when": "възможно" }
+          {
+            "what": "Welcome drink при пристигане",
+            "when": "начало"
+          },
+          {
+            "what": "Вечеря, 3 или 4 степени по пакет",
+            "when": "вечерта"
+          },
+          {
+            "what": "DJ и музикално-артистична програма",
+            "when": "до късно"
+          },
+          {
+            "what": "Оставане след работно време",
+            "when": "възможно"
+          }
         ],
         "packagesNote": "Три пакета: Артемида, Хера и Афродита, всеки с дегустация за двама. Кувертът зависи от менюто и датата: опишете деня си във формата и ще получите точна оферта."
       },
       "en": {
         "capacityRows": [
-          { "space": "The hall", "note": "refined restaurant", "value": "450 seated" },
-          { "space": "The ceremony", "note": "on-site ritual", "value": "possible" },
-          { "space": "Arrival", "note": "parking at the door", "value": "free" }
+          {
+            "space": "The hall",
+            "note": "refined restaurant",
+            "value": "450 seated"
+          },
+          {
+            "space": "The ceremony",
+            "note": "on-site ritual",
+            "value": "possible"
+          },
+          {
+            "space": "Arrival",
+            "note": "parking at the door",
+            "value": "free"
+          }
         ],
         "timetable": [
-          { "what": "Welcome drink on arrival", "when": "start" },
-          { "what": "Dinner, 3 or 4 courses per package", "when": "evening" },
-          { "what": "DJ and live programme", "when": "till late" },
-          { "what": "Staying past closing time", "when": "possible" }
+          {
+            "what": "Welcome drink on arrival",
+            "when": "start"
+          },
+          {
+            "what": "Dinner, 3 or 4 courses per package",
+            "when": "evening"
+          },
+          {
+            "what": "DJ and live programme",
+            "when": "till late"
+          },
+          {
+            "what": "Staying past closing time",
+            "when": "possible"
+          }
         ],
         "packagesNote": "Three packages: Artemis, Hera and Aphrodite, each with a tasting for two. The per-head price depends on the menu and the date: describe your day in the form for an exact offer."
       }

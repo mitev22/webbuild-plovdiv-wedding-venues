@@ -25,10 +25,10 @@
       "note": "Сватбена зала Роял: brand palette carried over from the 2026-07 vertical build (venue-true)."
     },
     "images": {
-      "heroFilm": "",
-      "wallGarden": "",
-      "wallHall": "",
-      "wallTerrace": "",
+      "heroFilm": "/photos/zalata-lg.webp",
+      "wallGarden": "/photos/zalata-masi.webp",
+      "wallHall": "/photos/gradinata.webp",
+      "wallTerrace": "/photos/sgradata.webp",
       "ogImage": "/atmosphere/og-card.jpg"
     },
     "factsDict": {

@@ -25,9 +25,9 @@
       "note": "Сватбен Дом: brand palette carried over from the 2026-07 vertical build (venue-true)."
     },
     "images": {
-      "heroFilm": "",
-      "wallGarden": "",
-      "wallHall": "",
+      "heroFilm": "/photos/zalata-lg.webp",
+      "wallGarden": "/photos/sgradata.webp",
+      "wallHall": "/photos/zalata.webp",
       "wallTerrace": "",
       "ogImage": "/atmosphere/og-card.jpg"
     },

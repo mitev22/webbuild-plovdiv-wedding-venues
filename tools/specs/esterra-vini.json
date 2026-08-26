@@ -25,10 +25,10 @@
       "note": "Естера Вини: brand palette carried over from the 2026-07 vertical build (venue-true)."
     },
     "images": {
-      "heroFilm": "",
-      "wallGarden": "",
-      "wallHall": "",
-      "wallTerrace": "",
+      "heroFilm": "/photos/gal15-lg.webp",
+      "wallGarden": "/photos/ev12.webp",
+      "wallHall": "/photos/gal20.webp",
+      "wallTerrace": "/photos/gal16.webp",
       "ogImage": "/atmosphere/og-card.jpg"
     },
     "factsDict": {
