@@ -1,0 +1,444 @@
+{
+  "slug": "joana",
+  "nameBg": "Ресторант „Джоана“",
+  "nameEn": "Restaurant Joana",
+  "harvestedOn": "2026-08-26",
+  "sources": "собствения им сайт djoana.com и Google Business профила",
+  "wordmark": {
+    "bg": "Джоана",
+    "en": "Joana"
+  },
+  "navMark": {
+    "bg": "РЕСТОРАНТ ДЖОАНА",
+    "en": "RESTAURANT JOANA"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "ресторанта",
+    "en": "the restaurant"
+  },
+  "address": "бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив",
+  "addressEn": "Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv",
+  "addressStreet": "бул. „Дунав“ и ул. „Победа“",
+  "phone": [
+    "088 830 2428"
+  ],
+  "phoneE164": "+359888302428",
+  "email": "",
+  "instagram": "",
+  "facebook": "",
+  "sameAs": [],
+  "mapQuery": "Ресторант+Джоана+Кършияка+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Ресторантът на бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив",
+    "Ресторант в квартал Кършияка",
+    "На ъгъла на бул. „Дунав“ и ул. „Победа“"
+  ],
+  "packageIncludesEn": [
+    "The restaurant at Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv",
+    "A restaurant in the Karshiyaka district",
+    "At the corner of Dunav Boulevard and Pobeda Street"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Ресторант в квартал Кършияка",
+      "На ъгъла на бул. „Дунав“ и ул. „Победа“"
+    ],
+    "en": [
+      "A restaurant in the Karshiyaka district",
+      "At the corner of Dunav Boulevard and Pobeda Street"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Кършияка",
+    "en": "Karshiyaka"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Ресторант „Джоана“ | Тържества в Пловдив",
+      "desc": "Ресторант на бул. „Дунав“ и ул. „Победа“ в Кършияка, Пловдив. Резервации на 088 830 2428."
+    },
+    "en": {
+      "title": "Restaurant Joana | Celebrations in Plovdiv",
+      "desc": "A restaurant at Dunav Boulevard and Pobeda Street in Karshiyaka, Plovdiv. Bookings on 088 830 2428."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Ресторант „Джоана“. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Ресторантът е на бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив, в квартал Кършияка."
+    },
+    "en": {
+      "title": "Restaurant Joana. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The restaurant sits at Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv, in the Karshiyaka district."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Ресторантът е в Кършияка и поема поводи през цялата година.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The restaurant is in Karshiyaka and takes on occasions all year round.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят в салона на ресторанта."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine in the restaurant's room."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Резервациите минават през телефона.",
+      "body": "Сегашният им сайт е само няколко реда текст и пет снимки, без меню и без цени."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Bookings go through the telephone.",
+      "body": "Their current site is a few lines of text and five photographs, with no menu and no prices."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив"
+      ],
+      [
+        "Телефон",
+        "088 830 2428"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv"
+      ],
+      [
+        "Phone",
+        "088 830 2428"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Ресторант „Джоана“",
+    "en": "Why couples choose Restaurant Joana"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Ресторант „Джоана“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Restaurant Joana publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Ресторант „Джоана“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Restaurant Joana has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Ресторантът е на бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив.",
+    "en": "The restaurant is at Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Кършияка",
+        "label": "кварталът на ресторанта"
+      }
+    ],
+    "en": [
+      {
+        "value": "Karshiyaka",
+        "label": "where it stands"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Ресторант „Джоана“ не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Ресторант",
+            "d": "бул. „Дунав“ и ул. „Победа“"
+          },
+          {
+            "n": "В квартал Кършияка"
+          },
+          {
+            "n": "Резервация по телефон",
+            "d": "088 830 2428"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Restaurant Joana publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "A restaurant",
+            "d": "Dunav Blvd at Pobeda St"
+          },
+          {
+            "n": "In the Karshiyaka district"
+          },
+          {
+            "n": "Booking by telephone",
+            "d": "088 830 2428"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Ресторантът на бул. „Дунав“ и ул. „Победа“, Кършияка, Пловдив",
+      "Ресторант в квартал Кършияка",
+      "На ъгъла на бул. „Дунав“ и ул. „Победа“"
+    ],
+    "en": [
+      "The restaurant at Dunav Blvd at Pobeda St, Karshiyaka, Plovdiv",
+      "A restaurant in the Karshiyaka district",
+      "At the corner of Dunav Boulevard and Pobeda Street"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ресторант в квартал Кършияка",
+      "На ъгъла на бул. „Дунав“ и ул. „Победа“"
+    ],
+    "en": [
+      "A restaurant in the Karshiyaka district",
+      "At the corner of Dunav Boulevard and Pobeda Street"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Поводи в квартала",
+        "body": "Ресторантът поема частни поводи в Кършияка.",
+        "fact": "Кършияка"
+      }
+    ],
+    "en": [
+      {
+        "title": "Neighbourhood occasions",
+        "body": "The restaurant takes on private occasions in Karshiyaka.",
+        "fact": "Karshiyaka"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Ресторантът е на ъгъла на бул. „Дунав“ и ул. „Победа“, в квартал Кършияка.",
+    "en": "The restaurant stands at the corner of Dunav Boulevard and Pobeda Street, in Karshiyaka."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Ресторант „Джоана“ не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В ресторанта",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Ресторант „Джоана“ няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Сегашният им сайт съдържа само пет снимки и те не са предоставени за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Салон за поводите в квартала.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Restaurant Joana publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the restaurant",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Restaurant Joana has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
+      "galleryEmptyBody": "Their current site holds only five photographs and they have not been released for publication.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A room for the neighbourhood's occasions.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет и брой места",
+    "Меню и куверт",
+    "Сегашният сайт е с оскъдно съдържание — да се обсъди замяна"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Салонът",
+          "note": "квартал Кършияка",
+          "value": "капацитет по запитване"
+        }
+      ],
+      "en": [
+        {
+          "space": "The room",
+          "note": "Karshiyaka district",
+          "value": "capacity on request"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в салона",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received",
+          "when": "start"
+        },
+        {
+          "what": "Dinner in the room",
+          "when": "evening"
+        },
+        {
+          "what": "The evening goes on",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Ресторант „Джоана“ не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Restaurant Joana publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Ресторант за поводите в Кършияка.",
+        "heroUnder": "На ъгъла на бул. „Дунав“ и ул. „Победа“.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Ресторантът и салонът.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A restaurant for Karshiyaka's occasions.",
+        "heroUnder": "At the corner of Dunav Boulevard and Pobeda Street.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The restaurant and its room.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
