@@ -1,0 +1,484 @@
+{
+  "slug": "crystal-palace",
+  "nameBg": "Crystal Palace",
+  "nameEn": "Crystal Palace",
+  "harvestedOn": "2026-08-26",
+  "sources": "Facebook страницата им (facebook.com/crystalpalaceplovdiv) и Google Business профила",
+  "wordmark": {
+    "bg": "Crystal Palace",
+    "en": "Crystal Palace"
+  },
+  "navMark": {
+    "bg": "CRYSTAL PALACE",
+    "en": "CRYSTAL PALACE"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "салона",
+    "en": "the salon"
+  },
+  "address": "ул. „Владая“ 17, Пловдив",
+  "addressEn": "17 Vladaya Street, Plovdiv",
+  "addressStreet": "ул. „Владая“ 17",
+  "phone": [
+    "088 857 7616"
+  ],
+  "phoneE164": "+359888577616",
+  "email": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/crystalpalaceplovdiv",
+  "sameAs": [
+    "https://www.facebook.com/crystalpalaceplovdiv"
+  ],
+  "mapQuery": "Crystal+Palace+Сватбен+салон+ул.+Владая+17+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "Салонът работи само за сватби",
+      "Има места за гости и на открито",
+      "Резервация на дата по телефон или онлайн"
+    ],
+    "en": [
+      "The salon works for weddings only",
+      "There is seating for guests outdoors too",
+      "A date can be reserved by phone or online"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "ул. Владая",
+    "en": "Vladaya St"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на салона",
+    "en": "atmospheric visualisations, photographs of the salon to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Crystal Palace | Сватбен салон в Пловдив",
+      "desc": "Сватбен салон на ул. „Владая“ 17 в Пловдив, с места и на открито. Резервация на дата по телефон 088 857 7616."
+    },
+    "en": {
+      "title": "Crystal Palace | Wedding salon in Plovdiv",
+      "desc": "A wedding salon at 17 Vladaya Street in Plovdiv, with outdoor seating as well. Reserve a date on 088 857 7616."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Crystal Palace. Салон, който прави само сватби.",
+      "lead": "Денят започва с пристигането. Салонът се намира на улица „Владая“ 17 в източната част на Пловдив, встрани от центъра и от движението по него."
+    },
+    "en": {
+      "title": "Crystal Palace. A salon that does weddings only.",
+      "lead": "The day begins with the arrival. The salon stands at 17 Vladaya Street in the eastern part of Plovdiv, away from the centre and its traffic."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Салонът е обявен като сватбен и това е единственото, за което се използва.",
+      "body": "Подробности за размерите на залата и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The salon is listed as a wedding venue and that is the only thing it is used for.",
+      "body": "Details of the hall's dimensions and its number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Гостите се хранят на място, а част от местата са на открито."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "Guests dine on site, and some of the seating is outdoors."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Свободните дати се обявяват от самите домакини.",
+      "body": "Страницата им във Facebook се следи от над хиляда и двеста души, а свободните дати се публикуват там сезон по сезон."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "Free dates are announced by the hosts themselves.",
+      "body": "Their Facebook page is followed by more than twelve hundred people, and free dates are posted there season by season."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Владая“ 17, Пловдив"
+      ],
+      [
+        "Район",
+        "Източна индустриална зона"
+      ],
+      [
+        "Телефон",
+        "088 857 7616"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "17 Vladaya Street, Plovdiv"
+      ],
+      [
+        "District",
+        "Eastern industrial zone"
+      ],
+      [
+        "Phone",
+        "088 857 7616"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Crystal Palace",
+    "en": "Why couples choose Crystal Palace"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Crystal Palace не публикува куверт и пакети. Показано е само това, което самите те съобщават за салона. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Crystal Palace publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Crystal Palace няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Crystal Palace has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Салонът е на улица „Владая“ 17, в източната част на Пловдив.",
+    "en": "The salon is at 17 Vladaya Street, in the eastern part of Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "Сватби",
+        "label": "единствената специализация"
+      },
+      {
+        "value": "Открито",
+        "label": "места за гости навън"
+      },
+      {
+        "value": "Онлайн",
+        "label": "резервация на дата"
+      }
+    ],
+    "en": [
+      {
+        "value": "Weddings",
+        "label": "the only specialism"
+      },
+      {
+        "value": "Outdoors",
+        "label": "seating for guests"
+      },
+      {
+        "value": "Online",
+        "label": "date reservation"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Crystal Palace не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Сватбен салон",
+            "d": "салонът се използва само за сватбени тържества"
+          },
+          {
+            "n": "Места на открито",
+            "d": "част от местата за гости са навън"
+          },
+          {
+            "n": "Хранене на място"
+          },
+          {
+            "n": "Онлайн резервация",
+            "d": "дата може да се запази и онлайн"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Crystal Palace publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "Wedding salon",
+            "d": "the salon is used for weddings only"
+          },
+          {
+            "n": "Outdoor seating",
+            "d": "some of the guest seating is outdoors"
+          },
+          {
+            "n": "Dining on site"
+          },
+          {
+            "n": "Online reservation",
+            "d": "a date can also be held online"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Сватбен салон в Пловдив",
+      "Места за гости на открито",
+      "Хранене на място",
+      "Онлайн резервация на дата",
+      "Свободни дати, обявявани сезон по сезон"
+    ],
+    "en": [
+      "A wedding salon in Plovdiv",
+      "Outdoor seating for guests",
+      "Dining on site",
+      "Online reservation of a date",
+      "Free dates announced season by season"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Салон само за сватби",
+      "Открита част за гости"
+    ],
+    "en": [
+      "A weddings-only salon",
+      "An outdoor area for guests"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Сватби",
+        "body": "Салонът се обявява като сватбен и това е единственият повод, за който домакините го предлагат.",
+        "fact": "Единствената специализация"
+      }
+    ],
+    "en": [
+      {
+        "title": "Weddings",
+        "body": "The salon is listed as a wedding venue and that is the only occasion the hosts offer it for.",
+        "fact": "The only specialism"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Свободните дати за следващия сезон се обявяват от самите домакини на страницата им.",
+    "en": "Free dates for the coming season are announced by the hosts themselves on their page."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "сватбеният ден",
+      "какво се знае",
+      "само сватби",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "the wedding day",
+      "what is known",
+      "weddings only",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Crystal Palace не публикува меню. Ето какво съобщават за самия салон:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В салона",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Салонът се предлага само за сватбени тържества.",
+      "galleryTitle": "Салонът, както изглежда",
+      "galleryLead": "Crystal Palace няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на салона.",
+      "galleryEmptyBody": "Домакините нямат собствен сайт, а страницата им във Facebook не съдържа фотографии на залата, годни за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Един салон, който прави само сватби.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Салон само за сватби",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Crystal Palace publishes no menu. Here is what they state about the salon itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the salon",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The salon is offered for weddings only.",
+      "galleryTitle": "The salon as it looks",
+      "galleryLead": "Crystal Palace has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the salon will stand here.",
+      "galleryEmptyBody": "The hosts have no website of their own, and their Facebook page holds no publishable photographs of the hall.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A salon that does weddings only.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "A weddings-only salon",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на салона, на откритата част и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Работно време и телефон за резервации извън Facebook",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Потвърждение на точния адрес и на името, под което искат да се представят",
+    "Текст за политика за поверителност — преглед от юрист"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Салонът",
+          "note": "използва се само за сватбени тържества",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Откритата част",
+          "note": "места за гости навън",
+          "value": "на място"
+        }
+      ],
+      "en": [
+        {
+          "space": "The salon",
+          "note": "used for wedding celebrations only",
+          "value": "capacity on request"
+        },
+        {
+          "space": "The outdoor area",
+          "note": "seating for guests outside",
+          "value": "on site"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите в салона",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря на място, с места и на открито",
+          "when": "вечерта"
+        },
+        {
+          "what": "Танците продължават в салона",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received in the salon",
+          "when": "start"
+        },
+        {
+          "what": "Dinner on site, with seating outdoors too",
+          "when": "evening"
+        },
+        {
+          "what": "The dancing continues in the salon",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Crystal Palace не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Crystal Palace publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Салон, който прави само сватби.",
+        "heroUnder": "На улица „Владая“ 17 в Пловдив, с места за гостите и на открито.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Салонът и откритата част.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A salon that does weddings only.",
+        "heroUnder": "At 17 Vladaya Street in Plovdiv, with seating for guests outdoors as well.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The salon and the outdoor area.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
