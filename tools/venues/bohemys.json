@@ -1,0 +1,498 @@
+{
+  "slug": "bohemys",
+  "nameBg": "Bohemy’s Friends",
+  "nameEn": "Bohemy’s Friends",
+  "harvestedOn": "2026-08-26",
+  "sources": "Google Business профила им (нямат сайт)",
+  "wordmark": {
+    "bg": "Bohemy’s",
+    "en": "Bohemy’s"
+  },
+  "navMark": {
+    "bg": "BOHEMY’S FRIENDS",
+    "en": "BOHEMY’S FRIENDS"
+  },
+  "town": "Пловдив",
+  "townEn": "Plovdiv",
+  "type": "hall",
+  "venueNoun": {
+    "bg": "заведението",
+    "en": "the place"
+  },
+  "address": "ул. „Недялка Шилева“ 11, Пловдив",
+  "addressEn": "11 Nedyalka Shileva St, Plovdiv",
+  "addressStreet": "ул. „Недялка Шилева“ 11",
+  "phone": [
+    "087 770 3104"
+  ],
+  "phoneE164": "+359877703104",
+  "email": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/profile.php?id=100086960432432",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=100086960432432"
+  ],
+  "mapQuery": "Bohemys+Friends+Недялка+Шилева+11+Пловдив",
+  "maxCapacity": 0,
+  "capacity": [],
+  "spaces": [],
+  "packageIncludes": [
+    "Заведението на ул. „Недялка Шилева“ 11, Пловдив",
+    "Отворено по всяко време",
+    "Ирландски пъб и ресторант",
+    "Менюто се разглежда с QR код",
+    "Обедни предложения всеки ден"
+  ],
+  "packageIncludesEn": [
+    "The place at 11 Nedyalka Shileva St, Plovdiv",
+    "Open at any hour",
+    "An Irish pub and restaurant",
+    "The menu is read from a QR code",
+    "Lunch offers every day"
+  ],
+  "packageAssist": {
+    "bg": "",
+    "en": ""
+  },
+  "whyUs": {
+    "bg": [
+      "4.7 от отзивите в Google",
+      "Ирландски пъб и ресторант",
+      "Менюто се разглежда с QR код",
+      "Обедни предложения всеки ден"
+    ],
+    "en": [
+      "4.7 from its Google reviews",
+      "An Irish pub and restaurant",
+      "The menu is read from a QR code",
+      "Lunch offers every day"
+    ]
+  },
+  "parking": {
+    "bg": "",
+    "en": ""
+  },
+  "reviews": [],
+  "navSpot": {
+    "bg": "Недялка Шилева",
+    "en": "Nedyalka Shileva St"
+  },
+  "navSeats": {
+    "bg": "капацитет по запитване",
+    "en": "capacity on request"
+  },
+  "atmosphereNote": {
+    "bg": "атмосферни визуализации, предстои добавяне на снимки на заведението",
+    "en": "atmospheric visualisations, photographs of the place to be added"
+  },
+  "meta": {
+    "bg": {
+      "title": "Bohemy’s Friends | Ирландски пъб и ресторант в Пловдив",
+      "desc": "Ирландски пъб и ресторант на ул. „Недялка Шилева“ 11 в Пловдив. Запитване на 087 770 3104."
+    },
+    "en": {
+      "title": "Bohemy’s Friends | An Irish pub and restaurant in Plovdiv",
+      "desc": "An Irish pub and restaurant at 11 Nedyalka Shileva Street in Plovdiv. Enquire on 087 770 3104."
+    }
+  },
+  "ch1": {
+    "bg": {
+      "title": "Bohemy’s Friends. Мястото на повода.",
+      "lead": "Денят започва с пристигането. Заведението е на ул. „Недялка Шилева“ 11, Пловдив."
+    },
+    "en": {
+      "title": "Bohemy’s Friends. Where the occasion happens.",
+      "lead": "The day begins with the arrival. The place sits at 11 Nedyalka Shileva St, Plovdiv."
+    }
+  },
+  "ch2": {
+    "bg": {
+      "title": "Церемонията",
+      "lead": "Домакините определят заведението като ирландски пъб и ресторант.",
+      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+    },
+    "en": {
+      "title": "The ceremony",
+      "lead": "The hosts describe the place as an Irish pub and restaurant.",
+      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+    }
+  },
+  "ch3": {
+    "bg": {
+      "title": "Вечерята",
+      "lead": "Менюто се разглежда с QR код, а обедните предложения се обявяват всеки ден."
+    },
+    "en": {
+      "title": "Dinner",
+      "lead": "The menu is read from a QR code, and the lunch offers are posted daily."
+    }
+  },
+  "ch4": {
+    "bg": {
+      "title": "Вечерта продължава",
+      "lead": "Заведението е отворено по всяко време.",
+      "body": "Собствен сайт нямат. Менюто им живее в чужд портал зад QR код, а обявите — само във Facebook."
+    },
+    "en": {
+      "title": "The evening goes on",
+      "lead": "The place is open at any hour.",
+      "body": "They have no website of their own. Their menu lives on someone else's portal behind a QR code, and their notices only on Facebook."
+    }
+  },
+  "ch5": {
+    "bg": {
+      "title": "Сбогуването е ново начало",
+      "lead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване."
+    },
+    "en": {
+      "title": "The farewell is a beginning",
+      "lead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply."
+    }
+  },
+  "gettingHereRows": {
+    "bg": [
+      [
+        "Адрес",
+        "ул. „Недялка Шилева“ 11, Пловдив"
+      ],
+      [
+        "Работно време",
+        "Отворено по всяко време"
+      ],
+      [
+        "Телефон",
+        "087 770 3104"
+      ]
+    ],
+    "en": [
+      [
+        "Address",
+        "11 Nedyalka Shileva St, Plovdiv"
+      ],
+      [
+        "Opening hours",
+        "Open at any hour"
+      ],
+      [
+        "Phone",
+        "087 770 3104"
+      ]
+    ]
+  },
+  "whyTitle": {
+    "bg": "Защо младоженците избират Bohemy’s Friends",
+    "en": "Why couples choose Bohemy’s Friends"
+  },
+  "packagesTitle": {
+    "bg": "Какво се знае за мястото",
+    "en": "What is known about the place"
+  },
+  "packagesLead": {
+    "bg": "Bohemy’s Friends не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Bohemy’s Friends publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+  },
+  "includesTitle": {
+    "bg": "На разположение за деня",
+    "en": "Available for the day"
+  },
+  "reviewsLead": {
+    "bg": "Bohemy’s Friends няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    "en": "Bohemy’s Friends has no verifiable published reviews. This section stays empty until real ones are supplied."
+  },
+  "gettingHereNote": {
+    "bg": "Заведението е на ул. „Недялка Шилева“ 11, Пловдив.",
+    "en": "The place is at 11 Nedyalka Shileva St, Plovdiv."
+  },
+  "capacityStats": {
+    "bg": [
+      {
+        "value": "4.7",
+        "count": 4.7,
+        "label": "от отзивите в Google"
+      },
+      {
+        "value": "Денонощно",
+        "label": "отворено по всяко време"
+      }
+    ],
+    "en": [
+      {
+        "value": "4.7",
+        "count": 4.7,
+        "label": "from its Google reviews"
+      },
+      {
+        "value": "Any hour",
+        "label": "open at all times"
+      }
+    ]
+  },
+  "menu": {
+    "bg": [
+      {
+        "key": "mqstoto",
+        "label": "Мястото",
+        "note": "Bohemy’s Friends не публикува меню. Показано е само това, което сами съобщават.",
+        "dishes": [
+          {
+            "n": "Ирландски пъб и ресторант",
+            "d": "както сами се определят"
+          },
+          {
+            "n": "Меню с QR код",
+            "d": "в чужд портал, не в собствен сайт"
+          },
+          {
+            "n": "Обедни предложения",
+            "d": "обявявани всеки ден"
+          },
+          {
+            "n": "Резервация по телефон",
+            "d": "087 770 3104"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "key": "mqstoto",
+        "label": "The place",
+        "note": "Bohemy’s Friends publishes no menu. Only what they state themselves appears here.",
+        "dishes": [
+          {
+            "n": "An Irish pub and restaurant",
+            "d": "as they describe themselves"
+          },
+          {
+            "n": "A QR-code menu",
+            "d": "on a third-party portal, not their own site"
+          },
+          {
+            "n": "Lunch offers",
+            "d": "posted every day"
+          },
+          {
+            "n": "Booking by telephone",
+            "d": "087 770 3104"
+          }
+        ]
+      }
+    ]
+  },
+  "menuFooter": {
+    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
+    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+  },
+  "services": {
+    "bg": [
+      "Заведението на ул. „Недялка Шилева“ 11, Пловдив",
+      "Отворено по всяко време",
+      "Ирландски пъб и ресторант",
+      "Менюто се разглежда с QR код",
+      "Обедни предложения всеки ден"
+    ],
+    "en": [
+      "The place at 11 Nedyalka Shileva St, Plovdiv",
+      "Open at any hour",
+      "An Irish pub and restaurant",
+      "The menu is read from a QR code",
+      "Lunch offers every day"
+    ]
+  },
+  "tech": {
+    "bg": [
+      "Ирландски пъб и ресторант",
+      "Менюто се разглежда с QR код",
+      "Обедни предложения всеки ден"
+    ],
+    "en": [
+      "An Irish pub and restaurant",
+      "The menu is read from a QR code",
+      "Lunch offers every day"
+    ]
+  },
+  "events": {
+    "bg": [
+      {
+        "title": "Частни поводи",
+        "body": "Заведението е отворено по всяко време и поема частни поводи.",
+        "fact": "4.7 в Google"
+      }
+    ],
+    "en": [
+      {
+        "title": "Private occasions",
+        "body": "The place is open at any hour and takes on private occasions.",
+        "fact": "4.7 on Google"
+      }
+    ]
+  },
+  "performer": {
+    "bg": "Заведението е ирландски пъб и ресторант на ул. „Недялка Шилева“ 11, отворено по всяко време.",
+    "en": "The place is an Irish pub and restaurant at 11 Nedyalka Shileva Street, open at any hour."
+  },
+  "gallery": [],
+  "navHints": {
+    "bg": [
+      "мястото на повода",
+      "какво се знае",
+      "всеки повод",
+      "на разположение",
+      "предстои",
+      "до 2 работни дни"
+    ],
+    "en": [
+      "where the occasion happens",
+      "what is known",
+      "any occasion",
+      "available",
+      "to come",
+      "within 2 working days"
+    ]
+  },
+  "extra": {
+    "bg": {
+      "menuTitle": "Мястото",
+      "menuLead": "Bohemy’s Friends не публикува меню. Ето какво съобщават за самото място:",
+      "servicesTitle": "Услуги",
+      "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
+      "techTitle": "В заведението",
+      "eventsTitle": "Поводи",
+      "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
+      "galleryTitle": "Мястото, както изглежда",
+      "galleryLead": "Bohemy’s Friends няма публикувани собствени фотографии на обекта.",
+      "galleryChip": "предстоят реални снимки",
+      "galleryEmptyTitle": "Тук ще стоят снимките на заведението.",
+      "galleryEmptyBody": "Снимките им живеят само във Facebook и не са предоставени за публикуване.",
+      "performerTitle": "Сезонът, с техните думи",
+      "tableBandQuote": "Пъб, ресторант и обедно меню на едно място.",
+      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleEvents": "Поводите на мястото",
+      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleServices": "Какво стои на разположение"
+    },
+    "en": {
+      "menuTitle": "The place",
+      "menuLead": "Bohemy’s Friends publishes no menu. Here is what they state about the place itself:",
+      "servicesTitle": "Services",
+      "servicesLead": "Here is what is known to be available for the day.",
+      "techTitle": "In the place",
+      "eventsTitle": "Occasions",
+      "eventsLead": "The place is offered for occasions of every kind.",
+      "galleryTitle": "The place as it looks",
+      "galleryLead": "Bohemy’s Friends has no published photographs of the venue.",
+      "galleryChip": "real photographs to come",
+      "galleryEmptyTitle": "The photographs of the place will stand here.",
+      "galleryEmptyBody": "Their photographs live only on Facebook and have not been released for publication.",
+      "performerTitle": "The season, in their words",
+      "tableBandQuote": "A pub, a restaurant and a lunch menu in one place.",
+      "pageTitleGallery": "Photographs to come",
+      "pageTitleEvents": "Occasions at the venue",
+      "pageTitleMenu": "The place, in their words",
+      "pageTitleServices": "What is available"
+    }
+  },
+  "handoff": [
+    "Снимки на заведението и на минали сватби (реални фото-слотове)",
+    "Капацитет: брой места седнали, коктейл и на открито",
+    "Меню и куверт",
+    "Web3Forms access key за формата за запитване",
+    "Имейл адрес за контакт",
+    "Текст за политика за поверителност — преглед от юрист",
+    "Капацитет за частно събитие",
+    "Потвърждение на адреса: Google и Facebook сочат различни улици",
+    "Меню и куверт при наемане"
+  ],
+  "tokens": {
+    "capacityRows": {
+      "bg": [
+        {
+          "space": "Заведението",
+          "note": "ул. „Недялка Шилева“ 11",
+          "value": "капацитет по запитване"
+        },
+        {
+          "space": "Работното време",
+          "note": "по всяко време",
+          "value": "денонощно"
+        }
+      ],
+      "en": [
+        {
+          "space": "The place",
+          "note": "11 Nedyalka Shileva St",
+          "value": "capacity on request"
+        },
+        {
+          "space": "Opening hours",
+          "note": "at any hour",
+          "value": "around the clock"
+        }
+      ]
+    },
+    "timetable": {
+      "bg": [
+        {
+          "what": "Посрещане на гостите",
+          "when": "начало"
+        },
+        {
+          "what": "Вечеря в заведението",
+          "when": "вечерта"
+        },
+        {
+          "what": "Вечерта продължава",
+          "when": "до късно"
+        }
+      ],
+      "en": [
+        {
+          "what": "Guests are received",
+          "when": "start"
+        },
+        {
+          "what": "Dinner at the place",
+          "when": "evening"
+        },
+        {
+          "what": "The evening goes on",
+          "when": "till late"
+        }
+      ]
+    },
+    "packagesNote": {
+      "bg": "Bohemy’s Friends не публикува куверт. Опишете деня си във формата и ще получите лична оферта.",
+      "en": "Bohemy’s Friends publishes no per-head price. Describe your day in the form for a personal offer."
+    },
+    "copy": {
+      "bg": {
+        "heroTitle": "Пъб, който остава отворен.",
+        "heroUnder": "Ирландски пъб и ресторант на ул. „Недялка Шилева“ 11.",
+        "heroCaption": "Час преди гостите.",
+        "heroCaptionNote": "Атмосферна визуализация",
+        "ctaEnquiry": "Запитване за дата",
+        "ctaVisit": "Заповядайте на оглед",
+        "wallTitle": "Заведението и масите.",
+        "duetTitle": "Вечерта минава на едно място.",
+        "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
+        "enquiryTitle": "Запитване за дата",
+        "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
+        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+      },
+      "en": {
+        "heroTitle": "A pub that stays open.",
+        "heroUnder": "An Irish pub and restaurant at 11 Nedyalka Shileva Street.",
+        "heroCaption": "An hour before the guests.",
+        "heroCaptionNote": "Atmospheric visualisation",
+        "ctaEnquiry": "Enquire about a date",
+        "ctaVisit": "Come for a viewing",
+        "wallTitle": "The place and its tables.",
+        "duetTitle": "The evening, from start to finish.",
+        "inviteLine": "Come for a viewing. It commits you to nothing.",
+        "enquiryTitle": "Enquire about a date",
+        "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
+        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+      }
+    }
+  }
+}
