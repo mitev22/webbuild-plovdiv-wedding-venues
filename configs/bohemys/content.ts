@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Bohemy’s Friends. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Bohemy’s Friends. Harvested 2026-08-26 from: Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Bohemys-Friends-100086960432432/), 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -133,7 +133,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "Недялка Шилева",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на заведението",
+    atmosphereNote: "заглавната снимка е тяхна собствена, от страницата им във Facebook",
     chapters: [
       {
         id: "pristigane",
@@ -236,7 +236,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "Nedyalka Shileva St",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the place to be added",
+    atmosphereNote: "the header photograph is their own, from their Facebook page",
     chapters: [
       {
         id: "pristigane",

@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Сватбена зала „Фиеста“. Harvested 2026-08-26 from: собствения им сайт svatbensalonfiesta.com и Google Business профила.
+ * Venue: Сватбена зала „Фиеста“. Harvested 2026-08-26 from: собствения им сайт svatbensalonfiesta.com и Google Business профила | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Сватбена-зала-Фиеста-100057313455163/), 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -200,7 +200,7 @@ export const extraStrings = {
     galleryLead: "Сватбена зала „Фиеста“ няма публикувани собствени фотографии на обекта.",
     galleryChip: "предстоят реални снимки",
     galleryEmptyTitle: "Тук ще стоят снимките на залата.",
-    galleryEmptyBody: "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
+    galleryEmptyBody: "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
     performerTitle: "Сезонът, с техните думи",
     tableBandQuote: "Сватбена зала, отворена всеки ден.",
     pageTitleGallery: "Снимките предстоят",
@@ -225,7 +225,7 @@ export const extraStrings = {
     galleryLead: "Fiesta Wedding Hall has no published photographs of the venue.",
     galleryChip: "real photographs to come",
     galleryEmptyTitle: "The photographs of the hall will stand here.",
-    galleryEmptyBody: "Their current website holds no publishable photographs of the hall.",
+    galleryEmptyBody: "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
     performerTitle: "The season, in their words",
     tableBandQuote: "A wedding hall, open every day.",
     pageTitleGallery: "Photographs to come",

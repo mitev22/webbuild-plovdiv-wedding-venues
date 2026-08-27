@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Ресторант-градина „Атлантик“. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Ресторант-градина „Атлантик“. Harvested 2026-08-26 from: Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/ресторант-АТЛАНТИК-100059594988269/), 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -200,7 +200,7 @@ export const extraStrings = {
     galleryLead: "Ресторант-градина „Атлантик“ няма публикувани собствени фотографии на обекта.",
     galleryChip: "предстоят реални снимки",
     galleryEmptyTitle: "Тук ще стоят снимките на градината.",
-    galleryEmptyBody: "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии на градината, годни за публикуване.",
+    galleryEmptyBody: "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
     performerTitle: "Сезонът, с техните думи",
     tableBandQuote: "Градина в подножието на планината.",
     pageTitleGallery: "Снимките предстоят",
@@ -225,7 +225,7 @@ export const extraStrings = {
     galleryLead: "Atlantik Garden Restaurant has no published photographs of the venue.",
     galleryChip: "real photographs to come",
     galleryEmptyTitle: "The photographs of the garden will stand here.",
-    galleryEmptyBody: "The hosts have no website of their own, and their Google profile holds no publishable photographs of the garden.",
+    galleryEmptyBody: "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
     performerTitle: "The season, in their words",
     tableBandQuote: "A garden at the foot of the mountain.",
     pageTitleGallery: "Photographs to come",

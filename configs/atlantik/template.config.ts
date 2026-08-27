@@ -28,7 +28,7 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
+  heroFilm: "/atmosphere/hero-atlantik.webp",
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
@@ -103,7 +103,7 @@ export const copyDict = {
     heroTitle: "Ресторант с градина, извън града.",
     heroUnder: "В село Първенец, на кратко разстояние от Пловдив.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Снимка от страницата им във Facebook",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Градината на Атлантик.",
@@ -111,13 +111,13 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят",
   },
   en: {
     heroTitle: "A restaurant with a garden, outside the city.",
     heroUnder: "In the village of Parvenets, a short drive from Plovdiv.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "Photograph from their Facebook page",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "The garden at Atlantik.",
@@ -125,6 +125,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the header photograph is theirs, from Facebook; interior visuals to come",
   },
 } as const;

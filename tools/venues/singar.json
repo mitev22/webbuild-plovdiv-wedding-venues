@@ -3,7 +3,7 @@
   "nameBg": "Ресторант „Сингар“",
   "nameEn": "Singar Restaurant",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Ресторант-градина-Сингър-Пловдив-100063484812862/), 2026-08-27",
   "wordmark": {
     "bg": "Сингар",
     "en": "Singar"
@@ -74,8 +74,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
-    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+    "bg": "заглавната снимка е тяхна собствена, от страницата им във Facebook",
+    "en": "the header photograph is their own, from their Facebook page"
   },
   "meta": {
     "bg": {
@@ -325,7 +325,7 @@
       "galleryLead": "Ресторант „Сингар“ няма публикувани собствени фотографии на обекта.",
       "galleryChip": "предстоят реални снимки",
       "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
-      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
+      "galleryEmptyBody": "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
       "performerTitle": "Сезонът, с техните думи",
       "tableBandQuote": "Салон за поводите в квартала.",
       "pageTitleGallery": "Снимките предстоят",
@@ -345,7 +345,7 @@
       "galleryLead": "Singar Restaurant has no published photographs of the venue.",
       "galleryChip": "real photographs to come",
       "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
-      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
+      "galleryEmptyBody": "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
       "performerTitle": "The season, in their words",
       "tableBandQuote": "A room for the neighbourhood's occasions.",
       "pageTitleGallery": "Photographs to come",
@@ -421,7 +421,7 @@
         "heroTitle": "Ресторант за поводите в квартала.",
         "heroUnder": "На ул. „Цар Симеон“ в жк Тракия, Пловдив.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка от страницата им във Facebook",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Ресторантът и салонът.",
@@ -429,13 +429,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят"
       },
       "en": {
         "heroTitle": "A restaurant for the neighbourhood's occasions.",
         "heroUnder": "On Tsar Simeon Street in the Trakia district, Plovdiv.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph from their Facebook page",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The restaurant and its room.",
@@ -443,8 +443,13 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the header photograph is theirs, from Facebook; interior visuals to come"
       }
     }
-  }
+  },
+  "images": {
+    "heroFilm": "/atmosphere/hero-singar.webp",
+    "ogImage": "/atmosphere/og-card.jpg"
+  },
+  "photosHarvestedOn": "2026-08-27"
 }

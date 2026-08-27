@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Сватбена зала „Фиеста“. Harvested 2026-08-26 from: собствения им сайт svatbensalonfiesta.com и Google Business профила.
+ * Venue: Сватбена зала „Фиеста“. Harvested 2026-08-26 from: собствения им сайт svatbensalonfiesta.com и Google Business профила | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Сватбена-зала-Фиеста-100057313455163/), 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -127,7 +127,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "Васил Априлов",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на залата",
+    atmosphereNote: "заглавната снимка е тяхна собствена, от страницата им във Facebook",
     chapters: [
       {
         id: "pristigane",
@@ -234,7 +234,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "Vasil Aprilov Blvd",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the hall to be added",
+    atmosphereNote: "the header photograph is their own, from their Facebook page",
     chapters: [
       {
         id: "pristigane",

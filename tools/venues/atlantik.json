@@ -3,7 +3,7 @@
   "nameBg": "Ресторант-градина „Атлантик“",
   "nameEn": "Atlantik Garden Restaurant",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/ресторант-АТЛАНТИК-100059594988269/), 2026-08-27",
   "wordmark": {
     "bg": "Атлантик",
     "en": "Atlantik"
@@ -74,8 +74,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на градината",
-    "en": "atmospheric visualisations, photographs of the garden to be added"
+    "bg": "заглавната снимка е тяхна собствена, от страницата им във Facebook",
+    "en": "the header photograph is their own, from their Facebook page"
   },
   "meta": {
     "bg": {
@@ -349,7 +349,7 @@
       "galleryLead": "Ресторант-градина „Атлантик“ няма публикувани собствени фотографии на обекта.",
       "galleryChip": "предстоят реални снимки",
       "galleryEmptyTitle": "Тук ще стоят снимките на градината.",
-      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии на градината, годни за публикуване.",
+      "galleryEmptyBody": "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
       "performerTitle": "Сезонът, с техните думи",
       "tableBandQuote": "Градина в подножието на планината.",
       "pageTitleGallery": "Снимките предстоят",
@@ -369,7 +369,7 @@
       "galleryLead": "Atlantik Garden Restaurant has no published photographs of the venue.",
       "galleryChip": "real photographs to come",
       "galleryEmptyTitle": "The photographs of the garden will stand here.",
-      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs of the garden.",
+      "galleryEmptyBody": "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
       "performerTitle": "The season, in their words",
       "tableBandQuote": "A garden at the foot of the mountain.",
       "pageTitleGallery": "Photographs to come",
@@ -455,7 +455,7 @@
         "heroTitle": "Ресторант с градина, извън града.",
         "heroUnder": "В село Първенец, на кратко разстояние от Пловдив.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка от страницата им във Facebook",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Градината на Атлантик.",
@@ -463,13 +463,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят"
       },
       "en": {
         "heroTitle": "A restaurant with a garden, outside the city.",
         "heroUnder": "In the village of Parvenets, a short drive from Plovdiv.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph from their Facebook page",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The garden at Atlantik.",
@@ -477,8 +477,13 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the header photograph is theirs, from Facebook; interior visuals to come"
       }
     }
-  }
+  },
+  "images": {
+    "heroFilm": "/atmosphere/hero-atlantik.webp",
+    "ogImage": "/atmosphere/og-card.jpg"
+  },
+  "photosHarvestedOn": "2026-08-27"
 }

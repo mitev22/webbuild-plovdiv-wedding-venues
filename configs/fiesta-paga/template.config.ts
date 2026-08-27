@@ -28,7 +28,7 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
+  heroFilm: "/atmosphere/hero-fiesta-paga.webp",
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
@@ -103,7 +103,7 @@ export const copyDict = {
     heroTitle: "Сватбена зала, отворена всеки ден.",
     heroUnder: "На бул. „Васил Априлов“ 152А в Пловдив, от девет сутринта до единайсет вечерта.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Снимка от страницата им във Facebook",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Залата на бул. „Васил Априлов“.",
@@ -111,13 +111,13 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят",
   },
   en: {
     heroTitle: "A wedding hall, open every day.",
     heroUnder: "At 152A Vasil Aprilov Boulevard in Plovdiv, from nine in the morning until eleven at night.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "Photograph from their Facebook page",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "The hall on Vasil Aprilov Boulevard.",
@@ -125,6 +125,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the header photograph is theirs, from Facebook; interior visuals to come",
   },
 } as const;

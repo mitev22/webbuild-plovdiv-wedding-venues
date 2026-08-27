@@ -157,3 +157,50 @@ and most cannot: they have no website to harvest from. Of the harvests already i
 hand, `restaurant-real` (8 usable), `casa-de-cuba` (6), `hitar-petar` (6),
 `dayana-chain` (1) and `joana` (0) are too thin to fill a gallery. Those venues
 need photographs from the owners.
+
+---
+
+## Other sources tried (2026-08-27) — Facebook, Maps, directories
+
+Asked to look beyond the venues' own websites. All four routes tested empirically:
+
+| route | result |
+|---|---|
+| **Facebook** | Login wall. The public preview yields **one cover photo** (~1200–2048px, usable) plus 414×414 grid thumbnails. Full-size galleries are behind the wall. |
+| **Google Maps** | Consent wall. **Not pursued** — see below. |
+| **Directory sites** (pochivka.bg, oink.bg, opoznaiplovdiv.bg) | 44×28 flag icons and one 320×230 thumbnail. **Zero usable.** |
+| **Booking.com** | HTTP 202 bot challenge, no images at all. |
+
+**Google Maps was deliberately left alone.** Its photos are largely uploaded by
+customers rather than the business, so republishing them in a commercial demo is a
+rights problem the website harvests never had; Google's terms also bar scraping and
+caching Maps content. Decision taken with the principal on 2026-08-27.
+
+### Facebook covers — 1 hero each, no gallery
+
+Grabbing "the largest public image" is unreliable and **every result needs eyes on
+it**. Of 10 attempts, 3 were wrong and were discarded to `_fbcovers/_rejected/`:
+
+- `rusalka` — twice: an aerial of bungalows in a field, then a black frame of flagpoles
+- `colibri-wedding` — a "СЕЗОН 2026" promo collage with baked-in text and a phone number
+
+Shipped as heroes (walls and band stay on the template's atmospherics — one photo
+cannot fill five slots without obvious repetition): **atlantik, bohemys, fiesta-paga,
+singar**.
+
+`restorant-ruzh` turned up a website nobody had recorded — `rouge.alle.bg` — but it
+serves only 3 images. Not worth a pass.
+
+### ⚠ Thirteen venues have declined
+
+Commit `f0ed7bb` ("gallery: drop the 13 venues that said no") removed the built output
+for **casa-de-cuba, crystal-palace, garden-romantic, garden-weddings, kompleks-diana,
+malak-bunardzhik, ostrova, paldin, rhodope-house, rusalka, svatben-dom, zala-kalinka,
+zala-royal**. „Не искат" — the conversation happened and the answer was no.
+
+Three of them (crystal-palace, garden-weddings, rhodope-house) had Facebook heroes
+built for them before that commit was noticed; the work was reverted rather than
+pushed. **Check this list before doing any further work on a venue.** `configs/` is
+kept for all thirteen; `sites/` and `shots/` are not.
+
+Note `ostrova` declined *after* its 17-photo gallery was built — that effort is spent.

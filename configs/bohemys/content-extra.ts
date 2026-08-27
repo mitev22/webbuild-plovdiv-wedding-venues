@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Bohemy’s Friends. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Bohemy’s Friends. Harvested 2026-08-26 from: Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Bohemys-Friends-100086960432432/), 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -214,7 +214,7 @@ export const extraStrings = {
     galleryLead: "Bohemy’s Friends няма публикувани собствени фотографии на обекта.",
     galleryChip: "предстоят реални снимки",
     galleryEmptyTitle: "Тук ще стоят снимките на заведението.",
-    galleryEmptyBody: "Снимките им живеят само във Facebook и не са предоставени за публикуване.",
+    galleryEmptyBody: "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
     performerTitle: "Сезонът, с техните думи",
     tableBandQuote: "Пъб, ресторант и обедно меню на едно място.",
     pageTitleGallery: "Снимките предстоят",
@@ -239,7 +239,7 @@ export const extraStrings = {
     galleryLead: "Bohemy’s Friends has no published photographs of the venue.",
     galleryChip: "real photographs to come",
     galleryEmptyTitle: "The photographs of the place will stand here.",
-    galleryEmptyBody: "Their photographs live only on Facebook and have not been released for publication.",
+    galleryEmptyBody: "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
     performerTitle: "The season, in their words",
     tableBandQuote: "A pub, a restaurant and a lunch menu in one place.",
     pageTitleGallery: "Photographs to come",

@@ -3,7 +3,7 @@
   "nameBg": "Сватбена зала „Фиеста“",
   "nameEn": "Fiesta Wedding Hall",
   "harvestedOn": "2026-08-26",
-  "sources": "собствения им сайт svatbensalonfiesta.com и Google Business профила",
+  "sources": "собствения им сайт svatbensalonfiesta.com и Google Business профила | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Сватбена-зала-Фиеста-100057313455163/), 2026-08-27",
   "wordmark": {
     "bg": "Фиеста",
     "en": "Fiesta"
@@ -72,8 +72,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
-    "en": "atmospheric visualisations, photographs of the hall to be added"
+    "bg": "заглавната снимка е тяхна собствена, от страницата им във Facebook",
+    "en": "the header photograph is their own, from their Facebook page"
   },
   "meta": {
     "bg": {
@@ -347,7 +347,7 @@
       "galleryLead": "Сватбена зала „Фиеста“ няма публикувани собствени фотографии на обекта.",
       "galleryChip": "предстоят реални снимки",
       "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
-      "galleryEmptyBody": "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
+      "galleryEmptyBody": "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
       "performerTitle": "Сезонът, с техните думи",
       "tableBandQuote": "Сватбена зала, отворена всеки ден.",
       "pageTitleGallery": "Снимките предстоят",
@@ -367,7 +367,7 @@
       "galleryLead": "Fiesta Wedding Hall has no published photographs of the venue.",
       "galleryChip": "real photographs to come",
       "galleryEmptyTitle": "The photographs of the hall will stand here.",
-      "galleryEmptyBody": "Their current website holds no publishable photographs of the hall.",
+      "galleryEmptyBody": "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
       "performerTitle": "The season, in their words",
       "tableBandQuote": "A wedding hall, open every day.",
       "pageTitleGallery": "Photographs to come",
@@ -454,7 +454,7 @@
         "heroTitle": "Сватбена зала, отворена всеки ден.",
         "heroUnder": "На бул. „Васил Априлов“ 152А в Пловдив, от девет сутринта до единайсет вечерта.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка от страницата им във Facebook",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Залата на бул. „Васил Априлов“.",
@@ -462,13 +462,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят"
       },
       "en": {
         "heroTitle": "A wedding hall, open every day.",
         "heroUnder": "At 152A Vasil Aprilov Boulevard in Plovdiv, from nine in the morning until eleven at night.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph from their Facebook page",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The hall on Vasil Aprilov Boulevard.",
@@ -476,8 +476,13 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the header photograph is theirs, from Facebook; interior visuals to come"
       }
     }
-  }
+  },
+  "images": {
+    "heroFilm": "/atmosphere/hero-fiesta-paga.webp",
+    "ogImage": "/atmosphere/og-card.jpg"
+  },
+  "photosHarvestedOn": "2026-08-27"
 }

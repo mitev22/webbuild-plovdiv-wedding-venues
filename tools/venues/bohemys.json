@@ -3,7 +3,7 @@
   "nameBg": "Bohemy’s Friends",
   "nameEn": "Bohemy’s Friends",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "Google Business профила им (нямат сайт) | заглавна снимка от публичната им Facebook страница (https://www.facebook.com/p/Bohemys-Friends-100086960432432/), 2026-08-27",
   "wordmark": {
     "bg": "Bohemy’s",
     "en": "Bohemy’s"
@@ -82,8 +82,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на заведението",
-    "en": "atmospheric visualisations, photographs of the place to be added"
+    "bg": "заглавната снимка е тяхна собствена, от страницата им във Facebook",
+    "en": "the header photograph is their own, from their Facebook page"
   },
   "meta": {
     "bg": {
@@ -363,7 +363,7 @@
       "galleryLead": "Bohemy’s Friends няма публикувани собствени фотографии на обекта.",
       "galleryChip": "предстоят реални снимки",
       "galleryEmptyTitle": "Тук ще стоят снимките на заведението.",
-      "galleryEmptyBody": "Снимките им живеят само във Facebook и не са предоставени за публикуване.",
+      "galleryEmptyBody": "Заглавната снимка е тяхна, от Facebook. Останалите снимки на мястото предстоят от домакините.",
       "performerTitle": "Сезонът, с техните думи",
       "tableBandQuote": "Пъб, ресторант и обедно меню на едно място.",
       "pageTitleGallery": "Снимките предстоят",
@@ -383,7 +383,7 @@
       "galleryLead": "Bohemy’s Friends has no published photographs of the venue.",
       "galleryChip": "real photographs to come",
       "galleryEmptyTitle": "The photographs of the place will stand here.",
-      "galleryEmptyBody": "Their photographs live only on Facebook and have not been released for publication.",
+      "galleryEmptyBody": "The header photograph is theirs, from Facebook. The rest of the venue photography is still to come from the hosts.",
       "performerTitle": "The season, in their words",
       "tableBandQuote": "A pub, a restaurant and a lunch menu in one place.",
       "pageTitleGallery": "Photographs to come",
@@ -469,7 +469,7 @@
         "heroTitle": "Пъб, който остава отворен.",
         "heroUnder": "Ирландски пъб и ресторант на ул. „Недялка Шилева“ 11.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка от страницата им във Facebook",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Заведението и масите.",
@@ -477,13 +477,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "заглавната снимка е тяхна, от Facebook; вътрешните визуализации предстоят"
       },
       "en": {
         "heroTitle": "A pub that stays open.",
         "heroUnder": "An Irish pub and restaurant at 11 Nedyalka Shileva Street.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph from their Facebook page",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The place and its tables.",
@@ -491,8 +491,13 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the header photograph is theirs, from Facebook; interior visuals to come"
       }
     }
-  }
+  },
+  "images": {
+    "heroFilm": "/atmosphere/hero-bohemys.webp",
+    "ogImage": "/atmosphere/og-card.jpg"
+  },
+  "photosHarvestedOn": "2026-08-27"
 }
