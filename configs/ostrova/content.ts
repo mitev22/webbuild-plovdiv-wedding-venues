@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Комплекс „Острова“. Harvested 2026-08-26 from: собствения им сайт ostrova-plovdiv.com и Google Business профила.
+ * Venue: Комплекс „Острова“. Harvested 2026-08-26 from: собствения им сайт ostrova-plovdiv.com — снимки, капацитет, контакти; събрани 2026-08-27. Стокови снимки (Shutterstock/iStock) от сайта им са изключени..
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -27,35 +27,44 @@ export const venue = {
     bg: "комплекса",
     en: "the complex",
   },
-  address: "Западен район, Пловдив",
-  addressEn: "Western district, Plovdiv",
+  address: "ул. „Парк култура и отдих“ 40, Пловдив",
+  addressEn: "40 Park kultura i otdih St, Plovdiv",
   addressStructured: {
-    street: "Западен район",
+    street: "ул. „Парк култура и отдих“ 40",
     locality: "Пловдив",
   },
   phone: [
+    "088 774 2011",
     "088 755 6630",
   ],
-  phoneHref: "tel:+359887556630",
-  phoneE164: "+359887556630",
-  email: "",
+  phoneHref: "tel:+359887742011",
+  phoneE164: "+359887742011",
+  email: "hotelostrova@abv.bg",
   instagram: "",
   facebook: "",
-  sameAs: [],
-  mapQuery: "Комплекс+Острова+Пловдив",
-  maxCapacity: 0,
+  sameAs: [
+    "https://ostrova-plovdiv.com",
+  ],
+  mapQuery: "Комплекс+Острова+Парк+култура+и+отдих+40+Пловдив",
+  maxCapacity: 160,
   capacity: [],
   spaces: [],
   packages: [],
   packageIncludes: [
-    "Комплексът на Западен район, Пловдив",
-    "Комплекс в Западния район на Пловдив",
-    "Дати се уговарят по телефон",
+    "Ресторант със 160 седящи места и обособен дансинг",
+    "Комплексът е до Гребния канал, край реката",
+    "Градина, двор и басейн на място",
+    "Безплатен паркинг за гостите",
+    "Съдействие с координацията на деня и с менюто",
+    "Препоръки за украса, звук, осветление и фотограф",
+    "Стаи за гостите, които остават",
   ],
   packageAssist: "",
   whyUs: [
-    "Комплекс в Западния район на Пловдив",
-    "Дати се уговарят по телефон",
+    "160 седящи места и собствен дансинг",
+    "До Гребния канал, сред зеленина край реката",
+    "Градина, двор и басейн в един комплекс",
+    "Екип, който помага с координацията и с изпълнителите",
   ],
   parking: "",
   seasonsAvailable: [
@@ -70,15 +79,12 @@ export const venue = {
   ],
   reviews: [],
   handoff: [
-    "Снимки на комплекса и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
-    "Меню и куверт",
+    "Меню и куверт за тържество",
+    "Снимки от минали сватби с съгласие на младоженците",
     "Web3Forms access key за формата за запитване",
-    "Имейл адрес за контакт",
     "Текст за политика за поверителност — преглед от юрист",
-    "Точен адрес на комплекса",
-    "Капацитет и брой места",
-    "SSL сертификат за сайта — в момента работи по HTTP",
+    "Потвърждение, че може да ползваме снимките им от ostrova-plovdiv.com",
+    "Капацитет на градината и двора на открито",
   ],
 } as const;
 
@@ -122,12 +128,12 @@ export const dict = {
     errContact: "Въведете валиден телефон или имейл",
     privacy: "Политика за поверителност",
     privacyHref: "/poveritelnost/",
-    metaTitle: "Комплекс „Острова“ | Тържества в Пловдив",
-    metaDescription: "Комплекс в Западния район на Пловдив. Запитване за дата на 088 755 6630.",
+    metaTitle: "Комплекс „Острова“ | Сватби и тържества край реката, Пловдив",
+    metaDescription: "Комплекс до Гребния канал в Пловдив: ресторант със 160 места и дансинг, градина и басейн. Запитване за дата на 088 774 2011.",
     navCity: "Пловдив",
-    navSpot: "Западен район",
-    navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на комплекса",
+    navSpot: "До Гребния канал",
+    navSeats: "160 места",
+    atmosphereNote: "снимките са техни собствени, от сайта им ostrova-plovdiv.com",
     chapters: [
       {
         id: "pristigane",
@@ -151,38 +157,55 @@ export const dict = {
       },
     ],
     ch1Title: "Комплекс „Острова“. Мястото на повода.",
-    ch1Lead: "Денят започва с пристигането. Комплексът е на Западен район, Пловдив, в Западния район на Пловдив.",
+    ch1Lead: "Денят започва с пристигането. Комплексът е на ул. „Парк култура и отдих“ 40, до Гребния канал, сред зеленина край реката.",
     ch2Title: "Церемонията",
-    ch2Lead: "Комплексът се предлага за тържества.",
-    ch2Body: "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините.",
+    ch2Lead: "Ресторантът гледа към градината, а комплексът е встрани от центъра, край реката.",
+    ch2Body: "Ресторантът е със 160 седящи места и обособен дансинг. Паркингът е безплатен за гостите, а екипът на комплекса помага с координацията на деня.",
     ch3Title: "Вечерята",
     ch3Lead: "Гостите се хранят на място, в комплекса.",
     ch4Title: "Вечерта продължава",
     ch4Lead: "Свободните дати се проверяват по телефон.",
-    ch4Body: "Сайтът им работи без HTTPS, така че браузърите го отбелязват като незащитен още преди гостът да е прочел каквото и да е.",
+    ch4Body: "Резервация се прави на 088 774 2011 или на hotelostrova@abv.bg.",
     ch5Title: "Сбогуването е ново начало",
     ch5Lead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
     gettingHereRows: [
       [
         "Адрес",
-        "Западен район, Пловдив",
+        "ул. „Парк култура и отдих“ 40, Пловдив",
+      ],
+      [
+        "Ориентир",
+        "до Гребния канал",
       ],
       [
         "Телефон",
-        "088 755 6630",
+        "088 774 2011 (ресторант) · 088 755 6630 (хотел)",
+      ],
+      [
+        "Е-мейл",
+        "hotelostrova@abv.bg",
       ],
     ],
     whyTitle: "Защо младоженците избират Комплекс „Острова“",
-    packagesTitle: "Какво се знае за мястото",
-    packagesLead: "Комплекс „Острова“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    packagesTitle: "Какво предлагат за деня",
+    packagesLead: "„Острова“ не публикува куверт. Показано е това, което сами съобщават за мястото и организацията. Опишете тържеството си във формата и ще получите оферта.",
     includesTitle: "На разположение за деня",
-    reviewsLead: "Комплекс „Острова“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    reviewsLead: "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
     footerDemo: "Демонстрационен сайт (spec) от Meridian Solutions. Не е официалният сайт на Комплекс „Острова“.",
     footerRights: "Комплекс „Острова“ · Пловдив",
     capacityStats: [
       {
-        value: "Комплекс",
-        label: "в Западния район",
+        value: "160",
+        count: 160,
+        label: "седящи места",
+      },
+      {
+        value: "Дансинг",
+        label: "обособен в залата",
+      },
+      {
+        value: "Гребния канал",
+        label: "мястото край реката",
       },
     ],
   },
@@ -216,12 +239,12 @@ export const dict = {
     errContact: "Enter a valid phone or email",
     privacy: "Privacy policy",
     privacyHref: "/en/privacy/",
-    metaTitle: "Complex Ostrova | Celebrations in Plovdiv",
-    metaDescription: "A complex in the Western district of Plovdiv. Enquire about a date on 088 755 6630.",
+    metaTitle: "Ostrova | Weddings and celebrations by the river, Plovdiv",
+    metaDescription: "A complex by the Rowing Canal in Plovdiv: a 160-seat restaurant with a dance floor, a garden and a pool. Enquire about a date on 088 774 2011.",
     navCity: "Plovdiv",
-    navSpot: "Western district",
-    navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the complex to be added",
+    navSpot: "By the Rowing Canal",
+    navSeats: "160 seats",
+    atmosphereNote: "the photographs are their own, from their site ostrova-plovdiv.com",
     chapters: [
       {
         id: "pristigane",
@@ -244,39 +267,56 @@ export const dict = {
         label: "Farewell",
       },
     ],
-    ch1Title: "Complex Ostrova. Where the occasion happens.",
-    ch1Lead: "The day begins with the arrival. The complex sits at Western district, Plovdiv, in the Western district of Plovdiv.",
+    ch1Title: "Ostrova. Where the occasion happens.",
+    ch1Lead: "The day begins with the arrival. The complex is at 40 Park kultura i otdih Street, by the Rowing Canal, in greenery beside the river.",
     ch2Title: "The ceremony",
-    ch2Lead: "The complex is offered for celebrations.",
-    ch2Body: "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them.",
+    ch2Lead: "The restaurant looks onto the garden, and the complex sits away from the centre, by the river.",
+    ch2Body: "The restaurant seats 160 and has its own dance floor. Parking is free for guests, and the complex's team helps coordinate the day.",
     ch3Title: "Dinner",
     ch3Lead: "Guests dine on site, in the complex.",
     ch4Title: "The evening goes on",
     ch4Lead: "Free dates are checked by telephone.",
-    ch4Body: "Their site runs without HTTPS, so browsers flag it as not secure before a visitor has read a word.",
+    ch4Body: "Booking is on 088 774 2011 or at hotelostrova@abv.bg.",
     ch5Title: "The farewell is a beginning",
     ch5Lead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
     gettingHereRows: [
       [
         "Address",
-        "Western district, Plovdiv",
+        "40 Park kultura i otdih St, Plovdiv",
+      ],
+      [
+        "Landmark",
+        "by the Rowing Canal",
       ],
       [
         "Phone",
-        "088 755 6630",
+        "088 774 2011 (restaurant) · 088 755 6630 (hotel)",
+      ],
+      [
+        "E-mail",
+        "hotelostrova@abv.bg",
       ],
     ],
     whyTitle: "Why couples choose Complex Ostrova",
-    packagesTitle: "What is known about the place",
-    packagesLead: "Complex Ostrova publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer.",
+    packagesTitle: "What they offer for the day",
+    packagesLead: "Ostrova publishes no per-head price. What appears here is what they state themselves about the place and the planning. Describe your celebration in the form for an offer.",
     includesTitle: "Available for the day",
-    reviewsLead: "Complex Ostrova has no verifiable published reviews. This section stays empty until real ones are supplied.",
+    reviewsLead: "Guest reviews are still to be collected and published with the hosts' consent.",
     footerDemo: "Spec demonstration site by Meridian Solutions. Not the official Complex Ostrova website.",
     footerRights: "Complex Ostrova · Plovdiv",
     capacityStats: [
       {
-        value: "A complex",
-        label: "in the Western district",
+        value: "160",
+        count: 160,
+        label: "seated places",
+      },
+      {
+        value: "Dance floor",
+        label: "its own, in the hall",
+      },
+      {
+        value: "The Rowing Canal",
+        label: "beside the river",
       },
     ],
   },
@@ -291,18 +331,24 @@ export const seasonNamesEn: Record<Season, string> = {
 export const packageNamesEn: Record<string, string> = {};
 
 export const packageIncludesEn = [
-  "The complex at Western district, Plovdiv",
-  "A complex in the Western district of Plovdiv",
-  "Dates are arranged by telephone",
+  "A restaurant seating 160 with its own dance floor",
+  "The complex sits by the Rowing Canal, beside the river",
+  "A garden, a courtyard and a pool on site",
+  "Free parking for guests",
+  "Help with coordinating the day and building the menu",
+  "Recommendations for decoration, sound, lighting and a photographer",
+  "Rooms for guests who stay",
 ];
 
 export const packageAssistEn =
   "";
 
 export const whyUsEn = [
-  "A complex in the Western district of Plovdiv",
-  "Dates are arranged by telephone",
+  "160 seats and a dance floor of its own",
+  "By the Rowing Canal, in greenery beside the river",
+  "A garden, a courtyard and a pool in one complex",
+  "A team that helps with coordination and suppliers",
 ];
 
 export const gettingHereNote =
-  "Комплексът е на Западен район, Пловдив.";
+  "Комплексът е на ул. „Парк култура и отдих“ 40, до Гребния канал в Пловдив.";

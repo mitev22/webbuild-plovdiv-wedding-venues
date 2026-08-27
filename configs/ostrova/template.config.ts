@@ -2,8 +2,8 @@
 
 export const site = {
   canonicalUrl: "https://mitev22.github.io/webbuild-plovdiv-wedding-venues/sites/ostrova",
-  metaTitle: "Комплекс „Острова“ | Тържества в Пловдив",
-  metaDescription: "Комплекс в Западния район на Пловдив. Запитване за дата на 088 755 6630.",
+  metaTitle: "Комплекс „Острова“ | Сватби и тържества край реката, Пловдив",
+  metaDescription: "Комплекс до Гребния канал в Пловдив: ресторант със 160 места и дансинг, градина и басейн. Запитване за дата на 088 774 2011.",
   specDemo: true,
 } as const;
 
@@ -12,12 +12,12 @@ export const brand = {
   nameEn: "Complex Ostrova",
   town: "Пловдив",
   since: "",
-  phone: "088 755 6630",
-  phoneHref: "tel:+359887556630",
-  email: "",
-  logoSrc: "",
+  phone: "088 774 2011",
+  phoneHref: "tel:+359887742011",
+  email: "hotelostrova@abv.bg",
+  logoSrc: "/brand/ostrova-mark.webp",
   logoInNav: false,
-  address: "Западен район, Пловдив",
+  address: "ул. „Парк култура и отдих“ 40, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
   facebook: "",
@@ -28,11 +28,11 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
-  tableBand: "",
+  heroFilm: "/atmosphere/hero-ostrova.webp",
+  wallGarden: "/atmosphere/wall-gradina.webp",
+  wallHall: "/atmosphere/wall-masite.webp",
+  wallTerrace: "/atmosphere/wall-otgore.webp",
+  tableBand: "/atmosphere/band-masata.webp",
   heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
@@ -41,9 +41,19 @@ export const factsDict = {
   bg: {
     capacityRows: [
       {
-        space: "Комплексът",
-        note: "Западен район, Пловдив",
-        value: "капацитет по запитване",
+        space: "Ресторантът",
+        note: "с обособен дансинг",
+        value: "160 места",
+      },
+      {
+        space: "Градината и дворът",
+        note: "на открито край реката",
+        value: "по договаряне",
+      },
+      {
+        space: "Стаите",
+        note: "за гостите, които остават",
+        value: "на място",
       },
     ],
     timetable: [
@@ -65,9 +75,19 @@ export const factsDict = {
   en: {
     capacityRows: [
       {
-        space: "The complex",
-        note: "Western district, Plovdiv",
-        value: "capacity on request",
+        space: "The restaurant",
+        note: "with its own dance floor",
+        value: "160 seats",
+      },
+      {
+        space: "The garden and courtyard",
+        note: "outdoors by the river",
+        value: "on request",
+      },
+      {
+        space: "The rooms",
+        note: "for guests who stay",
+        value: "on site",
       },
     ],
     timetable: [
@@ -91,30 +111,30 @@ export const factsDict = {
 export const copyDict = {
   bg: {
     heroTitle: "Комплекс за деня, встрани от центъра.",
-    heroUnder: "В Западния район на Пловдив.",
+    heroUnder: "До Гребния канал, край реката в Пловдив.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Снимка на комплекса",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
-    wallTitle: "Комплексът и дворът.",
+    wallTitle: "Комплексът, градината и дворът.",
     duetTitle: "Вечерта минава на едно място.",
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "снимките са техни собствени, от ostrova-plovdiv.com",
   },
   en: {
     heroTitle: "A complex for the day, away from the centre.",
-    heroUnder: "In the Western district of Plovdiv.",
+    heroUnder: "By the Rowing Canal, beside the river in Plovdiv.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "Photograph of the complex",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
-    wallTitle: "The complex and its grounds.",
+    wallTitle: "The complex, the garden and the courtyard.",
     duetTitle: "The evening, from start to finish.",
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the photographs are their own, from ostrova-plovdiv.com",
   },
 } as const;
