@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+359878624139",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "ул. „Стоян Чалъков“ 1, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -31,6 +32,8 @@ export const images = {
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
+  tableBand: "",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

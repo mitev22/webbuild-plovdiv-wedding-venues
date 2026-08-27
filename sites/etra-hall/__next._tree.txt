@@ -1,4 +1,4 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/chunks/15eozpccuu73l.css","style"]
+:HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/chunks/3mdnqfbx7ujbu.css","style"]
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/media/4ee71d90e0f663bd-s.p.33jraz4m6n5g3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/media/55664f0a7289b762-s.p.4162up6yw-joy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/_next/static/media/8584ff62a7ee42f1-s.p.3xss6aleo1rvh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/photos/yubiley.webp","image"]
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/photos/maria-ivan.webp","image"]
 :HL["/webbuild-plovdiv-wedding-venues/sites/etra-hall/photos/zalata.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"azPmv2_boYu7SKinZZ5pU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xer4Vq1jSFf5g9xwT6Eop"}

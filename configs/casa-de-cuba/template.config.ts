@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+359885008490",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "бул. „Васил Априлов“ 118, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -31,6 +32,8 @@ export const images = {
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
+  tableBand: "",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

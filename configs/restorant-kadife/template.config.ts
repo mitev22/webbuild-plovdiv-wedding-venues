@@ -15,23 +15,26 @@ export const brand = {
   phone: "0894 793 030",
   phoneHref: "tel:+359894793030",
   email: "",
-  logoSrc: "",
+  logoSrc: "/brand/kadife-logo.png",
   address: "кв. Кючук Париж, ул. „Бяло море“ 2, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
   facebook: "",
+  logoInNav: false,
 } as const;
 
 export const palette = {
-  note: "Ресторант Кадифе: brand palette carried over from the 2026-07 vertical build (venue-true).",
+  note: "Ресторант Кадифе: brand palette carried over from the 2026-07 vertical build (venue-true); photographs and wordmark added 2026-08-27 from kadife-bg.com.",
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
+  heroFilm: "/atmosphere/hero-dansing.webp",
+  wallGarden: "/atmosphere/wall-zalata.webp",
+  wallHall: "/atmosphere/wall-kuhnyata.webp",
+  wallTerrace: "/atmosphere/wall-dekorat.webp",
+  tableBand: "/atmosphere/band-zalata.webp",
   ogImage: "/atmosphere/og-card.jpg",
+  heroTone: "light",
 } as const;
 
 export const factsDict = {
@@ -94,7 +97,7 @@ export const copyDict = {
     heroTitle: "Залата очаква вашите гости.",
     heroUnder: "Уютна зала с голям дансинг и собствена кухня в Кючук Париж.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Реална снимка от залата",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Залата, дансингът и кухнята.",
@@ -102,13 +105,14 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Кафето е от нас.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "реални снимки на залата",
+    heroCaptionReal: "Реална снимка от залата",
   },
   en: {
     heroTitle: "The hall awaits your guests.",
     heroUnder: "A cosy hall with a large dance floor and an in-house kitchen in Kyuchuk Parizh.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "A real photograph of the hall",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "One evening, one place.",
@@ -116,6 +120,7 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "real photographs of the hall",
+    heroCaptionReal: "A real photograph of the hall",
   },
 } as const;

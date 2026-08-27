@@ -1,15 +1,15 @@
 :root {
   --cream: #f7f4ee;
   --parchment: #d9d2c4;
-  --ink: #262019;
-  --ink-soft: #57503f;
-  --gold: #8f7546;
-  --gold-ink: #6e5832;
-  --gold-pale: #e6dcc6;
-  --evening: #142a1d;
-  --film-deep: #0e2015;
-  --film-mid: #1c3526;
-  --film-top: #24402e;
+  --ink: #221d1a;
+  --ink-soft: #514840;
+  --gold: #96682f;
+  --gold-ink: #6f4a1d;
+  --gold-pale: #e8d9be;
+  --evening: #12202e;
+  --film-deep: #0c1824;
+  --film-mid: #172b3c;
+  --film-top: #1f3a4e;
   --film-cream: #f3eddf;
   /* Runtime font tokens — @theme inline does NOT emit runtime vars, so these
      must exist here; the next/font variables live on <html>. */

@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/3_ucc3gn7w3g_.js"],"default"]
+2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/03kir77h4dw8u.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/3_ucc3gn7w3g_.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KXEO34eWqtku1gb8w1VlL"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/joana/_next/static/chunks/03kir77h4dw8u.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TrSg-vFSMvyxt1Uioq__K"}
 5:null

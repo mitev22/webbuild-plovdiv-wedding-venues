@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[86621,["/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/2p3dh6sr4n9gi.js"],"default"]
+2:I[86621,["/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1489uxdhat4xo.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/2p3dh6sr4n9gi.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"y3wIwJ0xSGO_wugLRgdOR"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/rusalka/_next/static/chunks/1489uxdhat4xo.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pI9iOoAih6F1EvXW2t3R6"}
 5:null

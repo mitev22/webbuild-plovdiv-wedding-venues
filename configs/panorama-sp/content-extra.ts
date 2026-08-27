@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Ресторант „Панорама“. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Ресторант „Панорама“. Harvested 2026-08-26 from: собствения им сайт sphotel.net (Парк хотел „Санкт Петербург“, страница /dining/panorama и /halls) — снимки, капацитет, кухня; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -8,22 +8,31 @@ export type Dish = { n: string; d?: string; g?: string };
 
 export const menuBg: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
-    label: "Мястото",
-    note: "Ресторант „Панорама“ не публикува меню. Показано е само това, което сами съобщават.",
+    key: "kuhnyata",
+    label: "Кухнята",
+    note: "„Панорама“ не публикува куверт за тържество. Ето какво сами съобщават за кухнята.",
     dishes: [
       {
-        n: "Панорамен ресторант",
-        d: "на двайсет и втория етаж",
+        n: "Гръцка и средиземноморска кухня",
       },
       {
-        n: "Изглед над целия Пловдив",
+        n: "Остъклена кухня",
+        d: "ястията се приготвят пред гостите",
       },
       {
-        n: "В сградата на хотел „Санкт Петербург“",
+        n: "120 места",
+        d: "на 22-ия етаж",
       },
       {
-        n: "Резервация по телефон",
+        n: "Лятна градина",
+        d: "на открито",
+      },
+      {
+        n: "Работно време",
+        d: "18:00 – 24:00",
+      },
+      {
+        n: "Запитване",
         d: "088 868 6817",
       },
     ],
@@ -32,22 +41,31 @@ export const menuBg: { key: string; label: string; note?: string; dishes: Dish[]
 
 export const menuEn: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
-    label: "The place",
-    note: "Panorama Restaurant publishes no menu. Only what they state themselves appears here.",
+    key: "kuhnyata",
+    label: "The kitchen",
+    note: "Panorama publishes no per-head price for a celebration. Here is what they state about the kitchen.",
     dishes: [
       {
-        n: "A panoramic restaurant",
-        d: "on the twenty-second floor",
+        n: "Greek and Mediterranean cooking",
       },
       {
-        n: "A view over the whole of Plovdiv",
+        n: "A glass-walled kitchen",
+        d: "dishes prepared in view of the guests",
       },
       {
-        n: "In the Sankt Peterburg hotel building",
+        n: "120 seats",
+        d: "on the 22nd floor",
       },
       {
-        n: "Booking by telephone",
+        n: "A summer garden",
+        d: "outdoors",
+      },
+      {
+        n: "Open",
+        d: "18:00 – 24:00",
+      },
+      {
+        n: "Enquiries",
         d: "088 868 6817",
       },
     ],
@@ -55,58 +73,134 @@ export const menuEn: { key: string; label: string; note?: string; dishes: Dish[]
 ];
 
 export const menuFooterBg =
-  "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.";
+  "Кухнята е гръцка и средиземноморска, приготвяна в остъклена кухня пред очите на гостите. Куверт за тържество не е публикуван и предстои да бъде предоставен.";
 
 export const menuFooterEn =
-  "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied.";
+  "The kitchen is Greek and Mediterranean, cooked in a glass-walled kitchen in view of the guests. A per-head price for a celebration is not published and is still to be supplied.";
 
 export const servicesBg = [
-  "Ресторантът на бул. „България“ 97, ет. 22, Пловдив",
-  "Ресторант на двайсет и втория етаж",
-  "Панорамен изглед над целия град",
-  "В сградата на хотел „Санкт Петербург“",
+  "Ресторант на 22-ия етаж със 120 места",
+  "Панорамен изглед към Пловдив и Родопите",
+  "Открита лятна градина",
+  "Гръцка и средиземноморска кухня от остъклена кухня",
+  "Зали Пълдин, Нева и Дружба в хотела",
 ];
 
 export const servicesEn = [
-  "The restaurant at 97 Bulgaria Blvd, floor 22, Plovdiv",
-  "A restaurant on the twenty-second floor",
-  "A panoramic view over the whole city",
-  "In the Sankt Peterburg hotel building",
+  "A restaurant on the 22nd floor seating 120",
+  "A panoramic view over Plovdiv and the Rhodopes",
+  "An open summer garden",
+  "Greek and Mediterranean cooking from a glass-walled kitchen",
+  "The Puldin, Neva and Druzhba halls in the hotel",
 ];
 
 export const techBg = [
-  "Ресторант на двайсет и втория етаж",
-  "Панорамен изглед над целия град",
-  "В сградата на хотел „Санкт Петербург“",
+  "Ресторантът работи от 18:00 до 24:00",
+  "Остъклена кухня, видима за гостите",
+  "Зала Пълдин: 5.20 × 17.30 м, до 300 места театрално",
+  "Зала Нева: 5.20 × 11.90 м · Зала Дружба: 6.40 × 12 м",
 ];
 
 export const techEn = [
-  "A restaurant on the twenty-second floor",
-  "A panoramic view over the whole city",
-  "In the Sankt Peterburg hotel building",
+  "The restaurant is open 18:00–24:00",
+  "A glass-walled kitchen, visible to guests",
+  "Puldin hall: 5.20 × 17.30 m, up to 300 theatre-style",
+  "Neva hall: 5.20 × 11.90 m · Druzhba hall: 6.40 × 12 m",
 ];
 
 export const eventsBg = [
   {
-    title: "Тържества над града",
-    body: "Ресторантът поема поводи на двайсет и втория етаж, с панорамен изглед над Пловдив.",
-    fact: "22-ият етаж",
+    title: "Семейни празненства над града",
+    body: "Ресторантът се предлага за семейни празненства и събирания, а за по-големите поводи хотелът има зали на по-долните етажи.",
+    fact: "120 места",
   },
 ];
 
 export const eventsEn = [
   {
-    title: "Celebrations above the city",
-    body: "The restaurant takes on occasions on the twenty-second floor, with a panoramic view over Plovdiv.",
-    fact: "22nd floor",
+    title: "Family celebrations above the city",
+    body: "The restaurant is offered for family celebrations and gatherings, and for larger occasions the hotel has halls on the lower floors.",
+    fact: "120 seats",
   },
 ];
 
-export const performerBg = "Ресторантът е на двайсет и втория етаж на бул. „България“ 97, с панорамен изглед над Пловдив.";
+export const performerBg = "Ресторантът е на 22-ия етаж на Парк хотел „Санкт Петербург“, с панорамен изглед към Пловдив и Родопите.";
 
-export const performerEn = "The restaurant is on the twenty-second floor at 97 Bulgaria Boulevard, with a panoramic view over Plovdiv.";
+export const performerEn = "The restaurant is on the 22nd floor of Park Hotel Sankt Peterburg, with a panoramic view over Plovdiv and the Rhodopes.";
 
-export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [];
+export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [
+  {
+    slug: "izgledat",
+    bg: "Изгледът от 22-ия етаж",
+    en: "The view from the 22nd floor",
+    tall: true,
+  },
+  {
+    slug: "restorantat",
+    bg: "Ресторантът",
+    en: "The restaurant",
+  },
+  {
+    slug: "zalata",
+    bg: "Залата",
+    en: "The dining room",
+  },
+  {
+    slug: "masata",
+    bg: "Подредената маса",
+    en: "The laid table",
+  },
+  {
+    slug: "parviyat-tants",
+    bg: "Първият танц",
+    en: "The first dance",
+  },
+  {
+    slug: "gostite",
+    bg: "Гостите на масата",
+    en: "Guests at the table",
+  },
+  {
+    slug: "grada-nosht",
+    bg: "Градът вечер",
+    en: "The city at night",
+  },
+  {
+    slug: "kulata",
+    bg: "Хотелът отвън",
+    en: "The hotel from outside",
+  },
+  {
+    slug: "pianoto",
+    bg: "Пианото",
+    en: "The piano",
+  },
+  {
+    slug: "vinoto",
+    bg: "Чашите",
+    en: "The glasses",
+  },
+  {
+    slug: "vhodat",
+    bg: "Входът към залата",
+    en: "The entrance to the hall",
+  },
+  {
+    slug: "tsvetyata",
+    bg: "Цветята",
+    en: "The flowers",
+  },
+  {
+    slug: "dvoykata",
+    bg: "Преди повода",
+    en: "Before the occasion",
+  },
+  {
+    slug: "foayeto",
+    bg: "Фоайето",
+    en: "The foyer",
+  },
+];
 
 export const exploreArt = [
   {
@@ -197,23 +291,23 @@ export const extraStrings = {
     closeBtn: "Затвори",
     galleryMore: "Цялата галерия",
     exploreTitle: "Разгледайте още",
-    menuTitle: "Мястото",
-    menuLead: "Ресторант „Панорама“ не публикува меню. Ето какво съобщават за самото място:",
+    menuTitle: "Кухнята",
+    menuLead: "Гръцка и средиземноморска кухня, приготвяна в остъклена кухня пред гостите.",
     servicesTitle: "Услуги",
     servicesLead: "Ето какво се знае, че стои на разположение за деня.",
-    techTitle: "В ресторанта",
+    techTitle: "В сградата",
     eventsTitle: "Поводи",
     eventsLead: "Мястото се предлага за поводи от всякакъв вид.",
     galleryTitle: "Мястото, както изглежда",
-    galleryLead: "Ресторант „Панорама“ няма публикувани собствени фотографии на обекта.",
-    galleryChip: "предстоят реални снимки",
-    galleryEmptyTitle: "Тук ще стоят снимките на ресторанта.",
-    galleryEmptyBody: "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
-    performerTitle: "Сезонът, с техните думи",
+    galleryLead: "Четиринайсет от собствените им снимки: изгледът, ресторантът и вечерите в него.",
+    galleryChip: "реални снимки на ресторанта",
+    galleryEmptyTitle: "Тук стоят снимките на ресторанта.",
+    galleryEmptyBody: "Снимките са техни собствени, от сайта им sphotel.net.",
+    performerTitle: "Мястото",
     tableBandQuote: "Двайсет и два етажа над всичко останало.",
-    pageTitleGallery: "Снимките предстоят",
+    pageTitleGallery: "Мястото в снимки",
     pageTitleEvents: "Поводите на мястото",
-    pageTitleMenu: "Мястото, описано с техните думи",
+    pageTitleMenu: "Кухнята",
     pageTitleServices: "Какво стои на разположение",
   },
   en: {
@@ -222,23 +316,23 @@ export const extraStrings = {
     closeBtn: "Close",
     galleryMore: "The full gallery",
     exploreTitle: "Explore further",
-    menuTitle: "The place",
-    menuLead: "Panorama Restaurant publishes no menu. Here is what they state about the place itself:",
+    menuTitle: "The kitchen",
+    menuLead: "Greek and Mediterranean cooking, prepared in a glass-walled kitchen in view of the guests.",
     servicesTitle: "Services",
     servicesLead: "Here is what is known to be available for the day.",
-    techTitle: "In the restaurant",
+    techTitle: "In the building",
     eventsTitle: "Occasions",
     eventsLead: "The place is offered for occasions of every kind.",
     galleryTitle: "The place as it looks",
-    galleryLead: "Panorama Restaurant has no published photographs of the venue.",
-    galleryChip: "real photographs to come",
-    galleryEmptyTitle: "The photographs of the restaurant will stand here.",
-    galleryEmptyBody: "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
-    performerTitle: "The season, in their words",
+    galleryLead: "Fourteen of their own photographs: the view, the restaurant and the evenings in it.",
+    galleryChip: "real photographs of the restaurant",
+    galleryEmptyTitle: "The photographs of the restaurant stand here.",
+    galleryEmptyBody: "The photographs are their own, from their site sphotel.net.",
+    performerTitle: "The place",
     tableBandQuote: "Twenty-two floors above everything else.",
-    pageTitleGallery: "Photographs to come",
+    pageTitleGallery: "The place in photographs",
     pageTitleEvents: "Occasions at the venue",
-    pageTitleMenu: "The place, in their words",
+    pageTitleMenu: "The kitchen",
     pageTitleServices: "What is available",
   },
 } as const;

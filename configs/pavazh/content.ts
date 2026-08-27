@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Паваж. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Паваж. Harvested 2026-08-26 from: Google Business профила им (нямат сайт) + публичната им Facebook страница facebook.com/pavaj.plovdiv (снимки и запазена марка, събрани 2026-08-27).
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -76,7 +76,8 @@ export const venue = {
   ],
   reviews: [],
   handoff: [
-    "Снимки на заведението и на минали сватби (реални фото-слотове)",
+    "Писмено съгласие за снимките — взети са от публичната им Facebook страница за демото; при подписване се сменят с предоставени от тях файлове",
+    "Векторна версия на марката ПАВАЖ (демото ползва растер от профилната снимка)",
     "Капацитет: брой места седнали, коктейл и на открито",
     "Меню и куверт",
     "Web3Forms access key за формата за запитване",
@@ -133,7 +134,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "Капана",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на заведението",
+    atmosphereNote: "снимките са техни, от публичната им страница във Facebook",
     chapters: [
       {
         id: "pristigane",
@@ -182,7 +183,7 @@ export const dict = {
         "087 811 1876",
       ],
     ],
-    whyTitle: "Защо младоженците избират Паваж",
+    whyTitle: "Защо хората избират Паваж",
     packagesTitle: "Какво се знае за мястото",
     packagesLead: "Паваж не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
     includesTitle: "На разположение за деня",
@@ -240,7 +241,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "Kapana",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the place to be added",
+    atmosphereNote: "the photographs are theirs, from their public Facebook page",
     chapters: [
       {
         id: "pristigane",
@@ -289,7 +290,7 @@ export const dict = {
         "087 811 1876",
       ],
     ],
-    whyTitle: "Why couples choose Pavazh",
+    whyTitle: "Why people choose Pavazh",
     packagesTitle: "What is known about the place",
     packagesLead: "Pavazh publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer.",
     includesTitle: "Available for the day",

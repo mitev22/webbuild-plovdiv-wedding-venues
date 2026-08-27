@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/04dmg7w60jq61.js"],"default"]
+2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/1gnix6t9f16vy.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/04dmg7w60jq61.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JnDoklsG5PJEbvs85aMfh"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/restorant-kadife/_next/static/chunks/1gnix6t9f16vy.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cG4FZSo4OFuPknap26c6F"}
 5:null

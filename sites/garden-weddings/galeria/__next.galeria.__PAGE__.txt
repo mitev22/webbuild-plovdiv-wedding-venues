@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/0nsy7cs-wvma1.js"],"default"]
+2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/1974e3pi29ovy.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/0nsy7cs-wvma1.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BRTfSyUtn0mAUjK6Csjup"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/1974e3pi29ovy.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"k3xJGgA9JK2JI9JdwNVFl"}
 5:null

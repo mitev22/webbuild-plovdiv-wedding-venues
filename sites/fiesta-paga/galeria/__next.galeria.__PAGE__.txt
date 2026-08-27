@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/37vvxfauhrny1.js"],"default"]
+2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/1u72ylzz965c3.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/37vvxfauhrny1.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Cezm02reXu_pPunJow1vy"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/fiesta-paga/_next/static/chunks/1u72ylzz965c3.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Jl-2h3t16Suf3UxQ7VnhA"}
 5:null

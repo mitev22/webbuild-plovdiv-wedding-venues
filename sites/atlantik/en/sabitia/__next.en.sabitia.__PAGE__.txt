@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/2acwucceg0n27.js"],"default"]
+2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/37zu2lz8q_x40.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/2acwucceg0n27.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"AEY-2RZQVHF3qMaVE1C5l"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/atlantik/_next/static/chunks/37zu2lz8q_x40.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-0kXG7K9_sLOxzR2rqayX"}
 5:null

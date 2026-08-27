@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Паваж. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Паваж. Harvested 2026-08-26 from: Google Business профила им (нямат сайт) + публичната им Facebook страница facebook.com/pavaj.plovdiv (снимки и запазена марка, събрани 2026-08-27).
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -110,7 +110,79 @@ export const performerBg = "Домакините сами го казват та
 
 export const performerEn = "The hosts put it themselves: every cobble leads to Kapana, and the best table there has already happened.";
 
-export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [];
+export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [
+  {
+    slug: "ulitsata",
+    bg: "Улицата пред нас",
+    en: "The street outside",
+  },
+  {
+    slug: "zalata",
+    bg: "Барът",
+    en: "The bar",
+  },
+  {
+    slug: "masite",
+    bg: "Масите",
+    en: "The tables",
+  },
+  {
+    slug: "skarata",
+    bg: "Скарата",
+    en: "The grill",
+    tall: true,
+  },
+  {
+    slug: "dnem",
+    bg: "Улицата денем",
+    en: "The street by day",
+  },
+  {
+    slug: "ordyovri",
+    bg: "От кухнята",
+    en: "From the kitchen",
+  },
+  {
+    slug: "ribata",
+    bg: "Рибата",
+    en: "The fish",
+  },
+  {
+    slug: "desertat",
+    bg: "Десертът",
+    en: "The dessert",
+  },
+  {
+    slug: "lozhitsata",
+    bg: "Сладко накрая",
+    en: "Something sweet at the end",
+  },
+  {
+    slug: "ekipat",
+    bg: "Екипът",
+    en: "The team",
+  },
+  {
+    slug: "gradinata",
+    bg: "Градината",
+    en: "The garden",
+  },
+  {
+    slug: "kapana",
+    bg: "Капана вечер",
+    en: "Kapana at night",
+  },
+  {
+    slug: "dostavkata",
+    bg: "Доставката",
+    en: "The delivery",
+  },
+  {
+    slug: "muralat",
+    bg: "Муралът в Капана",
+    en: "The Kapana mural",
+  },
+];
 
 export const exploreArt = [
   {
@@ -209,16 +281,17 @@ export const extraStrings = {
     eventsTitle: "Поводи",
     eventsLead: "Мястото се предлага за поводи от всякакъв вид.",
     galleryTitle: "Мястото, както изглежда",
-    galleryLead: "Паваж няма публикувани собствени фотографии на обекта.",
-    galleryChip: "предстоят реални снимки",
-    galleryEmptyTitle: "Тук ще стоят снимките на заведението.",
-    galleryEmptyBody: "Снимките им живеят само във Facebook и не са предоставени за публикуване.",
+    galleryLead: "Четиринайсет от собствените им снимки: улицата, залата, кухнята и хората зад нея.",
+    galleryChip: "реални снимки на заведението",
+    galleryEmptyTitle: "Тук стоят снимките на заведението.",
+    galleryEmptyBody: "Снимките са техни собствени, събрани от страницата им във Facebook.",
     performerTitle: "Сезонът, с техните думи",
     tableBandQuote: "Всички павета водят към Капана.",
-    pageTitleGallery: "Снимките предстоят",
+    pageTitleGallery: "Мястото в снимки",
     pageTitleEvents: "Поводите на мястото",
     pageTitleMenu: "Мястото, описано с техните думи",
     pageTitleServices: "Какво стои на разположение",
+    tableBandAlt: "Вечеря в заведението, погледнато от улицата",
   },
   en: {
     inquire: "Enquire",
@@ -234,15 +307,16 @@ export const extraStrings = {
     eventsTitle: "Occasions",
     eventsLead: "The place is offered for occasions of every kind.",
     galleryTitle: "The place as it looks",
-    galleryLead: "Pavazh has no published photographs of the venue.",
-    galleryChip: "real photographs to come",
-    galleryEmptyTitle: "The photographs of the place will stand here.",
-    galleryEmptyBody: "Their photographs live only on Facebook and have not been released for publication.",
+    galleryLead: "Fourteen of their own photographs: the street, the room, the kitchen and the people behind it.",
+    galleryChip: "real photographs of the place",
+    galleryEmptyTitle: "The photographs of the place stand here.",
+    galleryEmptyBody: "The photographs are their own, gathered from their Facebook page.",
     performerTitle: "The season, in their words",
     tableBandQuote: "Every cobble leads to Kapana.",
-    pageTitleGallery: "Photographs to come",
+    pageTitleGallery: "The place in photographs",
     pageTitleEvents: "Occasions at the venue",
     pageTitleMenu: "The place, in their words",
     pageTitleServices: "What is available",
+    tableBandAlt: "Dinner inside, seen from the street",
   },
 } as const;

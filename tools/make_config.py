@@ -33,13 +33,17 @@ cfg = {
            "town": V.get("town", "Пловдив"), "since": V.get("since", ""),
            "phone": (V.get("phone") or [""])[0],
            "phoneHref": ("tel:" + V["phoneE164"]) if V.get("phoneE164") else "",
-           "email": V.get("email", ""), "logoSrc": "", "address": V["address"],
+           "email": V.get("email", ""), "logoSrc": V.get("logoSrc", ""),
+           "logoInNav": bool(V.get("logoInNav")), "address": V["address"],
            "mapEmbedSrc": "", "instagram": V.get("instagram", ""),
            "facebook": V.get("facebook", "")},
  "palette": {"note": V.get("paletteNote",
              f"{V['nameBg']}: no brand materials published — template palette kept as documented.")},
- "images": {"heroFilm": "", "wallGarden": "", "wallHall": "", "wallTerrace": "",
-            "ogImage": "/atmosphere/og-card.jpg"},
+ # Photograph slots. A venue that has supplied none keeps the empty strings and
+ # the template renders its coded gradient stand-ins (see gravura/TEMPLATE.md).
+ "images": {**{"heroFilm": "", "wallGarden": "", "wallHall": "", "wallTerrace": "",
+               "tableBand": "", "heroTone": "", "ogImage": "/atmosphere/og-card.jpg"},
+            **V.get("images", {})},
  "factsDict": {
    "bg": {"capacityRows": T.get("capacityRows", {}).get("bg", []),
           "timetable": T.get("timetable", {}).get("bg", []),

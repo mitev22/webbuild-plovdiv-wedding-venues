@@ -3,7 +3,7 @@
   "nameBg": "Паваж",
   "nameEn": "Pavazh",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "Google Business профила им (нямат сайт) + публичната им Facebook страница facebook.com/pavaj.plovdiv (снимки и запазена марка, събрани 2026-08-27)",
   "wordmark": {
     "bg": "Паваж",
     "en": "Pavazh"
@@ -82,8 +82,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на заведението",
-    "en": "atmospheric visualisations, photographs of the place to be added"
+    "bg": "снимките са техни, от публичната им страница във Facebook",
+    "en": "the photographs are theirs, from their public Facebook page"
   },
   "meta": {
     "bg": {
@@ -180,8 +180,8 @@
     ]
   },
   "whyTitle": {
-    "bg": "Защо младоженците избират Паваж",
-    "en": "Why couples choose Pavazh"
+    "bg": "Защо хората избират Паваж",
+    "en": "Why people choose Pavazh"
   },
   "packagesTitle": {
     "bg": "Какво се знае за мястото",
@@ -337,7 +337,79 @@
     "bg": "Домакините сами го казват така: всички павета водят към Капана, а най-вкусното място там вече се случи.",
     "en": "The hosts put it themselves: every cobble leads to Kapana, and the best table there has already happened."
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "slug": "ulitsata",
+      "bg": "Улицата пред нас",
+      "en": "The street outside"
+    },
+    {
+      "slug": "zalata",
+      "bg": "Барът",
+      "en": "The bar"
+    },
+    {
+      "slug": "masite",
+      "bg": "Масите",
+      "en": "The tables"
+    },
+    {
+      "slug": "skarata",
+      "bg": "Скарата",
+      "en": "The grill",
+      "tall": true
+    },
+    {
+      "slug": "dnem",
+      "bg": "Улицата денем",
+      "en": "The street by day"
+    },
+    {
+      "slug": "ordyovri",
+      "bg": "От кухнята",
+      "en": "From the kitchen"
+    },
+    {
+      "slug": "ribata",
+      "bg": "Рибата",
+      "en": "The fish"
+    },
+    {
+      "slug": "desertat",
+      "bg": "Десертът",
+      "en": "The dessert"
+    },
+    {
+      "slug": "lozhitsata",
+      "bg": "Сладко накрая",
+      "en": "Something sweet at the end"
+    },
+    {
+      "slug": "ekipat",
+      "bg": "Екипът",
+      "en": "The team"
+    },
+    {
+      "slug": "gradinata",
+      "bg": "Градината",
+      "en": "The garden"
+    },
+    {
+      "slug": "kapana",
+      "bg": "Капана вечер",
+      "en": "Kapana at night"
+    },
+    {
+      "slug": "dostavkata",
+      "bg": "Доставката",
+      "en": "The delivery"
+    },
+    {
+      "slug": "muralat",
+      "bg": "Муралът в Капана",
+      "en": "The Kapana mural"
+    }
+  ],
   "navHints": {
     "bg": [
       "мястото на повода",
@@ -366,16 +438,17 @@
       "eventsTitle": "Поводи",
       "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
       "galleryTitle": "Мястото, както изглежда",
-      "galleryLead": "Паваж няма публикувани собствени фотографии на обекта.",
-      "galleryChip": "предстоят реални снимки",
-      "galleryEmptyTitle": "Тук ще стоят снимките на заведението.",
-      "galleryEmptyBody": "Снимките им живеят само във Facebook и не са предоставени за публикуване.",
+      "galleryLead": "Четиринайсет от собствените им снимки: улицата, залата, кухнята и хората зад нея.",
+      "galleryChip": "реални снимки на заведението",
+      "galleryEmptyTitle": "Тук стоят снимките на заведението.",
+      "galleryEmptyBody": "Снимките са техни собствени, събрани от страницата им във Facebook.",
       "performerTitle": "Сезонът, с техните думи",
       "tableBandQuote": "Всички павета водят към Капана.",
-      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleGallery": "Мястото в снимки",
       "pageTitleEvents": "Поводите на мястото",
       "pageTitleMenu": "Мястото, описано с техните думи",
-      "pageTitleServices": "Какво стои на разположение"
+      "pageTitleServices": "Какво стои на разположение",
+      "tableBandAlt": "Вечеря в заведението, погледнато от улицата"
     },
     "en": {
       "menuTitle": "The place",
@@ -386,20 +459,22 @@
       "eventsTitle": "Occasions",
       "eventsLead": "The place is offered for occasions of every kind.",
       "galleryTitle": "The place as it looks",
-      "galleryLead": "Pavazh has no published photographs of the venue.",
-      "galleryChip": "real photographs to come",
-      "galleryEmptyTitle": "The photographs of the place will stand here.",
-      "galleryEmptyBody": "Their photographs live only on Facebook and have not been released for publication.",
+      "galleryLead": "Fourteen of their own photographs: the street, the room, the kitchen and the people behind it.",
+      "galleryChip": "real photographs of the place",
+      "galleryEmptyTitle": "The photographs of the place stand here.",
+      "galleryEmptyBody": "The photographs are their own, gathered from their Facebook page.",
       "performerTitle": "The season, in their words",
       "tableBandQuote": "Every cobble leads to Kapana.",
-      "pageTitleGallery": "Photographs to come",
+      "pageTitleGallery": "The place in photographs",
       "pageTitleEvents": "Occasions at the venue",
       "pageTitleMenu": "The place, in their words",
-      "pageTitleServices": "What is available"
+      "pageTitleServices": "What is available",
+      "tableBandAlt": "Dinner inside, seen from the street"
     }
   },
   "handoff": [
-    "Снимки на заведението и на минали сватби (реални фото-слотове)",
+    "Писмено съгласие за снимките — взети са от публичната им Facebook страница за демото; при подписване се сменят с предоставени от тях файлове",
+    "Векторна версия на марката ПАВАЖ (демото ползва растер от профилната снимка)",
     "Капацитет: брой места седнали, коктейл и на открито",
     "Меню и куверт",
     "Web3Forms access key за формата за запитване",
@@ -421,6 +496,11 @@
           "space": "Местата на открито",
           "note": "по паважа",
           "value": "на място"
+        },
+        {
+          "space": "Кухнята",
+          "note": "работи от обяд",
+          "value": "до единайсет вечерта"
         }
       ],
       "en": [
@@ -433,6 +513,11 @@
           "space": "The outdoor seating",
           "note": "on the cobbles",
           "value": "on site"
+        },
+        {
+          "space": "The kitchen",
+          "note": "works from noon",
+          "value": "till eleven at night"
         }
       ]
     },
@@ -475,7 +560,7 @@
         "heroTitle": "Всички павета водят към Капана.",
         "heroUnder": "Гастропъб на ул. „Златарска“ 7, с места за гости на открито.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Реална снимка от Капана",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Заведението и местата на открито.",
@@ -483,13 +568,14 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "реални снимки на заведението",
+        "heroCaptionReal": "Реална снимка от Капана"
       },
       "en": {
         "heroTitle": "Every cobble leads to Kapana.",
         "heroUnder": "A gastropub at 7 Zlatarska Street, with outdoor seating for guests.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "A real photograph from Kapana",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The place and its outdoor seating.",
@@ -497,8 +583,32 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "real photographs of the place",
+        "heroCaptionReal": "A real photograph from Kapana"
       }
     }
-  }
+  },
+  "photosHarvestedOn": "2026-08-27",
+  "logoSrc": "/brand/pavazh-mark.webp",
+  "images": {
+    "heroFilm": "/atmosphere/hero-kapana.webp",
+    "wallGarden": "/atmosphere/wall-bar.webp",
+    "wallHall": "/atmosphere/wall-vecher.webp",
+    "wallTerrace": "/atmosphere/wall-paveta.webp",
+    "ogImage": "/atmosphere/og-card.jpg",
+    "tableBand": "/atmosphere/band-vecheria.webp"
+  },
+  "paletteNote": "Паваж: черна стенсил марка + синият час и амбърът на лампичките в Капана (взети от собствените им снимки във Facebook, 2026-08-27).",
+  "cssVars": {
+    "ink": "#221d1a",
+    "ink-soft": "#514840",
+    "gold": "#96682f",
+    "gold-ink": "#6f4a1d",
+    "gold-pale": "#e8d9be",
+    "evening": "#12202e",
+    "film-deep": "#0c1824",
+    "film-mid": "#172b3c",
+    "film-top": "#1f3a4e"
+  },
+  "logoInNav": true
 }

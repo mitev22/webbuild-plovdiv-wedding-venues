@@ -3,7 +3,7 @@
   "nameBg": "Ресторант „Панорама“",
   "nameEn": "Panorama Restaurant",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "собствения им сайт sphotel.net (Парк хотел „Санкт Петербург“, страница /dining/panorama и /halls) — снимки, капацитет, кухня; събрани 2026-08-27",
   "wordmark": {
     "bg": "Панорама",
     "en": "Panorama"
@@ -29,22 +29,26 @@
   "email": "",
   "instagram": "",
   "facebook": "",
-  "sameAs": [],
+  "sameAs": [
+    "https://sphotel.net/dining/panorama"
+  ],
   "mapQuery": "Ресторант+Панорама+хотел+Санкт+Петербург+България+97+Пловдив",
-  "maxCapacity": 0,
+  "maxCapacity": 120,
   "capacity": [],
   "spaces": [],
   "packageIncludes": [
-    "Ресторантът на бул. „България“ 97, ет. 22, Пловдив",
-    "Ресторант на двайсет и втория етаж",
-    "Панорамен изглед над целия град",
-    "В сградата на хотел „Санкт Петербург“"
+    "Ресторант на 22-ия етаж със 120 места",
+    "Панорамен изглед към Пловдив и Родопите",
+    "Открита лятна градина",
+    "Гръцка и средиземноморска кухня от остъклена кухня",
+    "Зали Пълдин, Нева и Дружба в хотела"
   ],
   "packageIncludesEn": [
-    "The restaurant at 97 Bulgaria Blvd, floor 22, Plovdiv",
-    "A restaurant on the twenty-second floor",
-    "A panoramic view over the whole city",
-    "In the Sankt Peterburg hotel building"
+    "A restaurant on the 22nd floor seating 120",
+    "A panoramic view over Plovdiv and the Rhodopes",
+    "An open summer garden",
+    "Greek and Mediterranean cooking from a glass-walled kitchen",
+    "The Puldin, Neva and Druzhba halls in the hotel"
   ],
   "packageAssist": {
     "bg": "",
@@ -52,14 +56,16 @@
   },
   "whyUs": {
     "bg": [
-      "Ресторант на двайсет и втория етаж",
-      "Панорамен изглед над целия град",
-      "В сградата на хотел „Санкт Петербург“"
+      "Най-високата гледка към Пловдив — 22-ият етаж",
+      "120 места и открита лятна градина",
+      "Гръцка и средиземноморска кухня, приготвяна пред гостите",
+      "Зали в хотела за по-големите поводи"
     ],
     "en": [
-      "A restaurant on the twenty-second floor",
-      "A panoramic view over the whole city",
-      "In the Sankt Peterburg hotel building"
+      "The highest view over Plovdiv — the 22nd floor",
+      "120 seats and an open summer garden",
+      "Greek and Mediterranean cooking, prepared in front of the guests",
+      "Halls in the hotel for larger occasions"
     ]
   },
   "parking": {
@@ -76,8 +82,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
-    "en": "atmospheric visualisations, photographs of the restaurant to be added"
+    "bg": "снимките са техни собствени, от сайта им sphotel.net",
+    "en": "the photographs are their own, from their site sphotel.net"
   },
   "meta": {
     "bg": {
@@ -103,12 +109,12 @@
     "bg": {
       "title": "Церемонията",
       "lead": "Ресторантът е на двайсет и втория етаж, с изглед над целия Пловдив.",
-      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+      "body": "Ресторантът е с капацитет 120 места на 22-ия етаж, с открита лятна градина. Трите зали на хотела — Пълдин, Нева и Дружба — се предлагат отделно, но се рекламират за конференции, не за тържества."
     },
     "en": {
       "title": "The ceremony",
       "lead": "The restaurant sits on the twenty-second floor, with a view over the whole of Plovdiv.",
-      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+      "body": "The restaurant seats 120 on the 22nd floor and has an open summer garden. The hotel's three halls — Puldin, Neva and Druzhba — are offered separately, but are marketed for conferences, not celebrations."
     }
   },
   "ch3": {
@@ -125,12 +131,12 @@
     "bg": {
       "title": "Вечерта продължава",
       "lead": "Изгледът от двайсет и втория етаж поема вечерта.",
-      "body": "Собствен сайт няма, така че телефонът остава единственият начин за резервация."
+      "body": "Резервация се прави на 088 868 6817 или през сайта на хотела sphotel.net."
     },
     "en": {
       "title": "The evening goes on",
       "lead": "The view from the twenty-second floor carries the evening.",
-      "body": "There is no website, so the telephone remains the only way to book."
+      "body": "Booking is on 088 868 6817 or through the hotel's site sphotel.net."
     }
   },
   "ch5": {
@@ -150,8 +156,16 @@
         "бул. „България“ 97, ет. 22, Пловдив"
       ],
       [
+        "Мястото",
+        "Парк хотел „Санкт Петербург“"
+      ],
+      [
         "Телефон",
         "088 868 6817"
+      ],
+      [
+        "Работно време",
+        "18:00 – 24:00"
       ]
     ],
     "en": [
@@ -160,8 +174,16 @@
         "97 Bulgaria Blvd, floor 22, Plovdiv"
       ],
       [
+        "Venue",
+        "Park Hotel Sankt Peterburg"
+      ],
+      [
         "Phone",
         "088 868 6817"
+      ],
+      [
+        "Open",
+        "18:00 – 24:00"
       ]
     ]
   },
@@ -170,20 +192,20 @@
     "en": "Why couples choose Panorama Restaurant"
   },
   "packagesTitle": {
-    "bg": "Какво се знае за мястото",
-    "en": "What is known about the place"
+    "bg": "Мястото и кухнята",
+    "en": "The place and the kitchen"
   },
   "packagesLead": {
-    "bg": "Ресторант „Панорама“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
-    "en": "Panorama Restaurant publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+    "bg": "„Панорама“ не публикува куверт и сватбени пакети. Показано е това, което сами съобщават за ресторанта. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Panorama publishes no per-head price or wedding packages. What appears here is what they state themselves about the restaurant. Describe your celebration in the form for an offer."
   },
   "includesTitle": {
     "bg": "На разположение за деня",
     "en": "Available for the day"
   },
   "reviewsLead": {
-    "bg": "Ресторант „Панорама“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
-    "en": "Panorama Restaurant has no verifiable published reviews. This section stays empty until real ones are supplied."
+    "bg": "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
+    "en": "Guest reviews are still to be collected and published with the hosts' consent."
   },
   "gettingHereNote": {
     "bg": "Ресторантът е на бул. „България“ 97, ет. 22, Пловдив.",
@@ -192,46 +214,63 @@
   "capacityStats": {
     "bg": [
       {
-        "value": "22-ият",
-        "count": 22,
-        "label": "етаж над града"
+        "value": "120",
+        "count": 120,
+        "label": "места в ресторанта"
       },
       {
-        "value": "Панорама",
-        "label": "изглед над Пловдив"
+        "value": "22-ри",
+        "label": "етажът над Пловдив"
+      },
+      {
+        "value": "18:00",
+        "label": "часът, в който отваря"
       }
     ],
     "en": [
       {
-        "value": "22nd",
-        "count": 22,
-        "label": "floor above the city"
+        "value": "120",
+        "count": 120,
+        "label": "seats in the restaurant"
       },
       {
-        "value": "Panorama",
-        "label": "a view over Plovdiv"
+        "value": "22nd",
+        "label": "floor above Plovdiv"
+      },
+      {
+        "value": "18:00",
+        "label": "when it opens"
       }
     ]
   },
   "menu": {
     "bg": [
       {
-        "key": "mqstoto",
-        "label": "Мястото",
-        "note": "Ресторант „Панорама“ не публикува меню. Показано е само това, което сами съобщават.",
+        "key": "kuhnyata",
+        "label": "Кухнята",
+        "note": "„Панорама“ не публикува куверт за тържество. Ето какво сами съобщават за кухнята.",
         "dishes": [
           {
-            "n": "Панорамен ресторант",
-            "d": "на двайсет и втория етаж"
+            "n": "Гръцка и средиземноморска кухня"
           },
           {
-            "n": "Изглед над целия Пловдив"
+            "n": "Остъклена кухня",
+            "d": "ястията се приготвят пред гостите"
           },
           {
-            "n": "В сградата на хотел „Санкт Петербург“"
+            "n": "120 места",
+            "d": "на 22-ия етаж"
           },
           {
-            "n": "Резервация по телефон",
+            "n": "Лятна градина",
+            "d": "на открито"
+          },
+          {
+            "n": "Работно време",
+            "d": "18:00 – 24:00"
+          },
+          {
+            "n": "Запитване",
             "d": "088 868 6817"
           }
         ]
@@ -239,22 +278,31 @@
     ],
     "en": [
       {
-        "key": "mqstoto",
-        "label": "The place",
-        "note": "Panorama Restaurant publishes no menu. Only what they state themselves appears here.",
+        "key": "kuhnyata",
+        "label": "The kitchen",
+        "note": "Panorama publishes no per-head price for a celebration. Here is what they state about the kitchen.",
         "dishes": [
           {
-            "n": "A panoramic restaurant",
-            "d": "on the twenty-second floor"
+            "n": "Greek and Mediterranean cooking"
           },
           {
-            "n": "A view over the whole of Plovdiv"
+            "n": "A glass-walled kitchen",
+            "d": "dishes prepared in view of the guests"
           },
           {
-            "n": "In the Sankt Peterburg hotel building"
+            "n": "120 seats",
+            "d": "on the 22nd floor"
           },
           {
-            "n": "Booking by telephone",
+            "n": "A summer garden",
+            "d": "outdoors"
+          },
+          {
+            "n": "Open",
+            "d": "18:00 – 24:00"
+          },
+          {
+            "n": "Enquiries",
             "d": "088 868 6817"
           }
         ]
@@ -262,56 +310,132 @@
     ]
   },
   "menuFooter": {
-    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
-    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+    "bg": "Кухнята е гръцка и средиземноморска, приготвяна в остъклена кухня пред очите на гостите. Куверт за тържество не е публикуван и предстои да бъде предоставен.",
+    "en": "The kitchen is Greek and Mediterranean, cooked in a glass-walled kitchen in view of the guests. A per-head price for a celebration is not published and is still to be supplied."
   },
   "services": {
     "bg": [
-      "Ресторантът на бул. „България“ 97, ет. 22, Пловдив",
-      "Ресторант на двайсет и втория етаж",
-      "Панорамен изглед над целия град",
-      "В сградата на хотел „Санкт Петербург“"
+      "Ресторант на 22-ия етаж със 120 места",
+      "Панорамен изглед към Пловдив и Родопите",
+      "Открита лятна градина",
+      "Гръцка и средиземноморска кухня от остъклена кухня",
+      "Зали Пълдин, Нева и Дружба в хотела"
     ],
     "en": [
-      "The restaurant at 97 Bulgaria Blvd, floor 22, Plovdiv",
-      "A restaurant on the twenty-second floor",
-      "A panoramic view over the whole city",
-      "In the Sankt Peterburg hotel building"
+      "A restaurant on the 22nd floor seating 120",
+      "A panoramic view over Plovdiv and the Rhodopes",
+      "An open summer garden",
+      "Greek and Mediterranean cooking from a glass-walled kitchen",
+      "The Puldin, Neva and Druzhba halls in the hotel"
     ]
   },
   "tech": {
     "bg": [
-      "Ресторант на двайсет и втория етаж",
-      "Панорамен изглед над целия град",
-      "В сградата на хотел „Санкт Петербург“"
+      "Ресторантът работи от 18:00 до 24:00",
+      "Остъклена кухня, видима за гостите",
+      "Зала Пълдин: 5.20 × 17.30 м, до 300 места театрално",
+      "Зала Нева: 5.20 × 11.90 м · Зала Дружба: 6.40 × 12 м"
     ],
     "en": [
-      "A restaurant on the twenty-second floor",
-      "A panoramic view over the whole city",
-      "In the Sankt Peterburg hotel building"
+      "The restaurant is open 18:00–24:00",
+      "A glass-walled kitchen, visible to guests",
+      "Puldin hall: 5.20 × 17.30 m, up to 300 theatre-style",
+      "Neva hall: 5.20 × 11.90 m · Druzhba hall: 6.40 × 12 m"
     ]
   },
   "events": {
     "bg": [
       {
-        "title": "Тържества над града",
-        "body": "Ресторантът поема поводи на двайсет и втория етаж, с панорамен изглед над Пловдив.",
-        "fact": "22-ият етаж"
+        "title": "Семейни празненства над града",
+        "body": "Ресторантът се предлага за семейни празненства и събирания, а за по-големите поводи хотелът има зали на по-долните етажи.",
+        "fact": "120 места"
       }
     ],
     "en": [
       {
-        "title": "Celebrations above the city",
-        "body": "The restaurant takes on occasions on the twenty-second floor, with a panoramic view over Plovdiv.",
-        "fact": "22nd floor"
+        "title": "Family celebrations above the city",
+        "body": "The restaurant is offered for family celebrations and gatherings, and for larger occasions the hotel has halls on the lower floors.",
+        "fact": "120 seats"
       }
     ]
   },
   "performer": {
-    "bg": "Ресторантът е на двайсет и втория етаж на бул. „България“ 97, с панорамен изглед над Пловдив.",
-    "en": "The restaurant is on the twenty-second floor at 97 Bulgaria Boulevard, with a panoramic view over Plovdiv."
+    "bg": "Ресторантът е на 22-ия етаж на Парк хотел „Санкт Петербург“, с панорамен изглед към Пловдив и Родопите.",
+    "en": "The restaurant is on the 22nd floor of Park Hotel Sankt Peterburg, with a panoramic view over Plovdiv and the Rhodopes."
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "slug": "izgledat",
+      "bg": "Изгледът от 22-ия етаж",
+      "en": "The view from the 22nd floor",
+      "tall": true
+    },
+    {
+      "slug": "restorantat",
+      "bg": "Ресторантът",
+      "en": "The restaurant"
+    },
+    {
+      "slug": "zalata",
+      "bg": "Залата",
+      "en": "The dining room"
+    },
+    {
+      "slug": "masata",
+      "bg": "Подредената маса",
+      "en": "The laid table"
+    },
+    {
+      "slug": "parviyat-tants",
+      "bg": "Първият танц",
+      "en": "The first dance"
+    },
+    {
+      "slug": "gostite",
+      "bg": "Гостите на масата",
+      "en": "Guests at the table"
+    },
+    {
+      "slug": "grada-nosht",
+      "bg": "Градът вечер",
+      "en": "The city at night"
+    },
+    {
+      "slug": "kulata",
+      "bg": "Хотелът отвън",
+      "en": "The hotel from outside"
+    },
+    {
+      "slug": "pianoto",
+      "bg": "Пианото",
+      "en": "The piano"
+    },
+    {
+      "slug": "vinoto",
+      "bg": "Чашите",
+      "en": "The glasses"
+    },
+    {
+      "slug": "vhodat",
+      "bg": "Входът към залата",
+      "en": "The entrance to the hall"
+    },
+    {
+      "slug": "tsvetyata",
+      "bg": "Цветята",
+      "en": "The flowers"
+    },
+    {
+      "slug": "dvoykata",
+      "bg": "Преди повода",
+      "en": "Before the occasion"
+    },
+    {
+      "slug": "foayeto",
+      "bg": "Фоайето",
+      "en": "The foyer"
+    }
+  ],
   "navHints": {
     "bg": [
       "мястото на повода",
@@ -332,81 +456,90 @@
   },
   "extra": {
     "bg": {
-      "menuTitle": "Мястото",
-      "menuLead": "Ресторант „Панорама“ не публикува меню. Ето какво съобщават за самото място:",
+      "menuTitle": "Кухнята",
+      "menuLead": "Гръцка и средиземноморска кухня, приготвяна в остъклена кухня пред гостите.",
       "servicesTitle": "Услуги",
       "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
-      "techTitle": "В ресторанта",
+      "techTitle": "В сградата",
       "eventsTitle": "Поводи",
       "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
       "galleryTitle": "Мястото, както изглежда",
-      "galleryLead": "Ресторант „Панорама“ няма публикувани собствени фотографии на обекта.",
-      "galleryChip": "предстоят реални снимки",
-      "galleryEmptyTitle": "Тук ще стоят снимките на ресторанта.",
-      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
-      "performerTitle": "Сезонът, с техните думи",
+      "galleryLead": "Четиринайсет от собствените им снимки: изгледът, ресторантът и вечерите в него.",
+      "galleryChip": "реални снимки на ресторанта",
+      "galleryEmptyTitle": "Тук стоят снимките на ресторанта.",
+      "galleryEmptyBody": "Снимките са техни собствени, от сайта им sphotel.net.",
+      "performerTitle": "Мястото",
       "tableBandQuote": "Двайсет и два етажа над всичко останало.",
-      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleGallery": "Мястото в снимки",
       "pageTitleEvents": "Поводите на мястото",
-      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleMenu": "Кухнята",
       "pageTitleServices": "Какво стои на разположение"
     },
     "en": {
-      "menuTitle": "The place",
-      "menuLead": "Panorama Restaurant publishes no menu. Here is what they state about the place itself:",
+      "menuTitle": "The kitchen",
+      "menuLead": "Greek and Mediterranean cooking, prepared in a glass-walled kitchen in view of the guests.",
       "servicesTitle": "Services",
       "servicesLead": "Here is what is known to be available for the day.",
-      "techTitle": "In the restaurant",
+      "techTitle": "In the building",
       "eventsTitle": "Occasions",
       "eventsLead": "The place is offered for occasions of every kind.",
       "galleryTitle": "The place as it looks",
-      "galleryLead": "Panorama Restaurant has no published photographs of the venue.",
-      "galleryChip": "real photographs to come",
-      "galleryEmptyTitle": "The photographs of the restaurant will stand here.",
-      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
-      "performerTitle": "The season, in their words",
+      "galleryLead": "Fourteen of their own photographs: the view, the restaurant and the evenings in it.",
+      "galleryChip": "real photographs of the restaurant",
+      "galleryEmptyTitle": "The photographs of the restaurant stand here.",
+      "galleryEmptyBody": "The photographs are their own, from their site sphotel.net.",
+      "performerTitle": "The place",
       "tableBandQuote": "Twenty-two floors above everything else.",
-      "pageTitleGallery": "Photographs to come",
+      "pageTitleGallery": "The place in photographs",
       "pageTitleEvents": "Occasions at the venue",
-      "pageTitleMenu": "The place, in their words",
+      "pageTitleMenu": "The kitchen",
       "pageTitleServices": "What is available"
     }
   },
   "handoff": [
-    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
-    "Меню и куверт",
+    "Поемат ли сватбени тържества в ресторанта и при какви условия",
+    "Капацитет за тържество седнали — в ресторанта и в залите",
+    "Меню и куверт за тържество",
+    "Снимки от минали тържества (залите са снимани само като конферентни)",
     "Web3Forms access key за формата за запитване",
     "Имейл адрес за контакт",
     "Текст за политика за поверителност — преглед от юрист",
-    "Капацитет на панорамния салон и брой места",
-    "Меню и куверт",
-    "Дали залата се наема самостоятелно за сватба"
+    "Потвърждение, че може да ползваме снимките им от sphotel.net"
   ],
   "tokens": {
     "capacityRows": {
       "bg": [
         {
-          "space": "Ресторантът",
-          "note": "двайсет и вторият етаж",
-          "value": "капацитет по запитване"
+          "space": "Ресторант „Панорама“",
+          "note": "22-ри етаж, с лятна градина",
+          "value": "120 места"
         },
         {
-          "space": "Изгледът",
-          "note": "над целия град",
-          "value": "панорамен"
+          "space": "Зала Пълдин",
+          "note": "най-голямата в комплекса",
+          "value": "до 300 театрално"
+        },
+        {
+          "space": "Зали Нева и Дружба",
+          "note": "за по-малки групи",
+          "value": "35 и 40 места"
         }
       ],
       "en": [
         {
-          "space": "The restaurant",
-          "note": "the twenty-second floor",
-          "value": "capacity on request"
+          "space": "Panorama Restaurant",
+          "note": "22nd floor, with a summer garden",
+          "value": "120 seats"
         },
         {
-          "space": "The view",
-          "note": "over the whole city",
-          "value": "panoramic"
+          "space": "Puldin hall",
+          "note": "the largest in the complex",
+          "value": "up to 300 theatre-style"
+        },
+        {
+          "space": "Neva and Druzhba halls",
+          "note": "for smaller groups",
+          "value": "35 and 40 seats"
         }
       ]
     },
@@ -449,7 +582,7 @@
         "heroTitle": "Целият град е под масата.",
         "heroUnder": "Панорамен ресторант на двайсет и втория етаж на бул. „България“ 97.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка на ресторанта",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Ресторантът и изгледът.",
@@ -457,13 +590,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "снимките са техни собствени, от sphotel.net"
       },
       "en": {
         "heroTitle": "The whole city lies below the table.",
         "heroUnder": "A panoramic restaurant on the twenty-second floor at 97 Bulgaria Boulevard.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph of the restaurant",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The restaurant and the view.",
@@ -471,8 +604,19 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the photographs are their own, from sphotel.net"
       }
     }
+  },
+  "website": "https://sphotel.net/dining/panorama",
+  "photosHarvestedOn": "2026-08-27",
+  "logoSrc": "",
+  "images": {
+    "heroFilm": "/atmosphere/hero-panorama.webp",
+    "wallGarden": "/atmosphere/wall-izgled.webp",
+    "wallHall": "/atmosphere/wall-nosht.webp",
+    "wallTerrace": "/atmosphere/wall-masata.webp",
+    "ogImage": "/atmosphere/og-card.jpg",
+    "tableBand": "/atmosphere/band-restorant.webp"
   }
 }

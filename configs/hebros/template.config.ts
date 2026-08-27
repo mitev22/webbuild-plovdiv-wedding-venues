@@ -8,14 +8,15 @@ export const site = {
 } as const;
 
 export const brand = {
-  nameBg: "Хотел „Хеброс“",
-  nameEn: "Hebros Hotel",
+  nameBg: "Хотел и ресторант „Хеброс“",
+  nameEn: "Hebros Hotel & Restaurant",
   town: "Пловдив",
   since: "",
-  phone: "088 822 0377",
-  phoneHref: "tel:+359888220377",
-  email: "",
-  logoSrc: "",
+  phone: "032 260 180",
+  phoneHref: "tel:+35932260180",
+  email: "reservation@oldlegends.bg",
+  logoSrc: "/brand/hebros-mark.webp",
+  logoInNav: true,
   address: "ул. „Константин Стоилов“ 51, Стария град, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -23,14 +24,16 @@ export const brand = {
 } as const;
 
 export const palette = {
-  note: "Хотел „Хеброс“: no brand materials published — template palette kept as documented.",
+  note: "Хотел и ресторант „Хеброс“: no brand materials published — template palette kept as documented.",
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
+  heroFilm: "/atmosphere/hero-hebros.webp",
+  wallGarden: "/atmosphere/wall-gradinata.webp",
+  wallHall: "/atmosphere/wall-salonat.webp",
+  wallTerrace: "/atmosphere/wall-dvorat.webp",
+  tableBand: "/atmosphere/band-dvorat.webp",
+  heroTone: "light",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 
@@ -100,7 +103,7 @@ export const copyDict = {
     heroTitle: "Тържеството и нощувката на един хълм.",
     heroUnder: "Хотел на ул. „Константин Стоилов“ 51, сред възрожденските къщи.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Снимка на хотела",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Хотелът в Стария град.",
@@ -108,13 +111,13 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "снимките са техни собствени, от oldlegends.bg",
   },
   en: {
     heroTitle: "The celebration and the night, on one hill.",
     heroUnder: "A hotel at 51 Konstantin Stoilov Street, among the revival houses.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "Photograph of the hotel",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "The hotel in the Old Town.",
@@ -122,6 +125,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the photographs are their own, from oldlegends.bg",
   },
 } as const;

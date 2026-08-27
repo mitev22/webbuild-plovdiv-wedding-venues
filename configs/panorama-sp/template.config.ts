@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+359888686817",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "бул. „България“ 97, ет. 22, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -27,10 +28,12 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
+  heroFilm: "/atmosphere/hero-panorama.webp",
+  wallGarden: "/atmosphere/wall-izgled.webp",
+  wallHall: "/atmosphere/wall-nosht.webp",
+  wallTerrace: "/atmosphere/wall-masata.webp",
+  tableBand: "/atmosphere/band-restorant.webp",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 
@@ -38,14 +41,19 @@ export const factsDict = {
   bg: {
     capacityRows: [
       {
-        space: "Ресторантът",
-        note: "двайсет и вторият етаж",
-        value: "капацитет по запитване",
+        space: "Ресторант „Панорама“",
+        note: "22-ри етаж, с лятна градина",
+        value: "120 места",
       },
       {
-        space: "Изгледът",
-        note: "над целия град",
-        value: "панорамен",
+        space: "Зала Пълдин",
+        note: "най-голямата в комплекса",
+        value: "до 300 театрално",
+      },
+      {
+        space: "Зали Нева и Дружба",
+        note: "за по-малки групи",
+        value: "35 и 40 места",
       },
     ],
     timetable: [
@@ -67,14 +75,19 @@ export const factsDict = {
   en: {
     capacityRows: [
       {
-        space: "The restaurant",
-        note: "the twenty-second floor",
-        value: "capacity on request",
+        space: "Panorama Restaurant",
+        note: "22nd floor, with a summer garden",
+        value: "120 seats",
       },
       {
-        space: "The view",
-        note: "over the whole city",
-        value: "panoramic",
+        space: "Puldin hall",
+        note: "the largest in the complex",
+        value: "up to 300 theatre-style",
+      },
+      {
+        space: "Neva and Druzhba halls",
+        note: "for smaller groups",
+        value: "35 and 40 seats",
       },
     ],
     timetable: [
@@ -100,7 +113,7 @@ export const copyDict = {
     heroTitle: "Целият град е под масата.",
     heroUnder: "Панорамен ресторант на двайсет и втория етаж на бул. „България“ 97.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Снимка на ресторанта",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Ресторантът и изгледът.",
@@ -108,13 +121,13 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "снимките са техни собствени, от sphotel.net",
   },
   en: {
     heroTitle: "The whole city lies below the table.",
     heroUnder: "A panoramic restaurant on the twenty-second floor at 97 Bulgaria Boulevard.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "Photograph of the restaurant",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "The restaurant and the view.",
@@ -122,6 +135,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the photographs are their own, from sphotel.net",
   },
 } as const;

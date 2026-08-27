@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/dayana-3/_next/static/chunks/3q1s4s1jotxk2.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pg2iQR6HCFkoNHwNgt4if"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/dayana-3/_next/static/chunks/0yjjh2jg9ok03.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pxeFBINjDRoc1EzglYgHs"}

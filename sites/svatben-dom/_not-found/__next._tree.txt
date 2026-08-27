@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/svatben-dom/_next/static/chunks/02xz8k9ud05t8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lyoIUvhov6LXETDNwh33r"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/svatben-dom/_next/static/chunks/3wqllsjl2_1n9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"iPoamq7bj5DmPDyMpzp_C"}

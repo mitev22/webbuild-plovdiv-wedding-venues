@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Хотел „Хеброс“. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Хотел и ресторант „Хеброс“. Harvested 2026-08-26 from: собствения им сайт oldlegends.bg (Хотел и Ресторант Old Legends / Хеброс) — снимки, история, стаи, ресторант; събрани 2026-08-27. Google Business профил за отзивите..
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -8,24 +8,33 @@ export type Dish = { n: string; d?: string; g?: string };
 
 export const menuBg: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
-    label: "Мястото",
-    note: "Хотел „Хеброс“ не публикува меню. Показано е само това, което сами съобщават.",
+    key: "kuhnyata",
+    label: "Кухнята",
+    note: "Ресторант Old Legends не публикува куверт за тържество. Ето какво сами съобщават за кухнята и виното.",
     dishes: [
       {
-        n: "Хотел в Стария град",
-        d: "ул. „Константин Стоилов“ 51",
+        n: "Ресторант на годината",
+        d: "на сп. Бакхус — 2016 и 2003",
       },
       {
-        n: "Стаи за гостите",
-        d: "на място",
+        n: "Модерна кухня",
+        d: "стъпила на традиционната българска",
       },
       {
-        n: "Сред възрожденските къщи",
+        n: "Винена листа",
+        d: "подбрани вина от цял свят",
       },
       {
-        n: "Запитване по телефон",
-        d: "088 822 0377",
+        n: "Slow Food",
+        d: "философията, която следват",
+      },
+      {
+        n: "Градината",
+        d: "вечеря на открито сред зеленина",
+      },
+      {
+        n: "Запитване",
+        d: "032 260 180 · reservation@oldlegends.bg",
       },
     ],
   },
@@ -33,65 +42,76 @@ export const menuBg: { key: string; label: string; note?: string; dishes: Dish[]
 
 export const menuEn: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
-    label: "The place",
-    note: "Hebros Hotel publishes no menu. Only what they state themselves appears here.",
+    key: "kuhnyata",
+    label: "The kitchen",
+    note: "Restaurant Old Legends publishes no per-head price for a celebration. Here is what they state themselves about the kitchen and the wine.",
     dishes: [
       {
-        n: "A hotel in the Old Town",
-        d: "51 Konstantin Stoilov St",
+        n: "Restaurant of the Year",
+        d: "Bacchus magazine — 2016 and 2003",
       },
       {
-        n: "Rooms for guests",
-        d: "on site",
+        n: "Modern cooking",
+        d: "rooted in the Bulgarian tradition",
       },
       {
-        n: "Among the revival houses",
+        n: "Wine list",
+        d: "selected wines from around the world",
       },
       {
-        n: "Enquiries by telephone",
-        d: "088 822 0377",
+        n: "Slow Food",
+        d: "the philosophy they follow",
+      },
+      {
+        n: "The garden",
+        d: "dinner outdoors among the greenery",
+      },
+      {
+        n: "Enquiries",
+        d: "032 260 180 · reservation@oldlegends.bg",
       },
     ],
   },
 ];
 
 export const menuFooterBg =
-  "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.";
+  "Кухнята е модерна, но стъпва на традиционната българска кухня, а виното е подбрано от цял свят. Конкретното меню и куверт за тържество предстои да бъдат предоставени.";
 
 export const menuFooterEn =
-  "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied.";
+  "The kitchen is modern but rooted in traditional Bulgarian cooking, and the wine is selected from around the world. The specific menu and per-head price for a celebration are still to be supplied.";
 
 export const servicesBg = [
-  "Хотелът на ул. „Константин Стоилов“ 51, Стария град, Пловдив",
-  "Хотел в Стария град на Пловдив",
-  "Стаи за гостите на място",
-  "Сред възрожденските къщи на хълма",
+  "Възрожденска къща на ул. „Константин Стоилов“ 51, под Балабановата къща",
+  "Ресторант с награда „Ресторант на годината“ на сп. Бакхус (2016 и 2003)",
+  "Двор и градина с маси на открито",
+  "Зимна градина под стъклен покрив",
+  "Стаи и апартамент с автентично обзавеждане за гостите, които остават",
 ];
 
 export const servicesEn = [
-  "The hotel at 51 Konstantin Stoilov St, Old Town, Plovdiv",
-  "A hotel in the Old Town of Plovdiv",
-  "Rooms for guests on site",
-  "Among the revival houses on the hill",
+  "A Revival house at 51 Konstantin Stoilov St, below Balabanov House",
+  "A restaurant named Restaurant of the Year by Bacchus magazine (2016 and 2003)",
+  "A courtyard and garden with tables outdoors",
+  "A winter garden under a glass roof",
+  "Rooms and an apartment in period furniture for guests who stay",
 ];
 
 export const techBg = [
-  "Хотел в Стария град на Пловдив",
-  "Стаи за гостите на място",
-  "Сред възрожденските къщи на хълма",
+  "Възрожденска къща, реставрирана със запазен първоначален вид",
+  "Автентично обзавеждане от XIX век",
+  "Климатик, сателитна телевизия, безжичен интернет и мини бар в стаите",
 ];
 
 export const techEn = [
-  "A hotel in the Old Town of Plovdiv",
-  "Rooms for guests on site",
-  "Among the revival houses on the hill",
+  "A Revival house, restored with its original form kept",
+  "Authentic 19th-century furnishings",
+  "Air conditioning, satellite television, Wi-Fi and a mini bar in the rooms",
 ];
 
 export const eventsBg = [
   {
     title: "Тържества в Стария град",
-    body: "Хотелът поема поводи в историческата част на Пловдив, а гостите могат да останат за нощувка.",
+    body: "Къщата поема поводи в историческата част на Пловдив — в салоните, в зимната градина или в двора, а гостите могат да останат за нощувка.",
     fact: "Стаи на място",
   },
 ];
@@ -99,16 +119,98 @@ export const eventsBg = [
 export const eventsEn = [
   {
     title: "Celebrations in the Old Town",
-    body: "The hotel takes on occasions in the historic part of Plovdiv, and guests can stay the night.",
+    body: "The house takes on occasions in the historic part of Plovdiv — in the salons, the winter garden or the courtyard, and guests can stay the night.",
     fact: "Rooms on site",
   },
 ];
 
-export const performerBg = "Хотелът е на ул. „Константин Стоилов“ 51, в Стария град на Пловдив, със стаи за гостите на място.";
+export const performerBg = "Къщата е строена преди около 200 години от богат пловдивски търговец на платове и кожи, по-късно е на рода Нешеви, реставрирана е през 1986 г. със запазен първоначален вид и от 1999 г. отново приема гости.";
 
-export const performerEn = "The hotel is at 51 Konstantin Stoilov Street, in the Old Town of Plovdiv, with rooms for guests on site.";
+export const performerEn = "The house was built some 200 years ago by a wealthy Plovdiv merchant in cloth and leather, later belonged to the Neshevi family, was restored in 1986 with its original form kept, and has received guests again since 1999.";
 
-export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [];
+export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [
+  {
+    slug: "fasadata",
+    bg: "Къщата отвън",
+    en: "The house from outside",
+  },
+  {
+    slug: "dvorat",
+    bg: "Дворът",
+    en: "The courtyard",
+  },
+  {
+    slug: "gradinata",
+    bg: "Градината",
+    en: "The garden",
+    tall: true,
+  },
+  {
+    slug: "masite-v-dvora",
+    bg: "Масите в двора",
+    en: "Tables in the courtyard",
+  },
+  {
+    slug: "zimnata-gradina",
+    bg: "Зимната градина",
+    en: "The winter garden",
+  },
+  {
+    slug: "pod-stakloto",
+    bg: "Под стъклото",
+    en: "Under the glass roof",
+  },
+  {
+    slug: "salonat",
+    bg: "Салонът",
+    en: "The salon",
+  },
+  {
+    slug: "sinyat-salon",
+    bg: "Синият салон с пианото",
+    en: "The blue salon and the piano",
+  },
+  {
+    slug: "restorantat",
+    bg: "Ресторантът",
+    en: "The restaurant",
+  },
+  {
+    slug: "masata",
+    bg: "Подредената маса",
+    en: "The laid table",
+  },
+  {
+    slug: "zakuskata",
+    bg: "Закуската",
+    en: "Breakfast",
+  },
+  {
+    slug: "vinata",
+    bg: "Витрината с вината",
+    en: "The wine cabinet",
+  },
+  {
+    slug: "nagradata",
+    bg: "Ресторант на годината",
+    en: "Restaurant of the Year",
+  },
+  {
+    slug: "stayata",
+    bg: "Стаята",
+    en: "A room",
+  },
+  {
+    slug: "apartamentat",
+    bg: "Апартаментът",
+    en: "The apartment",
+  },
+  {
+    slug: "terasata",
+    bg: "Сянка в двора",
+    en: "Shade in the courtyard",
+  },
+];
 
 export const exploreArt = [
   {
@@ -199,23 +301,23 @@ export const extraStrings = {
     closeBtn: "Затвори",
     galleryMore: "Цялата галерия",
     exploreTitle: "Разгледайте още",
-    menuTitle: "Мястото",
-    menuLead: "Хотел „Хеброс“ не публикува меню. Ето какво съобщават за самото място:",
+    menuTitle: "Кухнята",
+    menuLead: "Ресторант Old Legends — модерна кухня, стъпила на българската традиция, и подбрано вино.",
     servicesTitle: "Услуги",
     servicesLead: "Ето какво се знае, че стои на разположение за деня.",
-    techTitle: "В хотела",
+    techTitle: "В къщата",
     eventsTitle: "Поводи",
     eventsLead: "Мястото се предлага за поводи от всякакъв вид.",
     galleryTitle: "Мястото, както изглежда",
-    galleryLead: "Хотел „Хеброс“ няма публикувани собствени фотографии на обекта.",
-    galleryChip: "предстоят реални снимки",
-    galleryEmptyTitle: "Тук ще стоят снимките на хотела.",
-    galleryEmptyBody: "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
-    performerTitle: "Сезонът, с техните думи",
+    galleryLead: "Шестнайсет от собствените им снимки: къщата, дворът, салоните, ресторантът и стаите.",
+    galleryChip: "реални снимки на хотела",
+    galleryEmptyTitle: "Тук стоят снимките на хотела.",
+    galleryEmptyBody: "Снимките са техни собствени, от сайта им oldlegends.bg.",
+    performerTitle: "Историята на къщата",
     tableBandQuote: "Вечер и нощувка сред възрожденските къщи.",
-    pageTitleGallery: "Снимките предстоят",
+    pageTitleGallery: "Мястото в снимки",
     pageTitleEvents: "Поводите на мястото",
-    pageTitleMenu: "Мястото, описано с техните думи",
+    pageTitleMenu: "Кухнята и виното",
     pageTitleServices: "Какво стои на разположение",
   },
   en: {
@@ -224,23 +326,23 @@ export const extraStrings = {
     closeBtn: "Close",
     galleryMore: "The full gallery",
     exploreTitle: "Explore further",
-    menuTitle: "The place",
-    menuLead: "Hebros Hotel publishes no menu. Here is what they state about the place itself:",
+    menuTitle: "The kitchen",
+    menuLead: "Restaurant Old Legends — modern cooking rooted in Bulgarian tradition, with a selected wine list.",
     servicesTitle: "Services",
     servicesLead: "Here is what is known to be available for the day.",
-    techTitle: "In the hotel",
+    techTitle: "In the house",
     eventsTitle: "Occasions",
     eventsLead: "The place is offered for occasions of every kind.",
     galleryTitle: "The place as it looks",
-    galleryLead: "Hebros Hotel has no published photographs of the venue.",
-    galleryChip: "real photographs to come",
-    galleryEmptyTitle: "The photographs of the hotel will stand here.",
-    galleryEmptyBody: "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
-    performerTitle: "The season, in their words",
+    galleryLead: "Sixteen of their own photographs: the house, the courtyard, the salons, the restaurant and the rooms.",
+    galleryChip: "real photographs of the hotel",
+    galleryEmptyTitle: "The photographs of the hotel stand here.",
+    galleryEmptyBody: "The photographs are their own, from their site oldlegends.bg.",
+    performerTitle: "The story of the house",
     tableBandQuote: "An evening and a night among the revival houses.",
-    pageTitleGallery: "Photographs to come",
+    pageTitleGallery: "The place in photographs",
     pageTitleEvents: "Occasions at the venue",
-    pageTitleMenu: "The place, in their words",
+    pageTitleMenu: "The kitchen and the wine",
     pageTitleServices: "What is available",
   },
 } as const;

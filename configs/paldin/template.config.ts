@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+35932631720",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "ул. „Княз Церетелев“ 3, Стария град, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -31,6 +32,8 @@ export const images = {
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
+  tableBand: "",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

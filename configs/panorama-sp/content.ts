@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Ресторант „Панорама“. Harvested 2026-08-26 from: Google Business профила им (нямат сайт).
+ * Venue: Ресторант „Панорама“. Harvested 2026-08-26 from: собствения им сайт sphotel.net (Парк хотел „Санкт Петербург“, страница /dining/panorama и /halls) — снимки, капацитет, кухня; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -41,23 +41,27 @@ export const venue = {
   email: "",
   instagram: "",
   facebook: "",
-  sameAs: [],
+  sameAs: [
+    "https://sphotel.net/dining/panorama",
+  ],
   mapQuery: "Ресторант+Панорама+хотел+Санкт+Петербург+България+97+Пловдив",
-  maxCapacity: 0,
+  maxCapacity: 120,
   capacity: [],
   spaces: [],
   packages: [],
   packageIncludes: [
-    "Ресторантът на бул. „България“ 97, ет. 22, Пловдив",
-    "Ресторант на двайсет и втория етаж",
-    "Панорамен изглед над целия град",
-    "В сградата на хотел „Санкт Петербург“",
+    "Ресторант на 22-ия етаж със 120 места",
+    "Панорамен изглед към Пловдив и Родопите",
+    "Открита лятна градина",
+    "Гръцка и средиземноморска кухня от остъклена кухня",
+    "Зали Пълдин, Нева и Дружба в хотела",
   ],
   packageAssist: "",
   whyUs: [
-    "Ресторант на двайсет и втория етаж",
-    "Панорамен изглед над целия град",
-    "В сградата на хотел „Санкт Петербург“",
+    "Най-високата гледка към Пловдив — 22-ият етаж",
+    "120 места и открита лятна градина",
+    "Гръцка и средиземноморска кухня, приготвяна пред гостите",
+    "Зали в хотела за по-големите поводи",
   ],
   parking: "",
   seasonsAvailable: [
@@ -72,15 +76,14 @@ export const venue = {
   ],
   reviews: [],
   handoff: [
-    "Снимки на ресторанта и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
-    "Меню и куверт",
+    "Поемат ли сватбени тържества в ресторанта и при какви условия",
+    "Капацитет за тържество седнали — в ресторанта и в залите",
+    "Меню и куверт за тържество",
+    "Снимки от минали тържества (залите са снимани само като конферентни)",
     "Web3Forms access key за формата за запитване",
     "Имейл адрес за контакт",
     "Текст за политика за поверителност — преглед от юрист",
-    "Капацитет на панорамния салон и брой места",
-    "Меню и куверт",
-    "Дали залата се наема самостоятелно за сватба",
+    "Потвърждение, че може да ползваме снимките им от sphotel.net",
   ],
 } as const;
 
@@ -129,7 +132,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "22-ият етаж",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на ресторанта",
+    atmosphereNote: "снимките са техни собствени, от сайта им sphotel.net",
     chapters: [
       {
         id: "pristigane",
@@ -156,12 +159,12 @@ export const dict = {
     ch1Lead: "Денят започва с пристигането. Ресторантът е на бул. „България“ 97, ет. 22, Пловдив, на двайсет и втория етаж над Пловдив.",
     ch2Title: "Церемонията",
     ch2Lead: "Ресторантът е на двайсет и втория етаж, с изглед над целия Пловдив.",
-    ch2Body: "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините.",
+    ch2Body: "Ресторантът е с капацитет 120 места на 22-ия етаж, с открита лятна градина. Трите зали на хотела — Пълдин, Нева и Дружба — се предлагат отделно, но се рекламират за конференции, не за тържества.",
     ch3Title: "Вечерята",
     ch3Lead: "Гостите се хранят високо над града, покрай прозорците.",
     ch4Title: "Вечерта продължава",
     ch4Lead: "Изгледът от двайсет и втория етаж поема вечерта.",
-    ch4Body: "Собствен сайт няма, така че телефонът остава единственият начин за резервация.",
+    ch4Body: "Резервация се прави на 088 868 6817 или през сайта на хотела sphotel.net.",
     ch5Title: "Сбогуването е ново начало",
     ch5Lead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
     gettingHereRows: [
@@ -170,26 +173,38 @@ export const dict = {
         "бул. „България“ 97, ет. 22, Пловдив",
       ],
       [
+        "Мястото",
+        "Парк хотел „Санкт Петербург“",
+      ],
+      [
         "Телефон",
         "088 868 6817",
       ],
+      [
+        "Работно време",
+        "18:00 – 24:00",
+      ],
     ],
     whyTitle: "Защо младоженците избират Ресторант „Панорама“",
-    packagesTitle: "Какво се знае за мястото",
-    packagesLead: "Ресторант „Панорама“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    packagesTitle: "Мястото и кухнята",
+    packagesLead: "„Панорама“ не публикува куверт и сватбени пакети. Показано е това, което сами съобщават за ресторанта. Опишете тържеството си във формата и ще получите оферта.",
     includesTitle: "На разположение за деня",
-    reviewsLead: "Ресторант „Панорама“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    reviewsLead: "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
     footerDemo: "Демонстрационен сайт (spec) от Meridian Solutions. Не е официалният сайт на Ресторант „Панорама“.",
     footerRights: "Ресторант „Панорама“ · Пловдив",
     capacityStats: [
       {
-        value: "22-ият",
-        count: 22,
-        label: "етаж над града",
+        value: "120",
+        count: 120,
+        label: "места в ресторанта",
       },
       {
-        value: "Панорама",
-        label: "изглед над Пловдив",
+        value: "22-ри",
+        label: "етажът над Пловдив",
+      },
+      {
+        value: "18:00",
+        label: "часът, в който отваря",
       },
     ],
   },
@@ -228,7 +243,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "22nd floor",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the restaurant to be added",
+    atmosphereNote: "the photographs are their own, from their site sphotel.net",
     chapters: [
       {
         id: "pristigane",
@@ -255,12 +270,12 @@ export const dict = {
     ch1Lead: "The day begins with the arrival. The restaurant sits at 97 Bulgaria Blvd, floor 22, Plovdiv, on the twenty-second floor above Plovdiv.",
     ch2Title: "The ceremony",
     ch2Lead: "The restaurant sits on the twenty-second floor, with a view over the whole of Plovdiv.",
-    ch2Body: "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them.",
+    ch2Body: "The restaurant seats 120 on the 22nd floor and has an open summer garden. The hotel's three halls — Puldin, Neva and Druzhba — are offered separately, but are marketed for conferences, not celebrations.",
     ch3Title: "Dinner",
     ch3Lead: "Guests dine high above the city, along the windows.",
     ch4Title: "The evening goes on",
     ch4Lead: "The view from the twenty-second floor carries the evening.",
-    ch4Body: "There is no website, so the telephone remains the only way to book.",
+    ch4Body: "Booking is on 088 868 6817 or through the hotel's site sphotel.net.",
     ch5Title: "The farewell is a beginning",
     ch5Lead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
     gettingHereRows: [
@@ -269,26 +284,38 @@ export const dict = {
         "97 Bulgaria Blvd, floor 22, Plovdiv",
       ],
       [
+        "Venue",
+        "Park Hotel Sankt Peterburg",
+      ],
+      [
         "Phone",
         "088 868 6817",
       ],
+      [
+        "Open",
+        "18:00 – 24:00",
+      ],
     ],
     whyTitle: "Why couples choose Panorama Restaurant",
-    packagesTitle: "What is known about the place",
-    packagesLead: "Panorama Restaurant publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer.",
+    packagesTitle: "The place and the kitchen",
+    packagesLead: "Panorama publishes no per-head price or wedding packages. What appears here is what they state themselves about the restaurant. Describe your celebration in the form for an offer.",
     includesTitle: "Available for the day",
-    reviewsLead: "Panorama Restaurant has no verifiable published reviews. This section stays empty until real ones are supplied.",
+    reviewsLead: "Guest reviews are still to be collected and published with the hosts' consent.",
     footerDemo: "Spec demonstration site by Meridian Solutions. Not the official Panorama Restaurant website.",
     footerRights: "Panorama Restaurant · Plovdiv",
     capacityStats: [
       {
-        value: "22nd",
-        count: 22,
-        label: "floor above the city",
+        value: "120",
+        count: 120,
+        label: "seats in the restaurant",
       },
       {
-        value: "Panorama",
-        label: "a view over Plovdiv",
+        value: "22nd",
+        label: "floor above Plovdiv",
+      },
+      {
+        value: "18:00",
+        label: "when it opens",
       },
     ],
   },
@@ -303,19 +330,21 @@ export const seasonNamesEn: Record<Season, string> = {
 export const packageNamesEn: Record<string, string> = {};
 
 export const packageIncludesEn = [
-  "The restaurant at 97 Bulgaria Blvd, floor 22, Plovdiv",
-  "A restaurant on the twenty-second floor",
-  "A panoramic view over the whole city",
-  "In the Sankt Peterburg hotel building",
+  "A restaurant on the 22nd floor seating 120",
+  "A panoramic view over Plovdiv and the Rhodopes",
+  "An open summer garden",
+  "Greek and Mediterranean cooking from a glass-walled kitchen",
+  "The Puldin, Neva and Druzhba halls in the hotel",
 ];
 
 export const packageAssistEn =
   "";
 
 export const whyUsEn = [
-  "A restaurant on the twenty-second floor",
-  "A panoramic view over the whole city",
-  "In the Sankt Peterburg hotel building",
+  "The highest view over Plovdiv — the 22nd floor",
+  "120 seats and an open summer garden",
+  "Greek and Mediterranean cooking, prepared in front of the guests",
+  "Halls in the hotel for larger occasions",
 ];
 
 export const gettingHereNote =

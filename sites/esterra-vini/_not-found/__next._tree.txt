@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/esterra-vini/_next/static/chunks/2-i_kud4ogn_m.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"R4dbd-D44CIpCvimAk3t4"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/esterra-vini/_next/static/chunks/38iyinf0-cqr9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"G2KgHAPF5PvfXD2hIh9h8"}

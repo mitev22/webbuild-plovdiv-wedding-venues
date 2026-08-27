@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+359898292880",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "местност Беломорски 27А, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -31,6 +32,8 @@ export const images = {
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
+  tableBand: "",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

@@ -1,9 +1,9 @@
 {
   "slug": "hebros",
-  "nameBg": "Хотел „Хеброс“",
-  "nameEn": "Hebros Hotel",
+  "nameBg": "Хотел и ресторант „Хеброс“",
+  "nameEn": "Hebros Hotel & Restaurant",
   "harvestedOn": "2026-08-26",
-  "sources": "Google Business профила им (нямат сайт)",
+  "sources": "собствения им сайт oldlegends.bg (Хотел и Ресторант Old Legends / Хеброс) — снимки, история, стаи, ресторант; събрани 2026-08-27. Google Business профил за отзивите.",
   "wordmark": {
     "bg": "Хеброс",
     "en": "Hebros"
@@ -23,28 +23,33 @@
   "addressEn": "51 Konstantin Stoilov St, Old Town, Plovdiv",
   "addressStreet": "ул. „Константин Стоилов“ 51",
   "phone": [
+    "032 260 180",
     "088 822 0377"
   ],
-  "phoneE164": "+359888220377",
-  "email": "",
+  "phoneE164": "+35932260180",
+  "email": "reservation@oldlegends.bg",
   "instagram": "",
   "facebook": "",
-  "sameAs": [],
+  "sameAs": [
+    "https://oldlegends.bg/"
+  ],
   "mapQuery": "Хотел+Хеброс+Константин+Стоилов+51+Стария+град+Пловдив",
   "maxCapacity": 0,
   "capacity": [],
   "spaces": [],
   "packageIncludes": [
-    "Хотелът на ул. „Константин Стоилов“ 51, Стария град, Пловдив",
-    "Хотел в Стария град на Пловдив",
-    "Стаи за гостите на място",
-    "Сред възрожденските къщи на хълма"
+    "Възрожденска къща на ул. „Константин Стоилов“ 51, под Балабановата къща",
+    "Ресторант с награда „Ресторант на годината“ на сп. Бакхус (2016 и 2003)",
+    "Двор и градина с маси на открито",
+    "Зимна градина под стъклен покрив",
+    "Стаи и апартамент с автентично обзавеждане за гостите, които остават"
   ],
   "packageIncludesEn": [
-    "The hotel at 51 Konstantin Stoilov St, Old Town, Plovdiv",
-    "A hotel in the Old Town of Plovdiv",
-    "Rooms for guests on site",
-    "Among the revival houses on the hill"
+    "A Revival house at 51 Konstantin Stoilov St, below Balabanov House",
+    "A restaurant named Restaurant of the Year by Bacchus magazine (2016 and 2003)",
+    "A courtyard and garden with tables outdoors",
+    "A winter garden under a glass roof",
+    "Rooms and an apartment in period furniture for guests who stay"
   ],
   "packageAssist": {
     "bg": "",
@@ -52,16 +57,16 @@
   },
   "whyUs": {
     "bg": [
-      "4.3 от отзивите в Google",
-      "Хотел в Стария град на Пловдив",
-      "Стаи за гостите на място",
-      "Сред възрожденските къщи на хълма"
+      "Ресторант на годината на сп. Бакхус — 2016 и 2003",
+      "Възрожденска къща на около 200 години, паметник на културата",
+      "Двор, градина и зимна градина за тържеството",
+      "Стаи за гостите на място, в сърцето на Стария град"
     ],
     "en": [
-      "4.3 from its Google reviews",
-      "A hotel in the Old Town of Plovdiv",
-      "Rooms for guests on site",
-      "Among the revival houses on the hill"
+      "Restaurant of the Year, Bacchus magazine — 2016 and 2003",
+      "A roughly 200-year-old Revival house, a monument of culture",
+      "A courtyard, a garden and a winter garden for the occasion",
+      "Rooms for guests on site, in the heart of the Old Town"
     ]
   },
   "parking": {
@@ -78,8 +83,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на хотела",
-    "en": "atmospheric visualisations, photographs of the hotel to be added"
+    "bg": "снимките са техни собствени, от сайта им oldlegends.bg",
+    "en": "the photographs are their own, from their site oldlegends.bg"
   },
   "meta": {
     "bg": {
@@ -105,12 +110,12 @@
     "bg": {
       "title": "Церемонията",
       "lead": "Хотелът е в Стария град, сред възрожденските къщи на хълма.",
-      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+      "body": "Броят места за тържество не е публикуван и предстои да бъде уточнен с домакините. Известни са пространствата: салоните в къщата, зимната градина и дворът с масите на открито."
     },
     "en": {
       "title": "The ceremony",
       "lead": "The hotel is in the Old Town, among the revival houses on the hill.",
-      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+      "body": "The number of seats for a celebration is not published and is still to be confirmed with the hosts. The spaces are known: the salons in the house, the winter garden and the courtyard with its outdoor tables."
     }
   },
   "ch3": {
@@ -127,12 +132,12 @@
     "bg": {
       "title": "Вечерта продължава",
       "lead": "Гостите му дават 4.3 в Google.",
-      "body": "Собствен сайт няма, така че телефонът остава единственият начин за резервация."
+      "body": "Резервация се прави по телефона на 032 260 180, на reservation@oldlegends.bg или през сайта им oldlegends.bg."
     },
     "en": {
       "title": "The evening goes on",
       "lead": "Its guests rate it 4.3 on Google.",
-      "body": "There is no website, so the telephone remains the only way to book."
+      "body": "Booking is by telephone on 032 260 180, at reservation@oldlegends.bg, or through their site oldlegends.bg."
     }
   },
   "ch5": {
@@ -152,8 +157,16 @@
         "ул. „Константин Стоилов“ 51, Стария град, Пловдив"
       ],
       [
+        "Ориентир",
+        "под Балабановата къща"
+      ],
+      [
         "Телефон",
-        "088 822 0377"
+        "032 260 180 · 088 822 0377"
+      ],
+      [
+        "Е-мейл",
+        "reservation@oldlegends.bg"
       ]
     ],
     "en": [
@@ -162,8 +175,16 @@
         "51 Konstantin Stoilov St, Old Town, Plovdiv"
       ],
       [
+        "Landmark",
+        "below Balabanov House"
+      ],
+      [
         "Phone",
-        "088 822 0377"
+        "032 260 180 · 088 822 0377"
+      ],
+      [
+        "E-mail",
+        "reservation@oldlegends.bg"
       ]
     ]
   },
@@ -172,20 +193,20 @@
     "en": "Why couples choose Hebros Hotel"
   },
   "packagesTitle": {
-    "bg": "Какво се знае за мястото",
-    "en": "What is known about the place"
+    "bg": "Мястото и кухнята",
+    "en": "The place and the kitchen"
   },
   "packagesLead": {
-    "bg": "Хотел „Хеброс“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
-    "en": "Hebros Hotel publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+    "bg": "Хеброс не публикува куверт и сватбени пакети. Показано е това, което сами съобщават за къщата, ресторанта и двора. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Hebros publishes no per-head price or wedding packages. What appears here is what they state themselves about the house, the restaurant and the courtyard. Describe your celebration in the form for an offer."
   },
   "includesTitle": {
     "bg": "На разположение за деня",
     "en": "Available for the day"
   },
   "reviewsLead": {
-    "bg": "Хотел „Хеброс“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
-    "en": "Hebros Hotel has no verifiable published reviews. This section stays empty until real ones are supplied."
+    "bg": "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
+    "en": "Guest reviews are still to be collected and published with the hosts' consent."
   },
   "gettingHereNote": {
     "bg": "Хотелът е на ул. „Константин Стоилов“ 51, Стария град, Пловдив.",
@@ -194,136 +215,236 @@
   "capacityStats": {
     "bg": [
       {
-        "value": "4.3",
-        "count": 4.3,
-        "label": "от отзивите в Google"
+        "value": "2016 и 2003",
+        "label": "Ресторант на годината, сп. Бакхус"
+      },
+      {
+        "value": "~200 г.",
+        "label": "възрастта на възрожденската къща"
       },
       {
         "value": "Старият град",
-        "label": "кварталът на хотела"
-      },
-      {
-        "value": "Стаи",
-        "label": "за гостите на място"
+        "label": "под Балабановата къща"
       }
     ],
     "en": [
       {
-        "value": "4.3",
-        "count": 4.3,
-        "label": "from its Google reviews"
+        "value": "2016 & 2003",
+        "label": "Restaurant of the Year, Bacchus"
+      },
+      {
+        "value": "~200 yrs",
+        "label": "the age of the Revival house"
       },
       {
         "value": "The Old Town",
-        "label": "where it stands"
-      },
-      {
-        "value": "Rooms",
-        "label": "for guests on site"
+        "label": "below Balabanov House"
       }
     ]
   },
   "menu": {
     "bg": [
       {
-        "key": "mqstoto",
-        "label": "Мястото",
-        "note": "Хотел „Хеброс“ не публикува меню. Показано е само това, което сами съобщават.",
+        "key": "kuhnyata",
+        "label": "Кухнята",
+        "note": "Ресторант Old Legends не публикува куверт за тържество. Ето какво сами съобщават за кухнята и виното.",
         "dishes": [
           {
-            "n": "Хотел в Стария град",
-            "d": "ул. „Константин Стоилов“ 51"
+            "n": "Ресторант на годината",
+            "d": "на сп. Бакхус — 2016 и 2003"
           },
           {
-            "n": "Стаи за гостите",
-            "d": "на място"
+            "n": "Модерна кухня",
+            "d": "стъпила на традиционната българска"
           },
           {
-            "n": "Сред възрожденските къщи"
+            "n": "Винена листа",
+            "d": "подбрани вина от цял свят"
           },
           {
-            "n": "Запитване по телефон",
-            "d": "088 822 0377"
+            "n": "Slow Food",
+            "d": "философията, която следват"
+          },
+          {
+            "n": "Градината",
+            "d": "вечеря на открито сред зеленина"
+          },
+          {
+            "n": "Запитване",
+            "d": "032 260 180 · reservation@oldlegends.bg"
           }
         ]
       }
     ],
     "en": [
       {
-        "key": "mqstoto",
-        "label": "The place",
-        "note": "Hebros Hotel publishes no menu. Only what they state themselves appears here.",
+        "key": "kuhnyata",
+        "label": "The kitchen",
+        "note": "Restaurant Old Legends publishes no per-head price for a celebration. Here is what they state themselves about the kitchen and the wine.",
         "dishes": [
           {
-            "n": "A hotel in the Old Town",
-            "d": "51 Konstantin Stoilov St"
+            "n": "Restaurant of the Year",
+            "d": "Bacchus magazine — 2016 and 2003"
           },
           {
-            "n": "Rooms for guests",
-            "d": "on site"
+            "n": "Modern cooking",
+            "d": "rooted in the Bulgarian tradition"
           },
           {
-            "n": "Among the revival houses"
+            "n": "Wine list",
+            "d": "selected wines from around the world"
           },
           {
-            "n": "Enquiries by telephone",
-            "d": "088 822 0377"
+            "n": "Slow Food",
+            "d": "the philosophy they follow"
+          },
+          {
+            "n": "The garden",
+            "d": "dinner outdoors among the greenery"
+          },
+          {
+            "n": "Enquiries",
+            "d": "032 260 180 · reservation@oldlegends.bg"
           }
         ]
       }
     ]
   },
   "menuFooter": {
-    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
-    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+    "bg": "Кухнята е модерна, но стъпва на традиционната българска кухня, а виното е подбрано от цял свят. Конкретното меню и куверт за тържество предстои да бъдат предоставени.",
+    "en": "The kitchen is modern but rooted in traditional Bulgarian cooking, and the wine is selected from around the world. The specific menu and per-head price for a celebration are still to be supplied."
   },
   "services": {
     "bg": [
-      "Хотелът на ул. „Константин Стоилов“ 51, Стария град, Пловдив",
-      "Хотел в Стария град на Пловдив",
-      "Стаи за гостите на място",
-      "Сред възрожденските къщи на хълма"
+      "Възрожденска къща на ул. „Константин Стоилов“ 51, под Балабановата къща",
+      "Ресторант с награда „Ресторант на годината“ на сп. Бакхус (2016 и 2003)",
+      "Двор и градина с маси на открито",
+      "Зимна градина под стъклен покрив",
+      "Стаи и апартамент с автентично обзавеждане за гостите, които остават"
     ],
     "en": [
-      "The hotel at 51 Konstantin Stoilov St, Old Town, Plovdiv",
-      "A hotel in the Old Town of Plovdiv",
-      "Rooms for guests on site",
-      "Among the revival houses on the hill"
+      "A Revival house at 51 Konstantin Stoilov St, below Balabanov House",
+      "A restaurant named Restaurant of the Year by Bacchus magazine (2016 and 2003)",
+      "A courtyard and garden with tables outdoors",
+      "A winter garden under a glass roof",
+      "Rooms and an apartment in period furniture for guests who stay"
     ]
   },
   "tech": {
     "bg": [
-      "Хотел в Стария град на Пловдив",
-      "Стаи за гостите на място",
-      "Сред възрожденските къщи на хълма"
+      "Възрожденска къща, реставрирана със запазен първоначален вид",
+      "Автентично обзавеждане от XIX век",
+      "Климатик, сателитна телевизия, безжичен интернет и мини бар в стаите"
     ],
     "en": [
-      "A hotel in the Old Town of Plovdiv",
-      "Rooms for guests on site",
-      "Among the revival houses on the hill"
+      "A Revival house, restored with its original form kept",
+      "Authentic 19th-century furnishings",
+      "Air conditioning, satellite television, Wi-Fi and a mini bar in the rooms"
     ]
   },
   "events": {
     "bg": [
       {
         "title": "Тържества в Стария град",
-        "body": "Хотелът поема поводи в историческата част на Пловдив, а гостите могат да останат за нощувка.",
+        "body": "Къщата поема поводи в историческата част на Пловдив — в салоните, в зимната градина или в двора, а гостите могат да останат за нощувка.",
         "fact": "Стаи на място"
       }
     ],
     "en": [
       {
         "title": "Celebrations in the Old Town",
-        "body": "The hotel takes on occasions in the historic part of Plovdiv, and guests can stay the night.",
+        "body": "The house takes on occasions in the historic part of Plovdiv — in the salons, the winter garden or the courtyard, and guests can stay the night.",
         "fact": "Rooms on site"
       }
     ]
   },
   "performer": {
-    "bg": "Хотелът е на ул. „Константин Стоилов“ 51, в Стария град на Пловдив, със стаи за гостите на място.",
-    "en": "The hotel is at 51 Konstantin Stoilov Street, in the Old Town of Plovdiv, with rooms for guests on site."
+    "bg": "Къщата е строена преди около 200 години от богат пловдивски търговец на платове и кожи, по-късно е на рода Нешеви, реставрирана е през 1986 г. със запазен първоначален вид и от 1999 г. отново приема гости.",
+    "en": "The house was built some 200 years ago by a wealthy Plovdiv merchant in cloth and leather, later belonged to the Neshevi family, was restored in 1986 with its original form kept, and has received guests again since 1999."
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "slug": "fasadata",
+      "bg": "Къщата отвън",
+      "en": "The house from outside"
+    },
+    {
+      "slug": "dvorat",
+      "bg": "Дворът",
+      "en": "The courtyard"
+    },
+    {
+      "slug": "gradinata",
+      "bg": "Градината",
+      "en": "The garden",
+      "tall": true
+    },
+    {
+      "slug": "masite-v-dvora",
+      "bg": "Масите в двора",
+      "en": "Tables in the courtyard"
+    },
+    {
+      "slug": "zimnata-gradina",
+      "bg": "Зимната градина",
+      "en": "The winter garden"
+    },
+    {
+      "slug": "pod-stakloto",
+      "bg": "Под стъклото",
+      "en": "Under the glass roof"
+    },
+    {
+      "slug": "salonat",
+      "bg": "Салонът",
+      "en": "The salon"
+    },
+    {
+      "slug": "sinyat-salon",
+      "bg": "Синият салон с пианото",
+      "en": "The blue salon and the piano"
+    },
+    {
+      "slug": "restorantat",
+      "bg": "Ресторантът",
+      "en": "The restaurant"
+    },
+    {
+      "slug": "masata",
+      "bg": "Подредената маса",
+      "en": "The laid table"
+    },
+    {
+      "slug": "zakuskata",
+      "bg": "Закуската",
+      "en": "Breakfast"
+    },
+    {
+      "slug": "vinata",
+      "bg": "Витрината с вината",
+      "en": "The wine cabinet"
+    },
+    {
+      "slug": "nagradata",
+      "bg": "Ресторант на годината",
+      "en": "Restaurant of the Year"
+    },
+    {
+      "slug": "stayata",
+      "bg": "Стаята",
+      "en": "A room"
+    },
+    {
+      "slug": "apartamentat",
+      "bg": "Апартаментът",
+      "en": "The apartment"
+    },
+    {
+      "slug": "terasata",
+      "bg": "Сянка в двора",
+      "en": "Shade in the courtyard"
+    }
+  ],
   "navHints": {
     "bg": [
       "мястото на повода",
@@ -344,56 +465,54 @@
   },
   "extra": {
     "bg": {
-      "menuTitle": "Мястото",
-      "menuLead": "Хотел „Хеброс“ не публикува меню. Ето какво съобщават за самото място:",
+      "menuTitle": "Кухнята",
+      "menuLead": "Ресторант Old Legends — модерна кухня, стъпила на българската традиция, и подбрано вино.",
       "servicesTitle": "Услуги",
       "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
-      "techTitle": "В хотела",
+      "techTitle": "В къщата",
       "eventsTitle": "Поводи",
       "eventsLead": "Мястото се предлага за поводи от всякакъв вид.",
       "galleryTitle": "Мястото, както изглежда",
-      "galleryLead": "Хотел „Хеброс“ няма публикувани собствени фотографии на обекта.",
-      "galleryChip": "предстоят реални снимки",
-      "galleryEmptyTitle": "Тук ще стоят снимките на хотела.",
-      "galleryEmptyBody": "Домакините нямат собствен сайт, а профилът им в Google не съдържа фотографии, годни за публикуване.",
-      "performerTitle": "Сезонът, с техните думи",
+      "galleryLead": "Шестнайсет от собствените им снимки: къщата, дворът, салоните, ресторантът и стаите.",
+      "galleryChip": "реални снимки на хотела",
+      "galleryEmptyTitle": "Тук стоят снимките на хотела.",
+      "galleryEmptyBody": "Снимките са техни собствени, от сайта им oldlegends.bg.",
+      "performerTitle": "Историята на къщата",
       "tableBandQuote": "Вечер и нощувка сред възрожденските къщи.",
-      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleGallery": "Мястото в снимки",
       "pageTitleEvents": "Поводите на мястото",
-      "pageTitleMenu": "Мястото, описано с техните думи",
+      "pageTitleMenu": "Кухнята и виното",
       "pageTitleServices": "Какво стои на разположение"
     },
     "en": {
-      "menuTitle": "The place",
-      "menuLead": "Hebros Hotel publishes no menu. Here is what they state about the place itself:",
+      "menuTitle": "The kitchen",
+      "menuLead": "Restaurant Old Legends — modern cooking rooted in Bulgarian tradition, with a selected wine list.",
       "servicesTitle": "Services",
       "servicesLead": "Here is what is known to be available for the day.",
-      "techTitle": "In the hotel",
+      "techTitle": "In the house",
       "eventsTitle": "Occasions",
       "eventsLead": "The place is offered for occasions of every kind.",
       "galleryTitle": "The place as it looks",
-      "galleryLead": "Hebros Hotel has no published photographs of the venue.",
-      "galleryChip": "real photographs to come",
-      "galleryEmptyTitle": "The photographs of the hotel will stand here.",
-      "galleryEmptyBody": "The hosts have no website of their own, and their Google profile holds no publishable photographs.",
-      "performerTitle": "The season, in their words",
+      "galleryLead": "Sixteen of their own photographs: the house, the courtyard, the salons, the restaurant and the rooms.",
+      "galleryChip": "real photographs of the hotel",
+      "galleryEmptyTitle": "The photographs of the hotel stand here.",
+      "galleryEmptyBody": "The photographs are their own, from their site oldlegends.bg.",
+      "performerTitle": "The story of the house",
       "tableBandQuote": "An evening and a night among the revival houses.",
-      "pageTitleGallery": "Photographs to come",
+      "pageTitleGallery": "The place in photographs",
       "pageTitleEvents": "Occasions at the venue",
-      "pageTitleMenu": "The place, in their words",
+      "pageTitleMenu": "The kitchen and the wine",
       "pageTitleServices": "What is available"
     }
   },
   "handoff": [
-    "Снимки на хотела и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
-    "Меню и куверт",
+    "Капацитет: брой места седнали в салоните, в зимната градина и в двора",
+    "Поемат ли сватбени тържества и при какви условия",
+    "Меню и куверт за тържество",
+    "Снимки от минали сватби и тържества",
     "Web3Forms access key за формата за запитване",
-    "Имейл адрес за контакт",
     "Текст за политика за поверителност — преглед от юрист",
-    "Брой стаи и капацитет за тържество",
-    "Меню и куверт",
-    "Дали поемат сватбени тържества и при какви условия"
+    "Потвърждение, че може да ползваме снимките им от oldlegends.bg"
   ],
   "tokens": {
     "capacityRows": {
@@ -461,7 +580,7 @@
         "heroTitle": "Тържеството и нощувката на един хълм.",
         "heroUnder": "Хотел на ул. „Константин Стоилов“ 51, сред възрожденските къщи.",
         "heroCaption": "Час преди гостите.",
-        "heroCaptionNote": "Атмосферна визуализация",
+        "heroCaptionNote": "Снимка на хотела",
         "ctaEnquiry": "Запитване за дата",
         "ctaVisit": "Заповядайте на оглед",
         "wallTitle": "Хотелът в Стария град.",
@@ -469,13 +588,13 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "снимките са техни собствени, от oldlegends.bg"
       },
       "en": {
         "heroTitle": "The celebration and the night, on one hill.",
         "heroUnder": "A hotel at 51 Konstantin Stoilov Street, among the revival houses.",
         "heroCaption": "An hour before the guests.",
-        "heroCaptionNote": "Atmospheric visualisation",
+        "heroCaptionNote": "Photograph of the hotel",
         "ctaEnquiry": "Enquire about a date",
         "ctaVisit": "Come for a viewing",
         "wallTitle": "The hotel in the Old Town.",
@@ -483,8 +602,21 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the photographs are their own, from oldlegends.bg"
       }
     }
-  }
+  },
+  "website": "https://oldlegends.bg/",
+  "photosHarvestedOn": "2026-08-27",
+  "logoSrc": "/brand/hebros-mark.webp",
+  "images": {
+    "heroFilm": "/atmosphere/hero-hebros.webp",
+    "wallGarden": "/atmosphere/wall-gradinata.webp",
+    "wallHall": "/atmosphere/wall-salonat.webp",
+    "wallTerrace": "/atmosphere/wall-dvorat.webp",
+    "ogImage": "/atmosphere/og-card.jpg",
+    "tableBand": "/atmosphere/band-dvorat.webp",
+    "heroTone": "light"
+  },
+  "logoInNav": true
 }

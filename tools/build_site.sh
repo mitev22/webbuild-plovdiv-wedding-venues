@@ -10,6 +10,22 @@ BASE="/webbuild-plovdiv-wedding-venues/sites/$SLUG"
 URL="https://mitev22.github.io$BASE"
 
 cp -R "$TPL" "$WORK"
+
+# The template seeds public/photos/ and public/brand/ with the reference
+# venue's OWN material (Maritsa Residence's wedding photographs, the Etra
+# logo). Those are that venue's property and are referenced by no exported
+# page — every gravura export was shipping them regardless. Clear them so a
+# demo carries only the venue it is for.
+rm -f "$WORK/public/photos/"* "$WORK/public/brand/"*
+
+# Venue-supplied photographs, if any: assets/<slug>/{atmosphere,photos,brand}/…
+# overlays the template's public/ before the build. Paths are referenced from
+# the venue JSON's `images` / `logoSrc` / `gallery` blocks.
+if [ -d "$REPO/assets/$SLUG" ]; then
+  cp -R "$REPO/assets/$SLUG/." "$WORK/public/"
+  echo "assets: $(find "$REPO/assets/$SLUG" -type f | wc -l | tr -d ' ') venue files overlaid"
+fi
+
 python3 "$REPO/tools/gen_content.py"  "$REPO/tools/venues/$SLUG.json" "$WORK"
 python3 "$REPO/tools/make_config.py"  "$REPO/tools/venues/$SLUG.json" "$WORK" "$URL"
 

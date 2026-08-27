@@ -15,7 +15,8 @@ export const brand = {
   phone: "087 811 1876",
   phoneHref: "tel:+359878111876",
   email: "",
-  logoSrc: "",
+  logoSrc: "/brand/pavazh-mark.webp",
+  logoInNav: true,
   address: "ул. „Златарска“ 7, Капана, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -23,14 +24,16 @@ export const brand = {
 } as const;
 
 export const palette = {
-  note: "Паваж: no brand materials published — template palette kept as documented.",
+  note: "Паваж: черна стенсил марка + синият час и амбърът на лампичките в Капана (взети от собствените им снимки във Facebook, 2026-08-27).",
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
+  heroFilm: "/atmosphere/hero-kapana.webp",
+  wallGarden: "/atmosphere/wall-bar.webp",
+  wallHall: "/atmosphere/wall-vecher.webp",
+  wallTerrace: "/atmosphere/wall-paveta.webp",
+  tableBand: "/atmosphere/band-vecheria.webp",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 
@@ -46,6 +49,11 @@ export const factsDict = {
         space: "Местата на открито",
         note: "по паважа",
         value: "на място",
+      },
+      {
+        space: "Кухнята",
+        note: "работи от обяд",
+        value: "до единайсет вечерта",
       },
     ],
     timetable: [
@@ -76,6 +84,11 @@ export const factsDict = {
         note: "on the cobbles",
         value: "on site",
       },
+      {
+        space: "The kitchen",
+        note: "works from noon",
+        value: "till eleven at night",
+      },
     ],
     timetable: [
       {
@@ -100,7 +113,7 @@ export const copyDict = {
     heroTitle: "Всички павета водят към Капана.",
     heroUnder: "Гастропъб на ул. „Златарска“ 7, с места за гости на открито.",
     heroCaption: "Час преди гостите.",
-    heroCaptionNote: "Атмосферна визуализация",
+    heroCaptionNote: "Реална снимка от Капана",
     ctaEnquiry: "Запитване за дата",
     ctaVisit: "Заповядайте на оглед",
     wallTitle: "Заведението и местата на открито.",
@@ -108,13 +121,14 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "реални снимки на заведението",
+    heroCaptionReal: "Реална снимка от Капана",
   },
   en: {
     heroTitle: "Every cobble leads to Kapana.",
     heroUnder: "A gastropub at 7 Zlatarska Street, with outdoor seating for guests.",
     heroCaption: "An hour before the guests.",
-    heroCaptionNote: "Atmospheric visualisation",
+    heroCaptionNote: "A real photograph from Kapana",
     ctaEnquiry: "Enquire about a date",
     ctaVisit: "Come for a viewing",
     wallTitle: "The place and its outdoor seating.",
@@ -122,6 +136,7 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "real photographs of the place",
+    heroCaptionReal: "A real photograph from Kapana",
   },
 } as const;

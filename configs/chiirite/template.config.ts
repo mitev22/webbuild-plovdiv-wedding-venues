@@ -16,6 +16,7 @@ export const brand = {
   phoneHref: "tel:+35932202600",
   email: "",
   logoSrc: "",
+  logoInNav: false,
   address: "Околовръстен път, местност Чиирите 020B, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
@@ -31,6 +32,8 @@ export const images = {
   wallGarden: "",
   wallHall: "",
   wallTerrace: "",
+  tableBand: "",
+  heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

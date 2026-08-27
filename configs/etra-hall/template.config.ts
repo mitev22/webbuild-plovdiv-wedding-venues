@@ -27,10 +27,10 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
+  heroFilm: "/photos/winnersgroup-lg.webp",
+  wallGarden: "/photos/yubiley.webp",
+  wallHall: "/photos/maria-ivan.webp",
+  wallTerrace: "/photos/zalata.webp",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
 

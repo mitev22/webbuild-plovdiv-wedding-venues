@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/kompleks-diana/_next/static/chunks/09yby2qpydk4m.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"unQRRq7fhTNpaePZSjk9z"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/kompleks-diana/_next/static/chunks/02ebi746h94n0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Yrd1iW1rKDtN3MgStWVBJ"}
