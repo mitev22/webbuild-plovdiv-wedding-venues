@@ -32,41 +32,6 @@
     "status": "not_contacted"
   },
   {
-    "slug": "kompleks-diana",
-    "name": "Комплекс Диана",
-    "phone": "0888 767807",
-    "address": "село Червен, община Асеновград",
-    "website": "https://komplex-diana.com",
-    "signals": [
-      "dated-builder-look",
-      "static-htm-pages",
-      "no-mobile"
-    ],
-    "score": 76,
-    "why": "Сайт от старо поколение (.htm страници); градина за 140 гости",
-    "demo": "sites/kompleks-diana/",
-    "shot": "shots/kompleks-diana.png",
-    "has_photos": true,
-    "status": "not_contacted"
-  },
-  {
-    "slug": "malak-bunardzhik",
-    "name": "Малкия Бунарджик",
-    "phone": "0878 711 777",
-    "address": "парк „Бунарджик“, ул. Волга 1А, Пловдив",
-    "website": "https://www.ujen-polah.com/restaurants/",
-    "signals": [
-      "no-own-site",
-      "page-in-group-site"
-    ],
-    "score": 74,
-    "why": "Няма собствен сайт, само страница в сайта на групата; топ локация в парка",
-    "demo": "sites/malak-bunardzhik/",
-    "shot": "shots/malak-bunardzhik.png",
-    "has_photos": false,
-    "status": "not_contacted"
-  },
-  {
     "slug": "esterra-vini",
     "name": "Естера Вини",
     "phone": "0884 675 777",
@@ -97,39 +62,6 @@
     "demo": "sites/plaza-zala/",
     "shot": "shots/plaza-zala.png",
     "has_photos": false,
-    "status": "not_contacted"
-  },
-  {
-    "slug": "zala-royal",
-    "name": "Сватбена зала Роял",
-    "phone": "0879 22 27 75",
-    "address": "ул. Стоян Джансъзов 46, гр. Асеновград",
-    "website": "https://zalaroyal.com",
-    "signals": [
-      "dated-look"
-    ],
-    "score": 64,
-    "why": "Собствен сайт от старо поколение; голяма зала до 440 гости",
-    "demo": "sites/zala-royal/",
-    "shot": "shots/zala-royal.png",
-    "has_photos": true,
-    "status": "not_contacted"
-  },
-  {
-    "slug": "svatben-dom",
-    "name": "Сватбен Дом",
-    "phone": "0888 515 864",
-    "address": "община Родопи, край Пловдив",
-    "website": "https://svatbendom.bg",
-    "signals": [
-      "dated-look",
-      "thin-content"
-    ],
-    "score": 62,
-    "why": "Собствен сайт с оскъдно съдържание; силен сватбен профил",
-    "demo": "sites/svatben-dom/",
-    "shot": "shots/svatben-dom.png",
-    "has_photos": true,
     "status": "not_contacted"
   },
   {

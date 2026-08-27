@@ -1,2 +1,0 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/garden-weddings/_next/static/chunks/0yjjh2jg9ok03.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"k3xJGgA9JK2JI9JdwNVFl"}

@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[86621,["/webbuild-plovdiv-wedding-venues/sites/casa-de-cuba/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/casa-de-cuba/_next/static/chunks/3-u-p3y-hdwke.js"],"default"]
-3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/casa-de-cuba/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/casa-de-cuba/_next/static/chunks/3-u-p3y-hdwke.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XFhkvbs-Q4WlCeUtmMZ7Q"}
-5:null
