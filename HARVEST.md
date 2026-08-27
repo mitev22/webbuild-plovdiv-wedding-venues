@@ -34,7 +34,7 @@ an English version. Corrected in the config on 2026-08-27:
 | slug | domain | images | quality |
 |---|---|---:|---|
 | ostrova | ostrova-plovdiv.com | 415 | **best of the batch** — real wedding setups, floral arches, aerials of the complex, pool |
-| chiirite | chiirite.bg | 181 | usable; site serves 333 MB of unoptimised originals |
+| ~~chiirite~~ | chiirite.bg | 181 | **DONE** — 17 published |
 | number-five | numberfivebg.com | 28 | 14 usable at ≥800×500 |
 | hitar-petar | hitarpetar.net | 11 | 6 usable |
 | joana | djoana.com | 11 | none ≥800×500 — thumbnails only |
@@ -123,3 +123,37 @@ sells business events only. Putting those frames in a wedding gallery would misr
 the venue, so the demo leads with the restaurant, the view and the two genuine
 celebration frames (a laid table, a first dance). Real celebration photography of the
 halls is on the handoff list.
+
+### chiirite + number-five — built 2026-08-27
+
+**chiirite** (Хотел „Чиирите“, chiirite.bg) — 17 photos. Real figures now in the
+config: restaurant seats **70**, open 7:30–23:00, multifunctional hall with
+multimedia, terrace and garden facing the mountain, `manager@chiirite.bg`,
+032 202 600.
+
+*Selection note:* filenames on this site are opaque (`131028Chiirite094.jpg`),
+and a first pass picked a **bathroom, two bedrooms and a shelf of menu cards**
+for the gallery. Guessing subject from filename does not work here. The fix was
+to montage the pool in 12-image batches in a strict 4-column grid so index maps
+exactly to position, then identify each frame by eye before selecting.
+
+**number-five** (numberfivebg.com) — 8 photos, and two caveats worth carrying:
+
+1. **It is not a wedding venue.** It is a private party hall — billiards table,
+   karaoke, party lighting, a fitted bar. Their own page does list weddings among
+   the occasions, so a *celebrations* demo is honest; a *wedding* pitch is not.
+   The site copy is written as "поводи", not "сватби".
+2. Its 28 files collapse to **8 unique frames** — the rest are duplicate exports
+   of the same shot. 3 stock images were excluded, including one Pixabay file
+   identifiable only by its `-g<hash>_1920` filename pattern.
+
+The lead card's claim that they "не дава телефон" was also wrong — their
+`/contacts/` page lists 0888 66 43 43.
+
+## Where the photo coverage stands
+
+12 of 38 demos now carry the venue's own photography. The remaining 26 have none,
+and most cannot: they have no website to harvest from. Of the harvests already in
+hand, `restaurant-real` (8 usable), `casa-de-cuba` (6), `hitar-petar` (6),
+`dayana-chain` (1) and `joana` (0) are too thin to fill a gallery. Those venues
+need photographs from the owners.

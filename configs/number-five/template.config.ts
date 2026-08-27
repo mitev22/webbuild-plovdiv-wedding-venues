@@ -12,12 +12,12 @@ export const brand = {
   nameEn: "Number Five Party Hall",
   town: "Пловдив",
   since: "",
-  phone: "",
-  phoneHref: "",
-  email: "",
+  phone: "0888 66 43 43",
+  phoneHref: "tel:+359888664343",
+  email: "info@numberfivebg.com",
   logoSrc: "",
   logoInNav: false,
-  address: "ул. „Инженер Асен Йорданов“ 29, жк Тракия, Пловдив",
+  address: "ул. „Инж. Асен Йорданов“ 29, Пловдив",
   mapEmbedSrc: "",
   instagram: "",
   facebook: "",
@@ -28,11 +28,11 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
-  tableBand: "",
+  heroFilm: "/atmosphere/hero-numberfive.webp",
+  wallGarden: "/atmosphere/wall-lounge.webp",
+  wallHall: "/atmosphere/wall-barat.webp",
+  wallTerrace: "/atmosphere/wall-bilyard.webp",
+  tableBand: "/atmosphere/band-lounge.webp",
   heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
@@ -42,17 +42,17 @@ export const factsDict = {
     capacityRows: [
       {
         space: "Залата",
-        note: "стилно обзаведена, модерен дизайн",
-        value: "капацитет по запитване",
+        note: "наема се цялата, частно",
+        value: "брой места по запитване",
       },
       {
         space: "Барът",
-        note: "хладилни витрини и чаши",
+        note: "витрини, чаши, съдомиялна",
         value: "на място",
       },
       {
-        space: "Техниката",
-        note: "аудио, караоке, осветление",
+        space: "Билярд и караоке",
+        note: "включени в залата",
         value: "на място",
       },
     ],
@@ -76,17 +76,17 @@ export const factsDict = {
     capacityRows: [
       {
         space: "The hall",
-        note: "stylishly furnished, modern design",
+        note: "rented whole, privately",
         value: "capacity on request",
       },
       {
         space: "The bar",
-        note: "refrigerated displays and glassware",
+        note: "fridges, glassware, dishwasher",
         value: "on site",
       },
       {
-        space: "The equipment",
-        note: "audio, karaoke, lighting",
+        space: "Billiards and karaoke",
+        note: "included with the hall",
         value: "on site",
       },
     ],
@@ -121,7 +121,7 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "снимките са техни собствени, от numberfivebg.com",
   },
   en: {
     heroTitle: "A hall where everything is already in place.",
@@ -135,6 +135,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the photographs are their own, from numberfivebg.com",
   },
 } as const;

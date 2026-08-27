@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Хотел „Чиирите“. Harvested 2026-08-26 from: собствения им сайт chiirite.bg и Google Business профила.
+ * Venue: Хотел „Чиирите“. Harvested 2026-08-26 from: собствения им сайт chiirite.bg — снимки, капацитет, контакти; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -9,30 +9,31 @@ export type Dish = { n: string; d?: string; g?: string };
 export const menuBg: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
     key: "mqstoto",
-    label: "Залата и ресторантът",
-    note: "Хотел „Чиирите“ не публикува меню. Показано е само това, което сами съобщават.",
+    label: "Мястото",
+    note: "Хотел „Чиирите“ не публикува куверт. Ето какво сами съобщават.",
     dishes: [
+      {
+        n: "Ресторант със 70 места",
+      },
+      {
+        n: "Работно време",
+        d: "7:30 – 23:00",
+      },
       {
         n: "Мултифункционална зала",
         d: "с мултимедия",
       },
       {
-        n: "Озвучаване, екран и проектор",
-      },
-      {
-        n: "Ресторант",
-        d: "седемдесет места",
+        n: "Тераса и градина",
+        d: "с изглед към планината",
       },
       {
         n: "Стаи за гостите",
-        d: "на място в хотела",
+        d: "луксозни, двойни и единични",
       },
       {
-        n: "Кафе, чай и леки закуски",
-        d: "за паузите",
-      },
-      {
-        n: "Денонощна рецепция",
+        n: "Запитване",
+        d: "032 202 600 · manager@chiirite.bg",
       },
     ],
   },
@@ -41,104 +42,182 @@ export const menuBg: { key: string; label: string; note?: string; dishes: Dish[]
 export const menuEn: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
     key: "mqstoto",
-    label: "The hall and the restaurant",
-    note: "Hotel Chiirite publishes no menu. Only what they state themselves appears here.",
+    label: "The place",
+    note: "Chiirite publishes no per-head price. Here is what they state themselves.",
     dishes: [
+      {
+        n: "A restaurant seating 70",
+      },
+      {
+        n: "Open",
+        d: "7:30 – 23:00",
+      },
       {
         n: "A multifunctional hall",
         d: "with multimedia",
       },
       {
-        n: "Sound system, screen and projector",
-      },
-      {
-        n: "A restaurant",
-        d: "seventy seats",
+        n: "Terrace and garden",
+        d: "facing the mountain",
       },
       {
         n: "Rooms for guests",
-        d: "on site at the hotel",
+        d: "luxury, double and single",
       },
       {
-        n: "Coffee, tea and light snacks",
-        d: "for the breaks",
-      },
-      {
-        n: "A 24-hour reception",
+        n: "Enquiries",
+        d: "032 202 600 · manager@chiirite.bg",
       },
     ],
   },
 ];
 
 export const menuFooterBg =
-  "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.";
+  "Куверт и меню за тържество не са публикувани и предстои да бъдат предоставени.";
 
 export const menuFooterEn =
-  "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied.";
+  "A per-head price and celebration menu are not published and are still to be supplied.";
 
 export const servicesBg = [
-  "Хотелът на Околовръстен път, местност Чиирите 020B, Пловдив",
-  "Мултифункционална зала с мултимедия",
-  "Озвучаване, екран и проектор",
-  "Ресторант със седемдесет места",
-  "Стаи за гостите на място",
-  "Рецепция, отворена денонощно",
+  "Ресторант със 70 места, работещ от 7:30 до 23:00",
+  "Мултифункционална зала с мултимедийно оборудване",
+  "Тераса и градина с изглед към планината",
+  "Лоби бар и фоайе",
+  "Стаи за гостите — луксозни, двойни и единични",
+  "Паркинг на място",
 ];
 
 export const servicesEn = [
-  "The hotel at Ring road, Chiirite locality 020B, Plovdiv",
-  "A multifunctional hall with multimedia",
-  "Sound system, screen and projector",
-  "A restaurant with seventy seats",
-  "Rooms for guests on site",
-  "A reception desk open around the clock",
+  "A restaurant seating 70, open 7:30 to 23:00",
+  "A multifunctional hall with multimedia equipment",
+  "A terrace and garden with a view to the mountain",
+  "A lobby bar and foyer",
+  "Rooms for guests — luxury, double and single",
+  "Parking on site",
 ];
 
 export const techBg = [
-  "Озвучаване",
-  "Екран и проектор",
-  "Мултифункционална зала",
-  "Високоскоростен интернет",
+  "Мултимедийно оборудване в залата",
+  "Лоби бар",
+  "Стаи: луксозни, двойни и единични",
+  "Паркинг",
 ];
 
 export const techEn = [
-  "A sound system",
-  "A screen and projector",
-  "A multifunctional hall",
-  "High-speed internet",
+  "Multimedia equipment in the hall",
+  "A lobby bar",
+  "Rooms: luxury, double and single",
+  "Parking",
 ];
 
 export const eventsBg = [
   {
     title: "Сватбени тържества",
-    body: "Домакините сами обявяват сватбени тържества, със съдействие за организацията и декорацията.",
-    fact: "По техните думи",
-  },
-  {
-    title: "Семинари и тиймбилдинг",
-    body: "Залата поема и работни събития, с мултимедия и кетъринг за паузите.",
-    fact: "Мултимедия",
+    body: "Хотелът поема сватбени тържества, фирмени събития и семинари, а гостите могат да останат за нощувка.",
+    fact: "70 места",
   },
 ];
 
 export const eventsEn = [
   {
     title: "Wedding celebrations",
-    body: "The hosts advertise wedding celebrations themselves, with help for the organising and the decoration.",
-    fact: "In their own words",
-  },
-  {
-    title: "Seminars and team building",
-    body: "The hall also takes on working events, with multimedia and catering for the breaks.",
-    fact: "Multimedia",
+    body: "The hotel takes on weddings, corporate events and seminars, and guests can stay the night.",
+    fact: "70 seats",
   },
 ];
 
-export const performerBg = "Домакините сами обявяват сватбени тържества и предлагат съдействие за организацията и декорацията.";
+export const performerBg = "Хотелът е на Околовръстния път, местност Чиирите, с тераса и градина с изглед към планината.";
 
-export const performerEn = "The hosts advertise wedding celebrations themselves and offer help with the organising and the decoration.";
+export const performerEn = "The hotel is on the ring road, in the Chiirite locality, with a terrace and garden facing the mountain.";
 
-export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [];
+export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [
+  {
+    slug: "podredena-zala",
+    bg: "Подредено за повод",
+    en: "Set for an occasion",
+  },
+  {
+    slug: "zalata",
+    bg: "Залата",
+    en: "The hall",
+  },
+  {
+    slug: "restorantat",
+    bg: "Ресторантът",
+    en: "The restaurant",
+  },
+  {
+    slug: "masite",
+    bg: "Масите",
+    en: "The tables",
+  },
+  {
+    slug: "salonat",
+    bg: "Салонът",
+    en: "The salon",
+  },
+  {
+    slug: "masata",
+    bg: "Подредената маса",
+    en: "The laid table",
+  },
+  {
+    slug: "kuvertat",
+    bg: "Кувертът",
+    en: "The place setting",
+  },
+  {
+    slug: "rozite",
+    bg: "Розите и виното",
+    en: "Roses and wine",
+  },
+  {
+    slug: "yagodite",
+    bg: "Ягоди и мехурчета",
+    en: "Strawberries and bubbles",
+    tall: true,
+  },
+  {
+    slug: "barat",
+    bg: "Барът",
+    en: "The bar",
+  },
+  {
+    slug: "foayeto",
+    bg: "Фоайето",
+    en: "The foyer",
+  },
+  {
+    slug: "receptsiyata",
+    bg: "Рецепцията",
+    en: "Reception",
+  },
+  {
+    slug: "sgradata",
+    bg: "Хотелът отвън",
+    en: "The hotel from outside",
+  },
+  {
+    slug: "terasata",
+    bg: "Терасата",
+    en: "The terrace",
+  },
+  {
+    slug: "gradinata",
+    bg: "Градината",
+    en: "The garden",
+  },
+  {
+    slug: "izgledat",
+    bg: "Изгледът",
+    en: "The view",
+  },
+  {
+    slug: "stayata",
+    bg: "Стаята",
+    en: "A room",
+  },
+];
 
 export const exploreArt = [
   {
@@ -233,17 +312,17 @@ export const extraStrings = {
     menuLead: "Хотел „Чиирите“ не публикува меню. Ето какво съобщават за самото място:",
     servicesTitle: "Услуги",
     servicesLead: "Ето какво се знае, че стои на разположение за деня.",
-    techTitle: "В залата",
+    techTitle: "В хотела",
     eventsTitle: "Поводи",
     eventsLead: "Домакините обявяват сватбени тържества, семинари и тиймбилдинг.",
     galleryTitle: "Мястото, както изглежда",
-    galleryLead: "Хотел „Чиирите“ няма публикувани собствени фотографии на обекта.",
-    galleryChip: "предстоят реални снимки",
-    galleryEmptyTitle: "Тук ще стоят снимките на залата.",
-    galleryEmptyBody: "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
-    performerTitle: "Сезонът, с техните думи",
+    galleryLead: "Седемнайсет от собствените им снимки: залата, подредените маси, фоайето и терасата.",
+    galleryChip: "реални снимки на хотела",
+    galleryEmptyTitle: "Тук стоят снимките на хотела.",
+    galleryEmptyBody: "Снимките са техни собствени, от сайта им chiirite.bg.",
+    performerTitle: "Мястото",
     tableBandQuote: "Зала, ресторант и стаи на един адрес.",
-    pageTitleGallery: "Снимките предстоят",
+    pageTitleGallery: "Мястото в снимки",
     pageTitleEvents: "Поводите на мястото",
     pageTitleMenu: "Мястото, описано с техните думи",
     pageTitleServices: "Какво стои на разположение",
@@ -258,17 +337,17 @@ export const extraStrings = {
     menuLead: "Hotel Chiirite publishes no menu. Here is what they state about the place itself:",
     servicesTitle: "Services",
     servicesLead: "Here is what is known to be available for the day.",
-    techTitle: "In the hall",
+    techTitle: "In the hotel",
     eventsTitle: "Occasions",
     eventsLead: "The hosts advertise wedding celebrations, seminars and team building.",
     galleryTitle: "The place as it looks",
-    galleryLead: "Hotel Chiirite has no published photographs of the venue.",
-    galleryChip: "real photographs to come",
-    galleryEmptyTitle: "The photographs of the hall will stand here.",
-    galleryEmptyBody: "Their current website holds no publishable photographs of the hall.",
-    performerTitle: "The season, in their words",
+    galleryLead: "Seventeen of their own photographs: the hall, the laid tables, the foyer and the terrace.",
+    galleryChip: "real photographs of the hotel",
+    galleryEmptyTitle: "The photographs of the hotel stand here.",
+    galleryEmptyBody: "The photographs are their own, from their site chiirite.bg.",
+    performerTitle: "The place",
     tableBandQuote: "A hall, a restaurant and rooms at one address.",
-    pageTitleGallery: "Photographs to come",
+    pageTitleGallery: "The place in photographs",
     pageTitleEvents: "Occasions at the venue",
     pageTitleMenu: "The place, in their words",
     pageTitleServices: "What is available",

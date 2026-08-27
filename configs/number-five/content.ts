@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Парти зала Number Five. Harvested 2026-08-26 from: собствения им сайт numberfivebg.com и Google Business профила.
+ * Venue: Парти зала Number Five. Harvested 2026-08-26 from: собствения им сайт numberfivebg.com — снимки, оборудване, контакти; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -27,40 +27,43 @@ export const venue = {
     bg: "залата",
     en: "the hall",
   },
-  address: "ул. „Инженер Асен Йорданов“ 29, жк Тракия, Пловдив",
+  address: "ул. „Инж. Асен Йорданов“ 29, Пловдив",
   addressEn: "29 Engineer Asen Yordanov St, Trakia, Plovdiv",
   addressStructured: {
-    street: "ул. „Инженер Асен Йорданов“ 29",
+    street: "ул. „Инж. Асен Йорданов“ 29",
     locality: "Пловдив",
   },
-  phone: [] as string[],
-  phoneHref: "",
-  phoneE164: "",
-  email: "",
+  phone: [
+    "0888 66 43 43",
+  ],
+  phoneHref: "tel:+359888664343",
+  phoneE164: "+359888664343",
+  email: "info@numberfivebg.com",
   instagram: "",
   facebook: "",
-  sameAs: [],
+  sameAs: [
+    "https://numberfivebg.com",
+  ],
   mapQuery: "Парти+зала+Number+Five+Асен+Йорданов+29+Пловдив",
   maxCapacity: 0,
   capacity: [],
   spaces: [],
   packages: [],
   packageIncludes: [
-    "Стилно обзаведена зала в модерен дизайн",
-    "Бар с хладилни витрини и чаши",
+    "Билярдна маса",
     "Аудио система и караоке",
     "Парти осветление",
-    "Билярд маса",
-    "Кафе машина и съдомиялна",
-    "Водна филтрация",
-    "Санитарни помещения",
+    "Бар с хладилни витрини и чаши",
+    "Съдомиялна и кафе машина",
+    "Филтрираща система за питейна вода",
+    "WiFi и паркинг",
   ],
   packageAssist: "",
   whyUs: [
-    "Залата е обзаведена и оборудвана изцяло",
-    "Бар, аудио система и осветление на място",
-    "4.5 от отзивите в Google",
-    "Сами обявяват, че поемат и сватбени тържества",
+    "Частна зала само за вашата компания",
+    "Билярд, караоке и парти осветление на място",
+    "Оборудван бар с витрини, чаши и съдомиялна",
+    "WiFi и паркинг",
   ],
   parking: "",
   seasonsAvailable: [
@@ -75,15 +78,13 @@ export const venue = {
   ],
   reviews: [],
   handoff: [
-    "Снимки на залата и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
-    "Меню и куверт",
-    "Web3Forms access key за формата за запитване",
-    "Имейл адрес за контакт",
-    "Текст за политика за поверителност — преглед от юрист",
-    "ТЕЛЕФОН ЗА ВРЪЗКА — настоящият им сайт не съдържа телефон, адрес или имейл",
-    "Капацитет на залата и брой места",
-    "Меню и куверт, ако предлагат кетъринг",
+    "Капацитет — брой места седнали и на крак",
+    "Цена за наем на залата и условия",
+    "Кетъринг: позволен ли е външен, или има партньор",
+    "Снимки от минали събития",
+    "Web3Forms access key за формата",
+    "Политика за поверителност — преглед от юрист",
+    "Потвърждение, че може да ползваме снимките им от numberfivebg.com",
   ],
 } as const;
 
@@ -132,7 +133,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "Тракия",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на залата",
+    atmosphereNote: "снимките са техни собствени, от сайта им numberfivebg.com",
     chapters: [
       {
         id: "pristigane",
@@ -159,48 +160,47 @@ export const dict = {
     ch1Lead: "Денят започва с пристигането. Залата е на ул. „Инженер Асен Йорданов“ 29 в жк Тракия и е обзаведена и оборудвана изцяло.",
     ch2Title: "Церемонията",
     ch2Lead: "Домакините описват залата като стилно обзаведена, в модерен дизайн.",
-    ch2Body: "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините.",
+    ch2Body: "Броят места не е публикуван и предстои да бъде уточнен. Залата е частна — наема се цялата, с бара, билярда и озвучаването.",
     ch3Title: "Вечерята в залата",
     ch3Lead: "Барът е с хладилни витрини и чаши, а на място има кафе машина и съдомиялна.",
     ch4Title: "Вечерта продължава",
     ch4Lead: "Аудио системата, караокето и парти осветлението са на място.",
-    ch4Body: "Домакините обявяват залата за рождени дни, годишнини и сватби. Настоящият им сайт не съдържа нито телефон, нито адрес, така че връзката минава през посещение на място.",
+    ch4Body: "Резервация се прави на 0888 66 43 43 или на info@numberfivebg.com.",
     ch5Title: "Сбогуването е ново начало",
     ch5Lead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
     gettingHereRows: [
       [
         "Адрес",
-        "ул. „Инженер Асен Йорданов“ 29, жк Тракия",
+        "ул. „Инж. Асен Йорданов“ 29, Пловдив",
       ],
       [
-        "Район",
-        "Тракия икономическа зона, Пловдив",
+        "Телефон",
+        "0888 66 43 43",
       ],
       [
-        "Забележка",
-        "телефон не е публикуван в сайта им",
+        "Е-мейл",
+        "info@numberfivebg.com",
       ],
     ],
     whyTitle: "Защо младоженците избират Парти зала Number Five",
-    packagesTitle: "Какво се знае за мястото",
-    packagesLead: "Парти зала Number Five не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    packagesTitle: "Какво има в залата",
+    packagesLead: "Number Five не публикува цена за наем. Показано е оборудването, което сами изброяват. Опишете повода си във формата и ще получите оферта.",
     includesTitle: "На разположение за деня",
-    reviewsLead: "Парти зала Number Five няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    reviewsLead: "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
     footerDemo: "Демонстрационен сайт (spec) от Meridian Solutions. Не е официалният сайт на Парти зала Number Five.",
     footerRights: "Парти зала Number Five · Пловдив",
     capacityStats: [
       {
-        value: "4.5",
-        count: 4.5,
-        label: "от отзивите в Google",
+        value: "Частна",
+        label: "залата е само за вас",
+      },
+      {
+        value: "Билярд",
+        label: "и караоке на място",
       },
       {
         value: "Бар",
-        label: "на място в залата",
-      },
-      {
-        value: "Караоке",
-        label: "и парти осветление",
+        label: "оборудван, в залата",
       },
     ],
   },
@@ -239,7 +239,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "Trakia",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the hall to be added",
+    atmosphereNote: "the photographs are their own, from their site numberfivebg.com",
     chapters: [
       {
         id: "pristigane",
@@ -266,48 +266,47 @@ export const dict = {
     ch1Lead: "The day begins with the arrival. The hall is at 29 Engineer Asen Yordanov Street in Trakia and comes furnished and equipped throughout.",
     ch2Title: "The ceremony",
     ch2Lead: "The hosts describe the hall as stylishly furnished, in a modern design.",
-    ch2Body: "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them.",
+    ch2Body: "The number of seats is not published and is still to be confirmed. The hall is private — you rent the whole of it, with the bar, the billiards and the sound system.",
     ch3Title: "Dinner in the hall",
     ch3Lead: "The bar has refrigerated displays and glassware, and there is a coffee machine and a dishwasher on site.",
     ch4Title: "The evening goes on",
     ch4Lead: "The audio system, the karaoke and the party lighting are all on site.",
-    ch4Body: "The hosts offer the hall for birthdays, anniversaries and weddings. Their current website carries neither a telephone number nor an address, so contact means calling in person.",
+    ch4Body: "Booking is on 0888 66 43 43 or at info@numberfivebg.com.",
     ch5Title: "The farewell is a beginning",
     ch5Lead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
     gettingHereRows: [
       [
         "Address",
-        "29 Engineer Asen Yordanov St, Trakia",
+        "29 Inzh. Asen Yordanov St, Plovdiv",
       ],
       [
-        "District",
-        "Trakia economic zone, Plovdiv",
+        "Phone",
+        "0888 66 43 43",
       ],
       [
-        "Note",
-        "no telephone is published on their site",
+        "E-mail",
+        "info@numberfivebg.com",
       ],
     ],
     whyTitle: "Why couples choose Number Five Party Hall",
-    packagesTitle: "What is known about the place",
-    packagesLead: "Number Five Party Hall publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer.",
+    packagesTitle: "What the hall comes with",
+    packagesLead: "Number Five publishes no rental price. What appears here is the equipment they list themselves. Describe your occasion in the form for an offer.",
     includesTitle: "Available for the day",
-    reviewsLead: "Number Five Party Hall has no verifiable published reviews. This section stays empty until real ones are supplied.",
+    reviewsLead: "Guest reviews are still to be collected and published with the hosts' consent.",
     footerDemo: "Spec demonstration site by Meridian Solutions. Not the official Number Five Party Hall website.",
     footerRights: "Number Five Party Hall · Plovdiv",
     capacityStats: [
       {
-        value: "4.5",
-        count: 4.5,
-        label: "from its Google reviews",
+        value: "Private",
+        label: "the hall is yours alone",
+      },
+      {
+        value: "Billiards",
+        label: "and karaoke on site",
       },
       {
         value: "A bar",
-        label: "on site in the hall",
-      },
-      {
-        value: "Karaoke",
-        label: "and party lighting",
+        label: "fitted, in the hall",
       },
     ],
   },
@@ -322,24 +321,23 @@ export const seasonNamesEn: Record<Season, string> = {
 export const packageNamesEn: Record<string, string> = {};
 
 export const packageIncludesEn = [
-  "A stylishly furnished hall in a modern design",
-  "A bar with refrigerated displays and glassware",
+  "A billiards table",
   "An audio system and karaoke",
   "Party lighting",
-  "A billiard table",
-  "A coffee machine and a dishwasher",
-  "Water filtration",
-  "Sanitary facilities",
+  "A bar with fridges and glassware",
+  "A dishwasher and a coffee machine",
+  "A drinking-water filter system",
+  "WiFi and parking",
 ];
 
 export const packageAssistEn =
   "";
 
 export const whyUsEn = [
-  "The hall is furnished and equipped throughout",
-  "A bar, an audio system and lighting on site",
-  "4.5 from its Google reviews",
-  "They state themselves that they take on weddings too",
+  "A private hall just for your party",
+  "Billiards, karaoke and party lighting on site",
+  "A fitted bar with fridges, glassware and a dishwasher",
+  "WiFi and parking",
 ];
 
 export const gettingHereNote =

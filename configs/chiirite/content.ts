@@ -1,6 +1,6 @@
 /**
  * Content pack — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Хотел „Чиирите“. Harvested 2026-08-26 from: собствения им сайт chiirite.bg и Google Business профила.
+ * Venue: Хотел „Чиирите“. Harvested 2026-08-26 from: собствения им сайт chiirite.bg — снимки, капацитет, контакти; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -38,29 +38,31 @@ export const venue = {
   ],
   phoneHref: "tel:+35932202600",
   phoneE164: "+35932202600",
-  email: "",
+  email: "manager@chiirite.bg",
   instagram: "",
   facebook: "",
-  sameAs: [],
+  sameAs: [
+    "https://chiirite.bg",
+  ],
   mapQuery: "Хотел+Чиирите+Околовръстен+път+Пловдив",
-  maxCapacity: 0,
+  maxCapacity: 70,
   capacity: [],
   spaces: [],
   packages: [],
   packageIncludes: [
-    "Хотелът на Околовръстен път, местност Чиирите 020B, Пловдив",
-    "Мултифункционална зала с мултимедия",
-    "Озвучаване, екран и проектор",
-    "Ресторант със седемдесет места",
-    "Стаи за гостите на място",
-    "Рецепция, отворена денонощно",
+    "Ресторант със 70 места, работещ от 7:30 до 23:00",
+    "Мултифункционална зала с мултимедийно оборудване",
+    "Тераса и градина с изглед към планината",
+    "Лоби бар и фоайе",
+    "Стаи за гостите — луксозни, двойни и единични",
+    "Паркинг на място",
   ],
   packageAssist: "",
   whyUs: [
-    "4.5 от отзивите в Google",
-    "Мултифункционална зала с мултимедия",
-    "Озвучаване, екран и проектор",
-    "Ресторант със седемдесет места",
+    "Ресторант със 70 места и мултифункционална зала",
+    "Тераса и градина с изглед към планината",
+    "Стаи за гостите на място",
+    "На Околовръстния път — лесен достъп и паркинг",
   ],
   parking: "",
   seasonsAvailable: [
@@ -75,16 +77,12 @@ export const venue = {
   ],
   reviews: [],
   handoff: [
-    "Снимки на залата и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
+    "Капацитет за тържество седнали (ресторант + мултифункционална зала)",
     "Меню и куверт",
-    "Web3Forms access key за формата за запитване",
-    "Имейл адрес за контакт",
-    "Текст за политика за поверителност — преглед от юрист",
-    "Капацитет на залата за сватба (публикувани са само 70 места в ресторанта)",
-    "Брой стаи в хотела",
-    "Меню и куверт",
-    "SSL сертификат за сайта — в момента работи по HTTP",
+    "Снимки от минали сватби",
+    "Web3Forms access key за формата",
+    "Политика за поверителност — преглед от юрист",
+    "Потвърждение, че може да ползваме снимките им от chiirite.bg",
   ],
 } as const;
 
@@ -133,7 +131,7 @@ export const dict = {
     navCity: "Пловдив",
     navSpot: "Чиирите",
     navSeats: "капацитет по запитване",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки на залата",
+    atmosphereNote: "снимките са техни собствени, от сайта им chiirite.bg",
     chapters: [
       {
         id: "pristigane",
@@ -160,12 +158,12 @@ export const dict = {
     ch1Lead: "Денят започва с пристигането. Хотелът е на Околовръстен път, местност Чиирите 020B, Пловдив, на Околовръстния път на Пловдив.",
     ch2Title: "Церемонията",
     ch2Lead: "Домакините описват залата като мултифункционална, с озвучаване, екран и проектор.",
-    ch2Body: "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините.",
+    ch2Body: "Ресторантът е със седемдесет места и работи от 7:30 до 23:00. Хотелът има и мултифункционална зала с мултимедия, а гостите могат да останат за нощувка.",
     ch3Title: "Вечерята в ресторанта",
     ch3Lead: "Ресторантът разполага със седемдесет места и работи от 7:30 до 23:00.",
     ch4Title: "Вечерта продължава",
     ch4Lead: "Гостите, които остават, спят в стаите на място.",
-    ch4Body: "Сайтът им работи без HTTPS, така че браузърите го отбелязват като незащитен още преди гостът да е прочел каквото и да е.",
+    ch4Body: "Резервация се прави на 032 202 600 или на manager@chiirite.bg.",
     ch5Title: "Сбогуването е ново начало",
     ch5Lead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
     gettingHereRows: [
@@ -177,28 +175,35 @@ export const dict = {
         "Телефон",
         "032 202 600",
       ],
+      [
+        "Е-мейл",
+        "manager@chiirite.bg",
+      ],
+      [
+        "Ресторант",
+        "7:30 – 23:00",
+      ],
     ],
     whyTitle: "Защо младоженците избират Хотел „Чиирите“",
     packagesTitle: "Какво се знае за мястото",
-    packagesLead: "Хотел „Чиирите“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    packagesLead: "Хотел „Чиирите“ не публикува куверт. Показано е това, което сами съобщават. Опишете тържеството си във формата и ще получите оферта.",
     includesTitle: "На разположение за деня",
-    reviewsLead: "Хотел „Чиирите“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
+    reviewsLead: "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
     footerDemo: "Демонстрационен сайт (spec) от Meridian Solutions. Не е официалният сайт на Хотел „Чиирите“.",
     footerRights: "Хотел „Чиирите“ · Пловдив",
     capacityStats: [
-      {
-        value: "4.5",
-        count: 4.5,
-        label: "от отзивите в Google",
-      },
       {
         value: "70",
         count: 70,
         label: "места в ресторанта",
       },
       {
-        value: "Денонощна",
-        label: "рецепция",
+        value: "7:30",
+        label: "часът, в който отваря",
+      },
+      {
+        value: "Планината",
+        label: "изгледът от терасата",
       },
     ],
   },
@@ -237,7 +242,7 @@ export const dict = {
     navCity: "Plovdiv",
     navSpot: "Chiirite",
     navSeats: "capacity on request",
-    atmosphereNote: "atmospheric visualisations, photographs of the hall to be added",
+    atmosphereNote: "the photographs are their own, from their site chiirite.bg",
     chapters: [
       {
         id: "pristigane",
@@ -264,12 +269,12 @@ export const dict = {
     ch1Lead: "The day begins with the arrival. The hotel sits at Ring road, Chiirite locality 020B, Plovdiv, on the Plovdiv ring road.",
     ch2Title: "The ceremony",
     ch2Lead: "The hosts describe the hall as multifunctional, with a sound system, a screen and a projector.",
-    ch2Body: "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them.",
+    ch2Body: "The restaurant seats seventy and is open 7:30 to 23:00. The hotel also has a multifunctional hall with multimedia, and guests can stay the night.",
     ch3Title: "Dinner in the restaurant",
     ch3Lead: "The restaurant seats seventy and works from 7:30 until 23:00.",
     ch4Title: "The evening goes on",
     ch4Lead: "Guests who stay sleep in the rooms on site.",
-    ch4Body: "Their site runs without HTTPS, so browsers flag it as not secure before a visitor has read a word.",
+    ch4Body: "Booking is on 032 202 600 or at manager@chiirite.bg.",
     ch5Title: "The farewell is a beginning",
     ch5Lead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
     gettingHereRows: [
@@ -281,28 +286,35 @@ export const dict = {
         "Phone",
         "032 202 600",
       ],
+      [
+        "E-mail",
+        "manager@chiirite.bg",
+      ],
+      [
+        "Restaurant",
+        "7:30 – 23:00",
+      ],
     ],
     whyTitle: "Why couples choose Hotel Chiirite",
     packagesTitle: "What is known about the place",
-    packagesLead: "Hotel Chiirite publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer.",
+    packagesLead: "Chiirite publishes no per-head price. What appears here is what they state themselves. Describe your celebration in the form for an offer.",
     includesTitle: "Available for the day",
-    reviewsLead: "Hotel Chiirite has no verifiable published reviews. This section stays empty until real ones are supplied.",
+    reviewsLead: "Guest reviews are still to be collected and published with the hosts' consent.",
     footerDemo: "Spec demonstration site by Meridian Solutions. Not the official Hotel Chiirite website.",
     footerRights: "Hotel Chiirite · Plovdiv",
     capacityStats: [
-      {
-        value: "4.5",
-        count: 4.5,
-        label: "from its Google reviews",
-      },
       {
         value: "70",
         count: 70,
         label: "seats in the restaurant",
       },
       {
-        value: "24 hours",
-        label: "reception",
+        value: "7:30",
+        label: "when it opens",
+      },
+      {
+        value: "The mountain",
+        label: "the view from the terrace",
       },
     ],
   },
@@ -317,22 +329,22 @@ export const seasonNamesEn: Record<Season, string> = {
 export const packageNamesEn: Record<string, string> = {};
 
 export const packageIncludesEn = [
-  "The hotel at Ring road, Chiirite locality 020B, Plovdiv",
-  "A multifunctional hall with multimedia",
-  "Sound system, screen and projector",
-  "A restaurant with seventy seats",
-  "Rooms for guests on site",
-  "A reception desk open around the clock",
+  "A restaurant seating 70, open 7:30 to 23:00",
+  "A multifunctional hall with multimedia equipment",
+  "A terrace and garden with a view to the mountain",
+  "A lobby bar and foyer",
+  "Rooms for guests — luxury, double and single",
+  "Parking on site",
 ];
 
 export const packageAssistEn =
   "";
 
 export const whyUsEn = [
-  "4.5 from its Google reviews",
-  "A multifunctional hall with multimedia",
-  "Sound system, screen and projector",
-  "A restaurant with seventy seats",
+  "A 70-seat restaurant and a multifunctional hall",
+  "A terrace and garden facing the mountain",
+  "Rooms for guests on site",
+  "On the ring road — easy access and parking",
 ];
 
 export const gettingHereNote =

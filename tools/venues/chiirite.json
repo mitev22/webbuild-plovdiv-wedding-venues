@@ -3,7 +3,7 @@
   "nameBg": "Хотел „Чиирите“",
   "nameEn": "Hotel Chiirite",
   "harvestedOn": "2026-08-26",
-  "sources": "собствения им сайт chiirite.bg и Google Business профила",
+  "sources": "собствения им сайт chiirite.bg — снимки, капацитет, контакти; събрани 2026-08-27",
   "wordmark": {
     "bg": "Чиирите",
     "en": "Chiirite"
@@ -26,29 +26,31 @@
     "032 202 600"
   ],
   "phoneE164": "+35932202600",
-  "email": "",
+  "email": "manager@chiirite.bg",
   "instagram": "",
   "facebook": "",
-  "sameAs": [],
+  "sameAs": [
+    "https://chiirite.bg"
+  ],
   "mapQuery": "Хотел+Чиирите+Околовръстен+път+Пловдив",
-  "maxCapacity": 0,
+  "maxCapacity": 70,
   "capacity": [],
   "spaces": [],
   "packageIncludes": [
-    "Хотелът на Околовръстен път, местност Чиирите 020B, Пловдив",
-    "Мултифункционална зала с мултимедия",
-    "Озвучаване, екран и проектор",
-    "Ресторант със седемдесет места",
-    "Стаи за гостите на място",
-    "Рецепция, отворена денонощно"
+    "Ресторант със 70 места, работещ от 7:30 до 23:00",
+    "Мултифункционална зала с мултимедийно оборудване",
+    "Тераса и градина с изглед към планината",
+    "Лоби бар и фоайе",
+    "Стаи за гостите — луксозни, двойни и единични",
+    "Паркинг на място"
   ],
   "packageIncludesEn": [
-    "The hotel at Ring road, Chiirite locality 020B, Plovdiv",
-    "A multifunctional hall with multimedia",
-    "Sound system, screen and projector",
-    "A restaurant with seventy seats",
-    "Rooms for guests on site",
-    "A reception desk open around the clock"
+    "A restaurant seating 70, open 7:30 to 23:00",
+    "A multifunctional hall with multimedia equipment",
+    "A terrace and garden with a view to the mountain",
+    "A lobby bar and foyer",
+    "Rooms for guests — luxury, double and single",
+    "Parking on site"
   ],
   "packageAssist": {
     "bg": "",
@@ -56,16 +58,16 @@
   },
   "whyUs": {
     "bg": [
-      "4.5 от отзивите в Google",
-      "Мултифункционална зала с мултимедия",
-      "Озвучаване, екран и проектор",
-      "Ресторант със седемдесет места"
+      "Ресторант със 70 места и мултифункционална зала",
+      "Тераса и градина с изглед към планината",
+      "Стаи за гостите на място",
+      "На Околовръстния път — лесен достъп и паркинг"
     ],
     "en": [
-      "4.5 from its Google reviews",
-      "A multifunctional hall with multimedia",
-      "Sound system, screen and projector",
-      "A restaurant with seventy seats"
+      "A 70-seat restaurant and a multifunctional hall",
+      "A terrace and garden facing the mountain",
+      "Rooms for guests on site",
+      "On the ring road — easy access and parking"
     ]
   },
   "parking": {
@@ -82,8 +84,8 @@
     "en": "capacity on request"
   },
   "atmosphereNote": {
-    "bg": "атмосферни визуализации, предстои добавяне на снимки на залата",
-    "en": "atmospheric visualisations, photographs of the hall to be added"
+    "bg": "снимките са техни собствени, от сайта им chiirite.bg",
+    "en": "the photographs are their own, from their site chiirite.bg"
   },
   "meta": {
     "bg": {
@@ -109,12 +111,12 @@
     "bg": {
       "title": "Церемонията",
       "lead": "Домакините описват залата като мултифункционална, с озвучаване, екран и проектор.",
-      "body": "Подробности за капацитета и за броя места не са публикувани никъде. Ще бъдат добавени, след като бъдат предоставени от домакините."
+      "body": "Ресторантът е със седемдесет места и работи от 7:30 до 23:00. Хотелът има и мултифункционална зала с мултимедия, а гостите могат да останат за нощувка."
     },
     "en": {
       "title": "The ceremony",
       "lead": "The hosts describe the hall as multifunctional, with a sound system, a screen and a projector.",
-      "body": "Details of the capacity and the number of seats are not published anywhere. They will be added once the hosts provide them."
+      "body": "The restaurant seats seventy and is open 7:30 to 23:00. The hotel also has a multifunctional hall with multimedia, and guests can stay the night."
     }
   },
   "ch3": {
@@ -131,12 +133,12 @@
     "bg": {
       "title": "Вечерта продължава",
       "lead": "Гостите, които остават, спят в стаите на място.",
-      "body": "Сайтът им работи без HTTPS, така че браузърите го отбелязват като незащитен още преди гостът да е прочел каквото и да е."
+      "body": "Резервация се прави на 032 202 600 или на manager@chiirite.bg."
     },
     "en": {
       "title": "The evening goes on",
       "lead": "Guests who stay sleep in the rooms on site.",
-      "body": "Their site runs without HTTPS, so browsers flag it as not secure before a visitor has read a word."
+      "body": "Booking is on 032 202 600 or at manager@chiirite.bg."
     }
   },
   "ch5": {
@@ -158,6 +160,14 @@
       [
         "Телефон",
         "032 202 600"
+      ],
+      [
+        "Е-мейл",
+        "manager@chiirite.bg"
+      ],
+      [
+        "Ресторант",
+        "7:30 – 23:00"
       ]
     ],
     "en": [
@@ -168,6 +178,14 @@
       [
         "Phone",
         "032 202 600"
+      ],
+      [
+        "E-mail",
+        "manager@chiirite.bg"
+      ],
+      [
+        "Restaurant",
+        "7:30 – 23:00"
       ]
     ]
   },
@@ -180,16 +198,16 @@
     "en": "What is known about the place"
   },
   "packagesLead": {
-    "bg": "Хотел „Чиирите“ не публикува куверт и пакети. Показано е само това, което самите те съобщават. Опишете тържеството си във формата и ще получите оферта.",
-    "en": "Hotel Chiirite publishes no per-head price or packages. Only what they state themselves appears here. Describe your celebration in the form and you will receive an offer."
+    "bg": "Хотел „Чиирите“ не публикува куверт. Показано е това, което сами съобщават. Опишете тържеството си във формата и ще получите оферта.",
+    "en": "Chiirite publishes no per-head price. What appears here is what they state themselves. Describe your celebration in the form for an offer."
   },
   "includesTitle": {
     "bg": "На разположение за деня",
     "en": "Available for the day"
   },
   "reviewsLead": {
-    "bg": "Хотел „Чиирите“ няма публикувани отзиви, които да бъдат проверени. Разделът остава празен, докато не бъдат предоставени истински.",
-    "en": "Hotel Chiirite has no verifiable published reviews. This section stays empty until real ones are supplied."
+    "bg": "Отзивите на гостите предстои да бъдат събрани и публикувани със съгласието на домакините.",
+    "en": "Guest reviews are still to be collected and published with the hosts' consent."
   },
   "gettingHereNote": {
     "bg": "Хотелът е на Околовръстен път, местност Чиирите 020B, Пловдив.",
@@ -198,34 +216,32 @@
   "capacityStats": {
     "bg": [
       {
-        "value": "4.5",
-        "count": 4.5,
-        "label": "от отзивите в Google"
-      },
-      {
         "value": "70",
         "count": 70,
         "label": "места в ресторанта"
       },
       {
-        "value": "Денонощна",
-        "label": "рецепция"
+        "value": "7:30",
+        "label": "часът, в който отваря"
+      },
+      {
+        "value": "Планината",
+        "label": "изгледът от терасата"
       }
     ],
     "en": [
-      {
-        "value": "4.5",
-        "count": 4.5,
-        "label": "from its Google reviews"
-      },
       {
         "value": "70",
         "count": 70,
         "label": "seats in the restaurant"
       },
       {
-        "value": "24 hours",
-        "label": "reception"
+        "value": "7:30",
+        "label": "when it opens"
+      },
+      {
+        "value": "The mountain",
+        "label": "the view from the terrace"
       }
     ]
   },
@@ -233,30 +249,31 @@
     "bg": [
       {
         "key": "mqstoto",
-        "label": "Залата и ресторантът",
-        "note": "Хотел „Чиирите“ не публикува меню. Показано е само това, което сами съобщават.",
+        "label": "Мястото",
+        "note": "Хотел „Чиирите“ не публикува куверт. Ето какво сами съобщават.",
         "dishes": [
+          {
+            "n": "Ресторант със 70 места"
+          },
+          {
+            "n": "Работно време",
+            "d": "7:30 – 23:00"
+          },
           {
             "n": "Мултифункционална зала",
             "d": "с мултимедия"
           },
           {
-            "n": "Озвучаване, екран и проектор"
-          },
-          {
-            "n": "Ресторант",
-            "d": "седемдесет места"
+            "n": "Тераса и градина",
+            "d": "с изглед към планината"
           },
           {
             "n": "Стаи за гостите",
-            "d": "на място в хотела"
+            "d": "луксозни, двойни и единични"
           },
           {
-            "n": "Кафе, чай и леки закуски",
-            "d": "за паузите"
-          },
-          {
-            "n": "Денонощна рецепция"
+            "n": "Запитване",
+            "d": "032 202 600 · manager@chiirite.bg"
           }
         ]
       }
@@ -264,102 +281,180 @@
     "en": [
       {
         "key": "mqstoto",
-        "label": "The hall and the restaurant",
-        "note": "Hotel Chiirite publishes no menu. Only what they state themselves appears here.",
+        "label": "The place",
+        "note": "Chiirite publishes no per-head price. Here is what they state themselves.",
         "dishes": [
+          {
+            "n": "A restaurant seating 70"
+          },
+          {
+            "n": "Open",
+            "d": "7:30 – 23:00"
+          },
           {
             "n": "A multifunctional hall",
             "d": "with multimedia"
           },
           {
-            "n": "Sound system, screen and projector"
-          },
-          {
-            "n": "A restaurant",
-            "d": "seventy seats"
+            "n": "Terrace and garden",
+            "d": "facing the mountain"
           },
           {
             "n": "Rooms for guests",
-            "d": "on site at the hotel"
+            "d": "luxury, double and single"
           },
           {
-            "n": "Coffee, tea and light snacks",
-            "d": "for the breaks"
-          },
-          {
-            "n": "A 24-hour reception"
+            "n": "Enquiries",
+            "d": "032 202 600 · manager@chiirite.bg"
           }
         ]
       }
     ]
   },
   "menuFooter": {
-    "bg": "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.",
-    "en": "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied."
+    "bg": "Куверт и меню за тържество не са публикувани и предстои да бъдат предоставени.",
+    "en": "A per-head price and celebration menu are not published and are still to be supplied."
   },
   "services": {
     "bg": [
-      "Хотелът на Околовръстен път, местност Чиирите 020B, Пловдив",
-      "Мултифункционална зала с мултимедия",
-      "Озвучаване, екран и проектор",
-      "Ресторант със седемдесет места",
-      "Стаи за гостите на място",
-      "Рецепция, отворена денонощно"
+      "Ресторант със 70 места, работещ от 7:30 до 23:00",
+      "Мултифункционална зала с мултимедийно оборудване",
+      "Тераса и градина с изглед към планината",
+      "Лоби бар и фоайе",
+      "Стаи за гостите — луксозни, двойни и единични",
+      "Паркинг на място"
     ],
     "en": [
-      "The hotel at Ring road, Chiirite locality 020B, Plovdiv",
-      "A multifunctional hall with multimedia",
-      "Sound system, screen and projector",
-      "A restaurant with seventy seats",
-      "Rooms for guests on site",
-      "A reception desk open around the clock"
+      "A restaurant seating 70, open 7:30 to 23:00",
+      "A multifunctional hall with multimedia equipment",
+      "A terrace and garden with a view to the mountain",
+      "A lobby bar and foyer",
+      "Rooms for guests — luxury, double and single",
+      "Parking on site"
     ]
   },
   "tech": {
     "bg": [
-      "Озвучаване",
-      "Екран и проектор",
-      "Мултифункционална зала",
-      "Високоскоростен интернет"
+      "Мултимедийно оборудване в залата",
+      "Лоби бар",
+      "Стаи: луксозни, двойни и единични",
+      "Паркинг"
     ],
     "en": [
-      "A sound system",
-      "A screen and projector",
-      "A multifunctional hall",
-      "High-speed internet"
+      "Multimedia equipment in the hall",
+      "A lobby bar",
+      "Rooms: luxury, double and single",
+      "Parking"
     ]
   },
   "events": {
     "bg": [
       {
         "title": "Сватбени тържества",
-        "body": "Домакините сами обявяват сватбени тържества, със съдействие за организацията и декорацията.",
-        "fact": "По техните думи"
-      },
-      {
-        "title": "Семинари и тиймбилдинг",
-        "body": "Залата поема и работни събития, с мултимедия и кетъринг за паузите.",
-        "fact": "Мултимедия"
+        "body": "Хотелът поема сватбени тържества, фирмени събития и семинари, а гостите могат да останат за нощувка.",
+        "fact": "70 места"
       }
     ],
     "en": [
       {
         "title": "Wedding celebrations",
-        "body": "The hosts advertise wedding celebrations themselves, with help for the organising and the decoration.",
-        "fact": "In their own words"
-      },
-      {
-        "title": "Seminars and team building",
-        "body": "The hall also takes on working events, with multimedia and catering for the breaks.",
-        "fact": "Multimedia"
+        "body": "The hotel takes on weddings, corporate events and seminars, and guests can stay the night.",
+        "fact": "70 seats"
       }
     ]
   },
   "performer": {
-    "bg": "Домакините сами обявяват сватбени тържества и предлагат съдействие за организацията и декорацията.",
-    "en": "The hosts advertise wedding celebrations themselves and offer help with the organising and the decoration."
+    "bg": "Хотелът е на Околовръстния път, местност Чиирите, с тераса и градина с изглед към планината.",
+    "en": "The hotel is on the ring road, in the Chiirite locality, with a terrace and garden facing the mountain."
   },
-  "gallery": [],
+  "gallery": [
+    {
+      "slug": "podredena-zala",
+      "bg": "Подредено за повод",
+      "en": "Set for an occasion"
+    },
+    {
+      "slug": "zalata",
+      "bg": "Залата",
+      "en": "The hall"
+    },
+    {
+      "slug": "restorantat",
+      "bg": "Ресторантът",
+      "en": "The restaurant"
+    },
+    {
+      "slug": "masite",
+      "bg": "Масите",
+      "en": "The tables"
+    },
+    {
+      "slug": "salonat",
+      "bg": "Салонът",
+      "en": "The salon"
+    },
+    {
+      "slug": "masata",
+      "bg": "Подредената маса",
+      "en": "The laid table"
+    },
+    {
+      "slug": "kuvertat",
+      "bg": "Кувертът",
+      "en": "The place setting"
+    },
+    {
+      "slug": "rozite",
+      "bg": "Розите и виното",
+      "en": "Roses and wine"
+    },
+    {
+      "slug": "yagodite",
+      "bg": "Ягоди и мехурчета",
+      "en": "Strawberries and bubbles",
+      "tall": true
+    },
+    {
+      "slug": "barat",
+      "bg": "Барът",
+      "en": "The bar"
+    },
+    {
+      "slug": "foayeto",
+      "bg": "Фоайето",
+      "en": "The foyer"
+    },
+    {
+      "slug": "receptsiyata",
+      "bg": "Рецепцията",
+      "en": "Reception"
+    },
+    {
+      "slug": "sgradata",
+      "bg": "Хотелът отвън",
+      "en": "The hotel from outside"
+    },
+    {
+      "slug": "terasata",
+      "bg": "Терасата",
+      "en": "The terrace"
+    },
+    {
+      "slug": "gradinata",
+      "bg": "Градината",
+      "en": "The garden"
+    },
+    {
+      "slug": "izgledat",
+      "bg": "Изгледът",
+      "en": "The view"
+    },
+    {
+      "slug": "stayata",
+      "bg": "Стаята",
+      "en": "A room"
+    }
+  ],
   "navHints": {
     "bg": [
       "мястото на повода",
@@ -384,17 +479,17 @@
       "menuLead": "Хотел „Чиирите“ не публикува меню. Ето какво съобщават за самото място:",
       "servicesTitle": "Услуги",
       "servicesLead": "Ето какво се знае, че стои на разположение за деня.",
-      "techTitle": "В залата",
+      "techTitle": "В хотела",
       "eventsTitle": "Поводи",
       "eventsLead": "Домакините обявяват сватбени тържества, семинари и тиймбилдинг.",
       "galleryTitle": "Мястото, както изглежда",
-      "galleryLead": "Хотел „Чиирите“ няма публикувани собствени фотографии на обекта.",
-      "galleryChip": "предстоят реални снимки",
-      "galleryEmptyTitle": "Тук ще стоят снимките на залата.",
-      "galleryEmptyBody": "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
-      "performerTitle": "Сезонът, с техните думи",
+      "galleryLead": "Седемнайсет от собствените им снимки: залата, подредените маси, фоайето и терасата.",
+      "galleryChip": "реални снимки на хотела",
+      "galleryEmptyTitle": "Тук стоят снимките на хотела.",
+      "galleryEmptyBody": "Снимките са техни собствени, от сайта им chiirite.bg.",
+      "performerTitle": "Мястото",
       "tableBandQuote": "Зала, ресторант и стаи на един адрес.",
-      "pageTitleGallery": "Снимките предстоят",
+      "pageTitleGallery": "Мястото в снимки",
       "pageTitleEvents": "Поводите на мястото",
       "pageTitleMenu": "Мястото, описано с техните думи",
       "pageTitleServices": "Какво стои на разположение"
@@ -404,67 +499,63 @@
       "menuLead": "Hotel Chiirite publishes no menu. Here is what they state about the place itself:",
       "servicesTitle": "Services",
       "servicesLead": "Here is what is known to be available for the day.",
-      "techTitle": "In the hall",
+      "techTitle": "In the hotel",
       "eventsTitle": "Occasions",
       "eventsLead": "The hosts advertise wedding celebrations, seminars and team building.",
       "galleryTitle": "The place as it looks",
-      "galleryLead": "Hotel Chiirite has no published photographs of the venue.",
-      "galleryChip": "real photographs to come",
-      "galleryEmptyTitle": "The photographs of the hall will stand here.",
-      "galleryEmptyBody": "Their current website holds no publishable photographs of the hall.",
-      "performerTitle": "The season, in their words",
+      "galleryLead": "Seventeen of their own photographs: the hall, the laid tables, the foyer and the terrace.",
+      "galleryChip": "real photographs of the hotel",
+      "galleryEmptyTitle": "The photographs of the hotel stand here.",
+      "galleryEmptyBody": "The photographs are their own, from their site chiirite.bg.",
+      "performerTitle": "The place",
       "tableBandQuote": "A hall, a restaurant and rooms at one address.",
-      "pageTitleGallery": "Photographs to come",
+      "pageTitleGallery": "The place in photographs",
       "pageTitleEvents": "Occasions at the venue",
       "pageTitleMenu": "The place, in their words",
       "pageTitleServices": "What is available"
     }
   },
   "handoff": [
-    "Снимки на залата и на минали сватби (реални фото-слотове)",
-    "Капацитет: брой места седнали, коктейл и на открито",
+    "Капацитет за тържество седнали (ресторант + мултифункционална зала)",
     "Меню и куверт",
-    "Web3Forms access key за формата за запитване",
-    "Имейл адрес за контакт",
-    "Текст за политика за поверителност — преглед от юрист",
-    "Капацитет на залата за сватба (публикувани са само 70 места в ресторанта)",
-    "Брой стаи в хотела",
-    "Меню и куверт",
-    "SSL сертификат за сайта — в момента работи по HTTP"
+    "Снимки от минали сватби",
+    "Web3Forms access key за формата",
+    "Политика за поверителност — преглед от юрист",
+    "Потвърждение, че може да ползваме снимките им от chiirite.bg"
   ],
   "tokens": {
     "capacityRows": {
       "bg": [
         {
           "space": "Ресторантът",
-          "note": "работи от 7:30 до 23:00",
+          "note": "на място в хотела",
           "value": "70 места"
         },
         {
-          "space": "Залата",
-          "note": "мултифункционална, с мултимедия",
-          "value": "капацитет по запитване"
+          "space": "Мултифункционалната зала",
+          "note": "с мултимедия",
+          "value": "по запитване"
         },
         {
           "space": "Стаите",
-          "note": "за гостите, които остават",
+          "note": "луксозни, двойни и единични",
           "value": "на място"
         }
       ],
       "en": [
         {
           "space": "The restaurant",
-          "note": "open 7:30 until 23:00",
+          "note": "in the hotel",
           "value": "70 seats"
         },
         {
-          "space": "The hall",
-          "note": "multifunctional, with multimedia",
-          "value": "capacity on request"
+          "space": "The multifunctional hall",
+          "note": "with multimedia",
+          "value": "on request"
         },
         {
           "space": "The rooms",
-          "note": "for guests who stay",
+          "note": "luxury, double and single",
           "value": "on site"
         }
       ]
@@ -516,7 +607,7 @@
         "inviteLine": "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
         "enquiryTitle": "Запитване за дата",
         "enquiryLead": "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-        "atmosphereNote": "атмосферни визуализации, предстои добавяне на снимки"
+        "atmosphereNote": "снимките са техни собствени, от chiirite.bg"
       },
       "en": {
         "heroTitle": "The hall, the restaurant and the rooms in one place.",
@@ -530,8 +621,18 @@
         "inviteLine": "Come for a viewing. It commits you to nothing.",
         "enquiryTitle": "Enquire about a date",
         "enquiryLead": "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-        "atmosphereNote": "atmospheric visualisations, venue photography to be added"
+        "atmosphereNote": "the photographs are their own, from chiirite.bg"
       }
     }
+  },
+  "website": "https://chiirite.bg",
+  "photosHarvestedOn": "2026-08-27",
+  "images": {
+    "heroFilm": "/atmosphere/hero-chiirite.webp",
+    "wallGarden": "/atmosphere/wall-terasata.webp",
+    "wallHall": "/atmosphere/wall-zalata.webp",
+    "wallTerrace": "/atmosphere/wall-masata.webp",
+    "ogImage": "/atmosphere/og-card.jpg",
+    "tableBand": "/atmosphere/band-masite.webp"
   }
 }

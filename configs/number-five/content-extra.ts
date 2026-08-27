@@ -1,6 +1,6 @@
 /**
  * Content pack (extension) — INDUSTRY-wedding-venues.md §6 schema.
- * Venue: Парти зала Number Five. Harvested 2026-08-26 from: собствения им сайт numberfivebg.com и Google Business профила.
+ * Venue: Парти зала Number Five. Harvested 2026-08-26 from: собствения им сайт numberfivebg.com — снимки, оборудване, контакти; събрани 2026-08-27.
  * Unknown facts stay empty (never invented). Reviews verbatim-or-absent.
  */
 
@@ -8,31 +8,29 @@ export type Dish = { n: string; d?: string; g?: string };
 
 export const menuBg: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
+    key: "zalata",
     label: "Залата",
-    note: "Парти зала Number Five не публикува меню. Показано е само това, което сами съобщават.",
+    note: "Number Five не публикува меню — залата се наема с оборудван бар.",
     dishes: [
       {
-        n: "Бар",
-        d: "с хладилни витрини и чаши",
+        n: "Билярдна маса",
       },
       {
-        n: "Аудио система и караоке",
+        n: "Караоке и аудио система",
       },
       {
         n: "Парти осветление",
       },
       {
-        n: "Билярд маса",
+        n: "Бар",
+        d: "хладилни витрини, чаши, съдомиялна",
       },
       {
-        n: "Кафе машина и съдомиялна",
+        n: "Кафе машина",
       },
       {
-        n: "Водна филтрация",
-      },
-      {
-        n: "Санитарни помещения",
+        n: "Запитване",
+        d: "0888 66 43 43 · info@numberfivebg.com",
       },
     ],
   },
@@ -40,109 +38,136 @@ export const menuBg: { key: string; label: string; note?: string; dishes: Dish[]
 
 export const menuEn: { key: string; label: string; note?: string; dishes: Dish[] }[] = [
   {
-    key: "mqstoto",
+    key: "zalata",
     label: "The hall",
-    note: "Number Five Party Hall publishes no menu. Only what they state themselves appears here.",
+    note: "Number Five publishes no menu — the hall is rented with a fitted bar.",
     dishes: [
       {
-        n: "A bar",
-        d: "with refrigerated displays and glassware",
+        n: "A billiards table",
       },
       {
-        n: "An audio system and karaoke",
+        n: "Karaoke and an audio system",
       },
       {
         n: "Party lighting",
       },
       {
-        n: "A billiard table",
+        n: "A bar",
+        d: "fridges, glassware, dishwasher",
       },
       {
-        n: "A coffee machine and a dishwasher",
+        n: "A coffee machine",
       },
       {
-        n: "Water filtration",
-      },
-      {
-        n: "Sanitary facilities",
+        n: "Enquiries",
+        d: "0888 66 43 43 · info@numberfivebg.com",
       },
     ],
   },
 ];
 
 export const menuFooterBg =
-  "Меню, куверт и кетъринг условия не са публикувани никъде и предстои да бъдат предоставени.";
+  "Залата се наема с оборудван бар; кетъринг и меню не са публикувани и предстои да бъдат уточнени.";
 
 export const menuFooterEn =
-  "The menu, the per-head price and the catering terms are published nowhere and are still to be supplied.";
+  "The hall is rented with a fitted bar; catering and menu are not published and are still to be confirmed.";
 
 export const servicesBg = [
-  "Стилно обзаведена зала в модерен дизайн",
-  "Бар с хладилни витрини и чаши",
+  "Билярдна маса",
   "Аудио система и караоке",
   "Парти осветление",
-  "Билярд маса",
-  "Кафе машина и съдомиялна",
-  "Водна филтрация",
-  "Санитарни помещения",
+  "Бар с хладилни витрини и чаши",
+  "Съдомиялна и кафе машина",
+  "Филтрираща система за питейна вода",
+  "WiFi и паркинг",
 ];
 
 export const servicesEn = [
-  "A stylishly furnished hall in a modern design",
-  "A bar with refrigerated displays and glassware",
+  "A billiards table",
   "An audio system and karaoke",
   "Party lighting",
-  "A billiard table",
-  "A coffee machine and a dishwasher",
-  "Water filtration",
-  "Sanitary facilities",
+  "A bar with fridges and glassware",
+  "A dishwasher and a coffee machine",
+  "A drinking-water filter system",
+  "WiFi and parking",
 ];
 
 export const techBg = [
-  "Аудио система",
-  "Караоке",
+  "Билярдна маса",
+  "Аудио система и караоке",
   "Парти осветление",
-  "Билярд маса",
+  "Бар с хладилни витрини и чаши",
 ];
 
 export const techEn = [
-  "An audio system",
-  "Karaoke",
+  "A billiards table",
+  "An audio system and karaoke",
   "Party lighting",
-  "A billiard table",
+  "A bar with fridges and glassware",
 ];
 
 export const eventsBg = [
   {
-    title: "Сватбени тържества",
-    body: "Домакините обявяват залата и за сватби, наред с рождените дни и годишнините.",
-    fact: "По техните думи",
-  },
-  {
-    title: "Рождени дни и годишнини",
-    body: "Залата е обзаведена и оборудвана за поводи през цялата година.",
-    fact: "Целогодишно",
+    title: "Рождени дни, годишнини и тържества",
+    body: "Залата се наема частно за рождени дни, годишнини, сватбени партита и всякакви поводи.",
+    fact: "частна зала",
   },
 ];
 
 export const eventsEn = [
   {
-    title: "Wedding celebrations",
-    body: "The hosts offer the hall for weddings as well as birthdays and anniversaries.",
-    fact: "In their own words",
-  },
-  {
-    title: "Birthdays and anniversaries",
-    body: "The hall is furnished and equipped for occasions throughout the year.",
-    fact: "All year round",
+    title: "Birthdays, anniversaries and celebrations",
+    body: "The hall is rented privately for birthdays, anniversaries, wedding parties and occasions of every kind.",
+    fact: "a private hall",
   },
 ];
 
-export const performerBg = "Домакините сами описват залата така: стилно обзаведена зала в модерен дизайн, подходяща за рождени дни, годишнини, сватби и други тържества.";
+export const performerBg = "Залата е на ул. „Инж. Асен Йорданов“ 29 в Пловдив — частно пространство с бар, билярд и парти осветление.";
 
-export const performerEn = "The hosts describe the hall themselves: a stylishly furnished hall in a modern design, suitable for birthdays, anniversaries, weddings and other celebrations.";
+export const performerEn = "The hall is at 29 Inzh. Asen Yordanov Street in Plovdiv — a private space with a bar, billiards and party lighting.";
 
-export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [];
+export const gallery: { slug: string; bg: string; en: string; tall?: boolean }[] = [
+  {
+    slug: "zalata",
+    bg: "Залата",
+    en: "The hall",
+  },
+  {
+    slug: "sedalkite",
+    bg: "Сепаретата",
+    en: "The booths",
+  },
+  {
+    slug: "barat",
+    bg: "Барът",
+    en: "The bar",
+  },
+  {
+    slug: "bilyardat",
+    bg: "Билярдната маса",
+    en: "The billiards table",
+  },
+  {
+    slug: "loungeat",
+    bg: "Лаундж зоната",
+    en: "The lounge",
+  },
+  {
+    slug: "chervenite",
+    bg: "Червените дивани",
+    en: "The red seating",
+  },
+  {
+    slug: "osvetlenieto",
+    bg: "Парти осветлението",
+    en: "The party lighting",
+  },
+  {
+    slug: "chashite",
+    bg: "Чашите",
+    en: "The glasses",
+  },
+];
 
 export const exploreArt = [
   {
@@ -241,13 +266,13 @@ export const extraStrings = {
     eventsTitle: "Поводи",
     eventsLead: "Залата се обявява за рождени дни, годишнини и сватби.",
     galleryTitle: "Мястото, както изглежда",
-    galleryLead: "Парти зала Number Five няма публикувани собствени фотографии на обекта.",
-    galleryChip: "предстоят реални снимки",
-    galleryEmptyTitle: "Тук ще стоят снимките на залата.",
-    galleryEmptyBody: "Настоящият им сайт не съдържа фотографии на залата, годни за публикуване.",
-    performerTitle: "Сезонът, с техните думи",
+    galleryLead: "Осем от собствените им снимки: залата, барът, билярдът и лаундж зоната.",
+    galleryChip: "реални снимки на залата",
+    galleryEmptyTitle: "Тук стоят снимките на залата.",
+    galleryEmptyBody: "Снимките са техни собствени, от сайта им numberfivebg.com.",
+    performerTitle: "Мястото",
     tableBandQuote: "Стилно обзаведена зала в модерен дизайн.",
-    pageTitleGallery: "Снимките предстоят",
+    pageTitleGallery: "Залата в снимки",
     pageTitleEvents: "Залата и поводите",
     pageTitleMenu: "Мястото, описано с техните думи",
     pageTitleServices: "Какво стои на разположение",
@@ -266,13 +291,13 @@ export const extraStrings = {
     eventsTitle: "Occasions",
     eventsLead: "The hall is offered for birthdays, anniversaries and weddings.",
     galleryTitle: "The place as it looks",
-    galleryLead: "Number Five Party Hall has no published photographs of the venue.",
-    galleryChip: "real photographs to come",
-    galleryEmptyTitle: "The photographs of the hall will stand here.",
-    galleryEmptyBody: "Their current website holds no publishable photographs of the hall.",
-    performerTitle: "The season, in their words",
+    galleryLead: "Eight of their own photographs: the hall, the bar, the billiards and the lounge.",
+    galleryChip: "real photographs of the hall",
+    galleryEmptyTitle: "The photographs of the hall stand here.",
+    galleryEmptyBody: "The photographs are their own, from their site numberfivebg.com.",
+    performerTitle: "The place",
     tableBandQuote: "A stylishly furnished hall in a modern design.",
-    pageTitleGallery: "Photographs to come",
+    pageTitleGallery: "The hall in photographs",
     pageTitleEvents: "The hall and its occasions",
     pageTitleMenu: "The place, in their words",
     pageTitleServices: "What is available",

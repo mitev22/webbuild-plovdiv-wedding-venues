@@ -14,7 +14,7 @@ export const brand = {
   since: "",
   phone: "032 202 600",
   phoneHref: "tel:+35932202600",
-  email: "",
+  email: "manager@chiirite.bg",
   logoSrc: "",
   logoInNav: false,
   address: "Околовръстен път, местност Чиирите 020B, Пловдив",
@@ -28,11 +28,11 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
-  wallTerrace: "",
-  tableBand: "",
+  heroFilm: "/atmosphere/hero-chiirite.webp",
+  wallGarden: "/atmosphere/wall-terasata.webp",
+  wallHall: "/atmosphere/wall-zalata.webp",
+  wallTerrace: "/atmosphere/wall-masata.webp",
+  tableBand: "/atmosphere/band-masite.webp",
   heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;
@@ -42,17 +42,17 @@ export const factsDict = {
     capacityRows: [
       {
         space: "Ресторантът",
-        note: "работи от 7:30 до 23:00",
+        note: "на място в хотела",
         value: "70 места",
       },
       {
-        space: "Залата",
-        note: "мултифункционална, с мултимедия",
-        value: "капацитет по запитване",
+        space: "Мултифункционалната зала",
+        note: "с мултимедия",
+        value: "по запитване",
       },
       {
         space: "Стаите",
-        note: "за гостите, които остават",
+        note: "луксозни, двойни и единични",
         value: "на място",
       },
     ],
@@ -76,17 +76,17 @@ export const factsDict = {
     capacityRows: [
       {
         space: "The restaurant",
-        note: "open 7:30 until 23:00",
+        note: "in the hotel",
         value: "70 seats",
       },
       {
-        space: "The hall",
-        note: "multifunctional, with multimedia",
-        value: "capacity on request",
+        space: "The multifunctional hall",
+        note: "with multimedia",
+        value: "on request",
       },
       {
         space: "The rooms",
-        note: "for guests who stay",
+        note: "luxury, double and single",
         value: "on site",
       },
     ],
@@ -121,7 +121,7 @@ export const copyDict = {
     inviteLine: "Заповядайте на оглед. Огледът трае час и не задължава с нищо.",
     enquiryTitle: "Запитване за дата",
     enquiryLead: "Опишете деня си: сезон, брой гости, ориентировъчен бюджет. Отговаряме лично на всяко запитване.",
-    atmosphereNote: "атмосферни визуализации, предстои добавяне на снимки",
+    atmosphereNote: "снимките са техни собствени, от chiirite.bg",
   },
   en: {
     heroTitle: "The hall, the restaurant and the rooms in one place.",
@@ -135,6 +135,6 @@ export const copyDict = {
     inviteLine: "Come for a viewing. It commits you to nothing.",
     enquiryTitle: "Enquire about a date",
     enquiryLead: "Tell us about your day: season, guest count, approximate budget. Every enquiry gets a personal reply.",
-    atmosphereNote: "atmospheric visualisations, venue photography to be added",
+    atmosphereNote: "the photographs are their own, from chiirite.bg",
   },
 } as const;
