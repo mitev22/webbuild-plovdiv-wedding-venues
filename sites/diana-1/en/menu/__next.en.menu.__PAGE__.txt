@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[86621,["/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/26ixej2t2p29c.js"],"default"]
+2:I[86621,["/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/1oiup2s6he2ci.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/26ixej2t2p29c.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Q49fiq5pRxa9JKUhUiwUx"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/diana-1/_next/static/chunks/1oiup2s6he2ci.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sxqpiJ8z9yRxS93o4s62-"}
 5:null

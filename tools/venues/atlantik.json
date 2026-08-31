@@ -483,7 +483,11 @@
   },
   "images": {
     "heroFilm": "/atmosphere/hero-atlantik.webp",
-    "ogImage": "/atmosphere/og-card.jpg"
+    "ogImage": "/atmosphere/og-card.jpg",
+    "tableBand": "/atmosphere/band-maps.webp",
+    "wallGarden": "/atmosphere/wall-garden.webp",
+    "wallHall": "/atmosphere/wall-hall.webp",
+    "wallTerrace": ""
   },
-  "photosHarvestedOn": "2026-08-27"
+  "photosHarvestedOn": "2026-08-31 (Google Maps профил, подбрани на ръка)"
 }

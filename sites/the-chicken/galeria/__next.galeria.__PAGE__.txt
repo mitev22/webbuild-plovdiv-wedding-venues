@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/2zx3kg97j6z8k.js"],"default"]
+2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/2c6e5lu5w250e.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/2zx3kg97j6z8k.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FL6nFtuQoCQ8MFkiVjSje"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/the-chicken/_next/static/chunks/2c6e5lu5w250e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1OEy1C8iIv1YhhlrdyV0w"}
 5:null

@@ -29,7 +29,7 @@ export const palette = {
 
 export const images = {
   heroFilm: "/atmosphere/hero-singar.webp",
-  wallGarden: "",
+  wallGarden: "/atmosphere/wall-garden.webp",
   wallHall: "",
   wallTerrace: "",
   tableBand: "",

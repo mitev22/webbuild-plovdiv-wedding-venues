@@ -25,8 +25,8 @@
       "note": "Сватбен ресторант Руж: brand palette carried over from the 2026-07 vertical build (venue-true)."
     },
     "images": {
-      "heroFilm": "",
-      "wallGarden": "",
+      "heroFilm": "/atmosphere/hero-maps.webp",
+      "wallGarden": "/atmosphere/wall-garden.webp",
       "wallHall": "",
       "wallTerrace": "",
       "ogImage": "/atmosphere/og-card.jpg"

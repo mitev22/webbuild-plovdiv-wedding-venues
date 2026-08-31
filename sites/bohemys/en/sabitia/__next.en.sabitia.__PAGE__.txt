@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/3j-__uk65_c3n.js"],"default"]
+2:I[82349,["/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/06w2y0_zfl1fh.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/3j-__uk65_c3n.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9FsI5RJoCt1MmCcOIkCsf"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"en"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/bohemys/_next/static/chunks/06w2y0_zfl1fh.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-LrHgDZ9xRoVRbN-AX3VQ"}
 5:null

@@ -25,9 +25,9 @@
       "note": "Colibri Wedding Place: brand palette carried over from the 2026-07 vertical build (venue-true)."
     },
     "images": {
-      "heroFilm": "",
+      "heroFilm": "/atmosphere/hero-maps.webp",
       "wallGarden": "",
-      "wallHall": "",
+      "wallHall": "/atmosphere/wall-hall.webp",
       "wallTerrace": "",
       "ogImage": "/atmosphere/og-card.jpg"
     },

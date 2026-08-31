@@ -449,7 +449,10 @@
   },
   "images": {
     "heroFilm": "/atmosphere/hero-singar.webp",
-    "ogImage": "/atmosphere/og-card.jpg"
+    "ogImage": "/atmosphere/og-card.jpg",
+    "wallGarden": "/atmosphere/wall-garden.webp",
+    "wallHall": "",
+    "wallTerrace": ""
   },
-  "photosHarvestedOn": "2026-08-27"
+  "photosHarvestedOn": "2026-08-31 (Google Maps профил, подбрани на ръка)"
 }

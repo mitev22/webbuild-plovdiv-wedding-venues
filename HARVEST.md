@@ -204,3 +204,34 @@ pushed. **Check this list before doing any further work on a venue.** `configs/`
 kept for all thirteen; `sites/` and `shots/` are not.
 
 Note `ostrova` declined *after* its 17-photo gallery was built — that effort is spent.
+
+---
+
+## 2026-08-31 — Google Maps harvest (decision of 2026-08-27 REVERSED by Dimi)
+
+Dimi explicitly directed using Google Maps profile photos ("i just found out that there are
+images to be found from google maps for most of the places… go ahead find them and use them").
+This reverses the 2026-08-27 decision to leave Maps alone. The caveats from that decision
+still stand and are re-recorded here:
+
+- **Provenance is mixed.** Most of these photos are customer uploads, not the venue's own
+  (only atlantik had a "От собственика" tab, with 2 photos). If a venue signs, replace with
+  photos they supply — the demo label invites exactly that.
+- Harvested via the everyday-Chrome place pages (the automation profile got reCAPTCHA-flagged
+  mid-run and Maps degraded to a lite viewer there). ~10-14 photos per venue from the place
+  page DOM, fetched at `=s1600`.
+- **Every photo was eyes-on curated** from 4-column contact sheets (the chiirite lesson).
+  Cross-venue duplicate IDs (Maps UI artifacts) auto-dropped. Contaminated results were
+  common — bohemys' page carried train stations and Grand Central; joana's top hit was the
+  Йована bakery; the-chicken's included ресторант Копчето. All excluded by eye.
+- **Photos with recognizable private people were skipped** (wedding couples at ermitazh,
+  event crowds at fiesta-paga — which is why fiesta-paga got nothing despite 3 finds).
+- Slots were mapped to each venue's actual `capacityRows` captions (Залата gets a hall,
+  Басейнът gets the pool). Unfilled frames now show the template's new visible label
+  „Място за ваша снимка" + a section note that the client chooses the photos.
+
+Result: **all 25 live demos now have a photo hero.** New heroes: citizens-club,
+colibri-wedding, dayana-3, diana-1, ermitazh, hitar-petar, joana, plaza-zala, ramido,
+restaurant-real, restorant-fiesta, restorant-ruzh, the-chicken. Walls filled or partly
+filled on 15 venues. Raw picks + contact sheets were session-temporary (scratchpad);
+curated WebP lives in `assets/<slug>/atmosphere/` as usual.

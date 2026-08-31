@@ -1,2 +1,2 @@
-:HL["/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/0c_uxy12vq2xn.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FKE7xKJYCmBmQ4iEM62oS"}
+:HL["/webbuild-plovdiv-wedding-venues/sites/restorant-ruzh/_next/static/chunks/1ltesdrf0t44w.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"2NRaJ_yqI9aQubMMXv_Jc"}

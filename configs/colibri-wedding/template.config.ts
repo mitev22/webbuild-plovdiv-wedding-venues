@@ -27,9 +27,9 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
+  heroFilm: "/atmosphere/hero-maps.webp",
   wallGarden: "",
-  wallHall: "",
+  wallHall: "/atmosphere/wall-hall.webp",
   wallTerrace: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;

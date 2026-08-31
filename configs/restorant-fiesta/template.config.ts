@@ -28,11 +28,11 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
-  wallHall: "",
+  heroFilm: "/atmosphere/hero-maps.webp",
+  wallGarden: "/atmosphere/wall-garden.webp",
+  wallHall: "/atmosphere/wall-hall.webp",
   wallTerrace: "",
-  tableBand: "",
+  tableBand: "/atmosphere/band-maps.webp",
   heroTone: "",
   ogImage: "/atmosphere/og-card.jpg",
 } as const;

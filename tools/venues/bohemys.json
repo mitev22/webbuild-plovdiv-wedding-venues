@@ -497,7 +497,10 @@
   },
   "images": {
     "heroFilm": "/atmosphere/hero-bohemys.webp",
-    "ogImage": "/atmosphere/og-card.jpg"
+    "ogImage": "/atmosphere/og-card.jpg",
+    "wallHall": "/atmosphere/wall-hall.webp",
+    "wallTerrace": "",
+    "wallGarden": "/atmosphere/wall-garden.webp"
   },
-  "photosHarvestedOn": "2026-08-27"
+  "photosHarvestedOn": "2026-08-31 (Google Maps профил, подбрани на ръка)"
 }

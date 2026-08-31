@@ -28,8 +28,8 @@ export const palette = {
 } as const;
 
 export const images = {
-  heroFilm: "",
-  wallGarden: "",
+  heroFilm: "/atmosphere/hero-maps.webp",
+  wallGarden: "/atmosphere/wall-garden.webp",
   wallHall: "",
   wallTerrace: "",
   tableBand: "",

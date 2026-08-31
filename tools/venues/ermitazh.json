@@ -442,5 +442,13 @@
         "atmosphereNote": "atmospheric visualisations, venue photography to be added"
       }
     }
-  }
+  },
+  "images": {
+    "heroFilm": "/atmosphere/hero-maps.webp",
+    "ogImage": "/atmosphere/og-card.jpg",
+    "wallGarden": "/atmosphere/wall-garden.webp",
+    "wallTerrace": "",
+    "wallHall": ""
+  },
+  "photosHarvestedOn": "2026-08-31 (Google Maps профил, подбрани на ръка)"
 }

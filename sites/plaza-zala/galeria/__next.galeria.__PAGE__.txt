@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1_wd58npelxnx.js"],"default"]
+2:I[48610,["/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1fpxxw4346w1w.js","/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1gnrs8agqfppt.js"],"default"]
 3:I[97367,["/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1fpxxw4346w1w.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1_wd58npelxnx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Xh0sxTW2a1iecEm6uhYdY"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"lang":"bg"}],[["$","script","script-0",{"src":"/webbuild-plovdiv-wedding-venues/sites/plaza-zala/_next/static/chunks/1gnrs8agqfppt.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GdjkUR_xqqGCtniPa7nr6"}
 5:null
